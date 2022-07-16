@@ -16,5 +16,31 @@ namespace Tabla_Periodica
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkBox8_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkBox9_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkBox10_CheckedChanged(object sender, EventArgs e)
+        {
+
+
+        }
+
+        private void button88_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
