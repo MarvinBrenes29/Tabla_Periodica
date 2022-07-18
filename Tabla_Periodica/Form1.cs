@@ -47,5 +47,15 @@ namespace Tabla_Periodica
         {
 
         }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_magnesio_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
