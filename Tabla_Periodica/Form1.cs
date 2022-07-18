@@ -57,5 +57,15 @@ namespace Tabla_Periodica
         {
 
         }
+
+        private void label317_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label266_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -130,19 +130,19 @@
             this.label68 = new System.Windows.Forms.Label();
             this.label69 = new System.Windows.Forms.Label();
             this.label70 = new System.Windows.Forms.Label();
-            this.button23 = new System.Windows.Forms.Button();
+            this.btn_hassio = new System.Windows.Forms.Button();
             this.label71 = new System.Windows.Forms.Label();
             this.label72 = new System.Windows.Forms.Label();
             this.label73 = new System.Windows.Forms.Label();
-            this.button24 = new System.Windows.Forms.Button();
+            this.btn_osmio = new System.Windows.Forms.Button();
             this.label74 = new System.Windows.Forms.Label();
             this.label75 = new System.Windows.Forms.Label();
             this.label76 = new System.Windows.Forms.Label();
-            this.button25 = new System.Windows.Forms.Button();
+            this.btn_rutenio = new System.Windows.Forms.Button();
             this.label77 = new System.Windows.Forms.Label();
             this.label78 = new System.Windows.Forms.Label();
             this.label79 = new System.Windows.Forms.Label();
-            this.button26 = new System.Windows.Forms.Button();
+            this.btn_hierro = new System.Windows.Forms.Button();
             this.label80 = new System.Windows.Forms.Label();
             this.label81 = new System.Windows.Forms.Label();
             this.label82 = new System.Windows.Forms.Label();
@@ -194,245 +194,245 @@
             this.label116 = new System.Windows.Forms.Label();
             this.label117 = new System.Windows.Forms.Label();
             this.label118 = new System.Windows.Forms.Label();
-            this.button39 = new System.Windows.Forms.Button();
+            this.btn_copernico = new System.Windows.Forms.Button();
             this.label119 = new System.Windows.Forms.Label();
             this.label120 = new System.Windows.Forms.Label();
             this.label121 = new System.Windows.Forms.Label();
-            this.button40 = new System.Windows.Forms.Button();
+            this.btn_mercurio = new System.Windows.Forms.Button();
             this.label122 = new System.Windows.Forms.Label();
             this.label123 = new System.Windows.Forms.Label();
             this.label124 = new System.Windows.Forms.Label();
-            this.button41 = new System.Windows.Forms.Button();
+            this.btn_cadmio = new System.Windows.Forms.Button();
             this.label125 = new System.Windows.Forms.Label();
             this.label126 = new System.Windows.Forms.Label();
             this.label127 = new System.Windows.Forms.Label();
-            this.button42 = new System.Windows.Forms.Button();
+            this.btn_cinc = new System.Windows.Forms.Button();
             this.label128 = new System.Windows.Forms.Label();
             this.label129 = new System.Windows.Forms.Label();
             this.label130 = new System.Windows.Forms.Label();
-            this.button43 = new System.Windows.Forms.Button();
+            this.btn_roentgenio = new System.Windows.Forms.Button();
             this.label131 = new System.Windows.Forms.Label();
             this.label132 = new System.Windows.Forms.Label();
             this.label133 = new System.Windows.Forms.Label();
-            this.button44 = new System.Windows.Forms.Button();
+            this.btn_oro = new System.Windows.Forms.Button();
             this.label134 = new System.Windows.Forms.Label();
             this.label135 = new System.Windows.Forms.Label();
             this.label136 = new System.Windows.Forms.Label();
-            this.button45 = new System.Windows.Forms.Button();
+            this.btn_plata = new System.Windows.Forms.Button();
             this.label137 = new System.Windows.Forms.Label();
             this.label138 = new System.Windows.Forms.Label();
             this.label139 = new System.Windows.Forms.Label();
-            this.button46 = new System.Windows.Forms.Button();
+            this.btn_cobre = new System.Windows.Forms.Button();
             this.label140 = new System.Windows.Forms.Label();
             this.label141 = new System.Windows.Forms.Label();
             this.label142 = new System.Windows.Forms.Label();
-            this.button47 = new System.Windows.Forms.Button();
+            this.btn_darmstatio = new System.Windows.Forms.Button();
             this.label143 = new System.Windows.Forms.Label();
             this.label144 = new System.Windows.Forms.Label();
             this.label145 = new System.Windows.Forms.Label();
-            this.button48 = new System.Windows.Forms.Button();
+            this.btn_platino = new System.Windows.Forms.Button();
             this.label146 = new System.Windows.Forms.Label();
             this.label147 = new System.Windows.Forms.Label();
             this.label148 = new System.Windows.Forms.Label();
-            this.button49 = new System.Windows.Forms.Button();
+            this.btn_paladio = new System.Windows.Forms.Button();
             this.label149 = new System.Windows.Forms.Label();
             this.label150 = new System.Windows.Forms.Label();
             this.label151 = new System.Windows.Forms.Label();
-            this.button50 = new System.Windows.Forms.Button();
+            this.btn_niquel = new System.Windows.Forms.Button();
             this.label152 = new System.Windows.Forms.Label();
             this.label153 = new System.Windows.Forms.Label();
             this.label154 = new System.Windows.Forms.Label();
-            this.button51 = new System.Windows.Forms.Button();
+            this.btn_meitnerio = new System.Windows.Forms.Button();
             this.label155 = new System.Windows.Forms.Label();
             this.label156 = new System.Windows.Forms.Label();
             this.label157 = new System.Windows.Forms.Label();
-            this.button52 = new System.Windows.Forms.Button();
+            this.btn_iridio = new System.Windows.Forms.Button();
             this.label158 = new System.Windows.Forms.Label();
             this.label159 = new System.Windows.Forms.Label();
             this.label160 = new System.Windows.Forms.Label();
-            this.button53 = new System.Windows.Forms.Button();
+            this.btn_rodio = new System.Windows.Forms.Button();
             this.label161 = new System.Windows.Forms.Label();
             this.label162 = new System.Windows.Forms.Label();
             this.label163 = new System.Windows.Forms.Label();
-            this.button54 = new System.Windows.Forms.Button();
+            this.btn_cobalto = new System.Windows.Forms.Button();
             this.label164 = new System.Windows.Forms.Label();
             this.label165 = new System.Windows.Forms.Label();
             this.label166 = new System.Windows.Forms.Label();
-            this.button55 = new System.Windows.Forms.Button();
+            this.btn_flerovio = new System.Windows.Forms.Button();
             this.label167 = new System.Windows.Forms.Label();
             this.label168 = new System.Windows.Forms.Label();
             this.label169 = new System.Windows.Forms.Label();
-            this.button56 = new System.Windows.Forms.Button();
+            this.btn_plomo = new System.Windows.Forms.Button();
             this.label170 = new System.Windows.Forms.Label();
             this.label171 = new System.Windows.Forms.Label();
             this.label172 = new System.Windows.Forms.Label();
-            this.button57 = new System.Windows.Forms.Button();
+            this.btn_estaño = new System.Windows.Forms.Button();
             this.label173 = new System.Windows.Forms.Label();
             this.label174 = new System.Windows.Forms.Label();
             this.label175 = new System.Windows.Forms.Label();
-            this.button58 = new System.Windows.Forms.Button();
+            this.btn_germanio = new System.Windows.Forms.Button();
             this.label176 = new System.Windows.Forms.Label();
             this.label177 = new System.Windows.Forms.Label();
             this.label178 = new System.Windows.Forms.Label();
-            this.button59 = new System.Windows.Forms.Button();
+            this.btn_silicio = new System.Windows.Forms.Button();
             this.label179 = new System.Windows.Forms.Label();
             this.label180 = new System.Windows.Forms.Label();
             this.label181 = new System.Windows.Forms.Label();
-            this.button60 = new System.Windows.Forms.Button();
+            this.btn_carbono = new System.Windows.Forms.Button();
             this.label182 = new System.Windows.Forms.Label();
             this.label183 = new System.Windows.Forms.Label();
             this.label184 = new System.Windows.Forms.Label();
-            this.button61 = new System.Windows.Forms.Button();
+            this.btn_nihonio = new System.Windows.Forms.Button();
             this.label185 = new System.Windows.Forms.Label();
             this.label186 = new System.Windows.Forms.Label();
             this.label187 = new System.Windows.Forms.Label();
-            this.button62 = new System.Windows.Forms.Button();
+            this.btn_talio = new System.Windows.Forms.Button();
             this.label188 = new System.Windows.Forms.Label();
             this.label189 = new System.Windows.Forms.Label();
             this.label190 = new System.Windows.Forms.Label();
-            this.button63 = new System.Windows.Forms.Button();
+            this.btn_indio = new System.Windows.Forms.Button();
             this.label191 = new System.Windows.Forms.Label();
             this.label192 = new System.Windows.Forms.Label();
             this.label193 = new System.Windows.Forms.Label();
-            this.button64 = new System.Windows.Forms.Button();
+            this.btn_galio = new System.Windows.Forms.Button();
             this.label194 = new System.Windows.Forms.Label();
             this.label195 = new System.Windows.Forms.Label();
             this.label196 = new System.Windows.Forms.Label();
-            this.button65 = new System.Windows.Forms.Button();
+            this.btn_aluminio = new System.Windows.Forms.Button();
             this.label197 = new System.Windows.Forms.Label();
             this.label198 = new System.Windows.Forms.Label();
             this.label199 = new System.Windows.Forms.Label();
-            this.button66 = new System.Windows.Forms.Button();
+            this.btn_boro = new System.Windows.Forms.Button();
             this.label200 = new System.Windows.Forms.Label();
             this.label201 = new System.Windows.Forms.Label();
             this.label202 = new System.Windows.Forms.Label();
-            this.button67 = new System.Windows.Forms.Button();
+            this.btn_livermorio = new System.Windows.Forms.Button();
             this.label203 = new System.Windows.Forms.Label();
             this.label204 = new System.Windows.Forms.Label();
             this.label205 = new System.Windows.Forms.Label();
-            this.button68 = new System.Windows.Forms.Button();
+            this.btn_polonio = new System.Windows.Forms.Button();
             this.label206 = new System.Windows.Forms.Label();
             this.label207 = new System.Windows.Forms.Label();
             this.label208 = new System.Windows.Forms.Label();
-            this.button69 = new System.Windows.Forms.Button();
+            this.btn_teluro = new System.Windows.Forms.Button();
             this.label209 = new System.Windows.Forms.Label();
             this.label210 = new System.Windows.Forms.Label();
             this.label211 = new System.Windows.Forms.Label();
-            this.button70 = new System.Windows.Forms.Button();
+            this.btn_selenio = new System.Windows.Forms.Button();
             this.label212 = new System.Windows.Forms.Label();
             this.label213 = new System.Windows.Forms.Label();
             this.label214 = new System.Windows.Forms.Label();
-            this.button71 = new System.Windows.Forms.Button();
+            this.btn_azufre = new System.Windows.Forms.Button();
             this.label215 = new System.Windows.Forms.Label();
             this.label216 = new System.Windows.Forms.Label();
             this.label217 = new System.Windows.Forms.Label();
-            this.button72 = new System.Windows.Forms.Button();
+            this.btn_oxigeno = new System.Windows.Forms.Button();
             this.label218 = new System.Windows.Forms.Label();
             this.label219 = new System.Windows.Forms.Label();
             this.label220 = new System.Windows.Forms.Label();
-            this.button73 = new System.Windows.Forms.Button();
+            this.btn_moscovio = new System.Windows.Forms.Button();
             this.label221 = new System.Windows.Forms.Label();
             this.label222 = new System.Windows.Forms.Label();
             this.label223 = new System.Windows.Forms.Label();
-            this.button74 = new System.Windows.Forms.Button();
+            this.btn_bismuto = new System.Windows.Forms.Button();
             this.label224 = new System.Windows.Forms.Label();
             this.label225 = new System.Windows.Forms.Label();
             this.label226 = new System.Windows.Forms.Label();
-            this.button75 = new System.Windows.Forms.Button();
+            this.btn_antimonio = new System.Windows.Forms.Button();
             this.label227 = new System.Windows.Forms.Label();
             this.label228 = new System.Windows.Forms.Label();
             this.label229 = new System.Windows.Forms.Label();
-            this.button76 = new System.Windows.Forms.Button();
+            this.btn_arsenico = new System.Windows.Forms.Button();
             this.label230 = new System.Windows.Forms.Label();
             this.label231 = new System.Windows.Forms.Label();
             this.label232 = new System.Windows.Forms.Label();
-            this.button77 = new System.Windows.Forms.Button();
+            this.btn_fosforo = new System.Windows.Forms.Button();
             this.label233 = new System.Windows.Forms.Label();
             this.label234 = new System.Windows.Forms.Label();
             this.label235 = new System.Windows.Forms.Label();
-            this.button78 = new System.Windows.Forms.Button();
+            this.btn_nitrogeno = new System.Windows.Forms.Button();
             this.label236 = new System.Windows.Forms.Label();
             this.label237 = new System.Windows.Forms.Label();
-            this.button79 = new System.Windows.Forms.Button();
+            this.btn_teneso = new System.Windows.Forms.Button();
             this.label238 = new System.Windows.Forms.Label();
             this.label239 = new System.Windows.Forms.Label();
-            this.button80 = new System.Windows.Forms.Button();
+            this.btn_astato = new System.Windows.Forms.Button();
             this.label240 = new System.Windows.Forms.Label();
             this.label241 = new System.Windows.Forms.Label();
-            this.button81 = new System.Windows.Forms.Button();
+            this.btn_yodo = new System.Windows.Forms.Button();
             this.label242 = new System.Windows.Forms.Label();
             this.label243 = new System.Windows.Forms.Label();
-            this.button82 = new System.Windows.Forms.Button();
+            this.btn_bromo = new System.Windows.Forms.Button();
             this.label244 = new System.Windows.Forms.Label();
             this.label245 = new System.Windows.Forms.Label();
-            this.button83 = new System.Windows.Forms.Button();
+            this.btn_cloro = new System.Windows.Forms.Button();
             this.label246 = new System.Windows.Forms.Label();
             this.label247 = new System.Windows.Forms.Label();
-            this.button84 = new System.Windows.Forms.Button();
+            this.btn_fluor = new System.Windows.Forms.Button();
             this.label248 = new System.Windows.Forms.Label();
             this.label249 = new System.Windows.Forms.Label();
             this.label250 = new System.Windows.Forms.Label();
-            this.button85 = new System.Windows.Forms.Button();
+            this.btn_oganeson = new System.Windows.Forms.Button();
             this.label251 = new System.Windows.Forms.Label();
             this.label252 = new System.Windows.Forms.Label();
             this.label253 = new System.Windows.Forms.Label();
-            this.button86 = new System.Windows.Forms.Button();
+            this.btn_radon = new System.Windows.Forms.Button();
             this.label254 = new System.Windows.Forms.Label();
             this.label255 = new System.Windows.Forms.Label();
             this.label256 = new System.Windows.Forms.Label();
-            this.button87 = new System.Windows.Forms.Button();
+            this.btn_xenon = new System.Windows.Forms.Button();
             this.label257 = new System.Windows.Forms.Label();
             this.label258 = new System.Windows.Forms.Label();
             this.label259 = new System.Windows.Forms.Label();
             this.label260 = new System.Windows.Forms.Label();
             this.label261 = new System.Windows.Forms.Label();
             this.label262 = new System.Windows.Forms.Label();
-            this.button89 = new System.Windows.Forms.Button();
+            this.btn_argon = new System.Windows.Forms.Button();
             this.label263 = new System.Windows.Forms.Label();
             this.label264 = new System.Windows.Forms.Label();
             this.label265 = new System.Windows.Forms.Label();
-            this.button90 = new System.Windows.Forms.Button();
+            this.btn_neon = new System.Windows.Forms.Button();
             this.label266 = new System.Windows.Forms.Label();
             this.label267 = new System.Windows.Forms.Label();
             this.label268 = new System.Windows.Forms.Label();
             this.button91 = new System.Windows.Forms.Button();
-            this.button88 = new System.Windows.Forms.Button();
+            this.btn_kripton = new System.Windows.Forms.Button();
             this.label14 = new System.Windows.Forms.Label();
             this.label15 = new System.Windows.Forms.Label();
             this.label16 = new System.Windows.Forms.Label();
-            this.button5 = new System.Windows.Forms.Button();
+            this.btn_iterbio = new System.Windows.Forms.Button();
             this.label269 = new System.Windows.Forms.Label();
             this.label270 = new System.Windows.Forms.Label();
             this.label271 = new System.Windows.Forms.Label();
-            this.button92 = new System.Windows.Forms.Button();
+            this.btn_tulio = new System.Windows.Forms.Button();
             this.label272 = new System.Windows.Forms.Label();
             this.label273 = new System.Windows.Forms.Label();
             this.label274 = new System.Windows.Forms.Label();
-            this.button93 = new System.Windows.Forms.Button();
+            this.btn_erbio = new System.Windows.Forms.Button();
             this.label275 = new System.Windows.Forms.Label();
             this.label276 = new System.Windows.Forms.Label();
             this.label277 = new System.Windows.Forms.Label();
-            this.button94 = new System.Windows.Forms.Button();
+            this.btn_holmio = new System.Windows.Forms.Button();
             this.label278 = new System.Windows.Forms.Label();
             this.label279 = new System.Windows.Forms.Label();
             this.label280 = new System.Windows.Forms.Label();
-            this.button95 = new System.Windows.Forms.Button();
+            this.btn_disprosio = new System.Windows.Forms.Button();
             this.label281 = new System.Windows.Forms.Label();
             this.label282 = new System.Windows.Forms.Label();
             this.label283 = new System.Windows.Forms.Label();
-            this.button96 = new System.Windows.Forms.Button();
+            this.btn_terbio = new System.Windows.Forms.Button();
             this.label284 = new System.Windows.Forms.Label();
             this.label285 = new System.Windows.Forms.Label();
             this.label286 = new System.Windows.Forms.Label();
-            this.button97 = new System.Windows.Forms.Button();
+            this.btn_gadolinio = new System.Windows.Forms.Button();
             this.label287 = new System.Windows.Forms.Label();
             this.label288 = new System.Windows.Forms.Label();
             this.label289 = new System.Windows.Forms.Label();
-            this.button98 = new System.Windows.Forms.Button();
+            this.btn_euripio = new System.Windows.Forms.Button();
             this.label290 = new System.Windows.Forms.Label();
             this.label291 = new System.Windows.Forms.Label();
             this.label292 = new System.Windows.Forms.Label();
-            this.button99 = new System.Windows.Forms.Button();
+            this.btn_samario = new System.Windows.Forms.Button();
             this.label293 = new System.Windows.Forms.Label();
             this.label294 = new System.Windows.Forms.Label();
             this.label295 = new System.Windows.Forms.Label();
@@ -456,39 +456,39 @@
             this.label308 = new System.Windows.Forms.Label();
             this.label309 = new System.Windows.Forms.Label();
             this.label310 = new System.Windows.Forms.Label();
-            this.button105 = new System.Windows.Forms.Button();
+            this.btn_nobelio = new System.Windows.Forms.Button();
             this.label311 = new System.Windows.Forms.Label();
             this.label312 = new System.Windows.Forms.Label();
             this.label313 = new System.Windows.Forms.Label();
-            this.button106 = new System.Windows.Forms.Button();
+            this.btn_mendelevio = new System.Windows.Forms.Button();
             this.label314 = new System.Windows.Forms.Label();
             this.label315 = new System.Windows.Forms.Label();
             this.label316 = new System.Windows.Forms.Label();
-            this.button107 = new System.Windows.Forms.Button();
+            this.btn_fermio = new System.Windows.Forms.Button();
             this.label317 = new System.Windows.Forms.Label();
             this.label318 = new System.Windows.Forms.Label();
             this.label319 = new System.Windows.Forms.Label();
-            this.button108 = new System.Windows.Forms.Button();
+            this.btn_einstenio = new System.Windows.Forms.Button();
             this.label320 = new System.Windows.Forms.Label();
             this.label321 = new System.Windows.Forms.Label();
             this.label322 = new System.Windows.Forms.Label();
-            this.button109 = new System.Windows.Forms.Button();
+            this.btn_californio = new System.Windows.Forms.Button();
             this.label323 = new System.Windows.Forms.Label();
             this.label324 = new System.Windows.Forms.Label();
             this.label325 = new System.Windows.Forms.Label();
-            this.button110 = new System.Windows.Forms.Button();
+            this.btn_berquelio = new System.Windows.Forms.Button();
             this.label326 = new System.Windows.Forms.Label();
             this.label327 = new System.Windows.Forms.Label();
             this.label328 = new System.Windows.Forms.Label();
-            this.button111 = new System.Windows.Forms.Button();
+            this.btn_curio = new System.Windows.Forms.Button();
             this.label329 = new System.Windows.Forms.Label();
             this.label330 = new System.Windows.Forms.Label();
             this.label331 = new System.Windows.Forms.Label();
-            this.button112 = new System.Windows.Forms.Button();
+            this.btn_americio = new System.Windows.Forms.Button();
             this.label332 = new System.Windows.Forms.Label();
             this.label333 = new System.Windows.Forms.Label();
             this.label334 = new System.Windows.Forms.Label();
-            this.button113 = new System.Windows.Forms.Button();
+            this.btn_plutonio = new System.Windows.Forms.Button();
             this.label335 = new System.Windows.Forms.Label();
             this.label336 = new System.Windows.Forms.Label();
             this.label337 = new System.Windows.Forms.Label();
@@ -511,8 +511,8 @@
             this.btn_actinio = new System.Windows.Forms.Button();
             this.label350 = new System.Windows.Forms.Label();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.button119 = new System.Windows.Forms.Button();
-            this.button120 = new System.Windows.Forms.Button();
+            this.btn_aleatorio = new System.Windows.Forms.Button();
+            this.btn_mostrar_reaccion = new System.Windows.Forms.Button();
             this.label351 = new System.Windows.Forms.Label();
             this.label352 = new System.Windows.Forms.Label();
             this.label353 = new System.Windows.Forms.Label();
@@ -524,6 +524,12 @@
             this.comboBox4 = new System.Windows.Forms.ComboBox();
             this.comboBox5 = new System.Windows.Forms.ComboBox();
             this.comboBox6 = new System.Windows.Forms.ComboBox();
+            this.label357 = new System.Windows.Forms.Label();
+            this.label358 = new System.Windows.Forms.Label();
+            this.label359 = new System.Windows.Forms.Label();
+            this.label360 = new System.Windows.Forms.Label();
+            this.label361 = new System.Windows.Forms.Label();
+            this.label362 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -1550,39 +1556,39 @@
             this.label68.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label68.Location = new System.Drawing.Point(583, 390);
             this.label68.Name = "label68";
-            this.label68.Size = new System.Drawing.Size(65, 15);
+            this.label68.Size = new System.Drawing.Size(45, 15);
             this.label68.TabIndex = 166;
-            this.label68.Text = "Hidrógeno";
+            this.label68.Text = "Hassio";
             // 
             // label69
             // 
             this.label69.AutoSize = true;
             this.label69.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label69.Location = new System.Drawing.Point(617, 358);
+            this.label69.Location = new System.Drawing.Point(604, 358);
             this.label69.Name = "label69";
-            this.label69.Size = new System.Drawing.Size(24, 15);
+            this.label69.Size = new System.Drawing.Size(36, 15);
             this.label69.TabIndex = 165;
-            this.label69.Text = "1,0";
+            this.label69.Text = "(277)";
             // 
             // label70
             // 
             this.label70.AutoSize = true;
             this.label70.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label70.Location = new System.Drawing.Point(583, 359);
+            this.label70.Location = new System.Drawing.Point(577, 359);
             this.label70.Name = "label70";
-            this.label70.Size = new System.Drawing.Size(14, 15);
+            this.label70.Size = new System.Drawing.Size(28, 15);
             this.label70.TabIndex = 164;
-            this.label70.Text = "1";
+            this.label70.Text = "108";
             // 
-            // button23
+            // btn_hassio
             // 
-            this.button23.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button23.Location = new System.Drawing.Point(579, 355);
-            this.button23.Name = "button23";
-            this.button23.Size = new System.Drawing.Size(62, 55);
-            this.button23.TabIndex = 163;
-            this.button23.Text = "H";
-            this.button23.UseVisualStyleBackColor = false;
+            this.btn_hassio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_hassio.Location = new System.Drawing.Point(579, 355);
+            this.btn_hassio.Name = "btn_hassio";
+            this.btn_hassio.Size = new System.Drawing.Size(62, 55);
+            this.btn_hassio.TabIndex = 163;
+            this.btn_hassio.Text = "Hs";
+            this.btn_hassio.UseVisualStyleBackColor = false;
             // 
             // label71
             // 
@@ -1590,19 +1596,19 @@
             this.label71.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label71.Location = new System.Drawing.Point(583, 332);
             this.label71.Name = "label71";
-            this.label71.Size = new System.Drawing.Size(65, 15);
+            this.label71.Size = new System.Drawing.Size(43, 15);
             this.label71.TabIndex = 162;
-            this.label71.Text = "Hidrógeno";
+            this.label71.Text = "Osmio";
             // 
             // label72
             // 
             this.label72.AutoSize = true;
             this.label72.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label72.Location = new System.Drawing.Point(617, 300);
+            this.label72.Location = new System.Drawing.Point(600, 300);
             this.label72.Name = "label72";
-            this.label72.Size = new System.Drawing.Size(24, 15);
+            this.label72.Size = new System.Drawing.Size(38, 15);
             this.label72.TabIndex = 161;
-            this.label72.Text = "1,0";
+            this.label72.Text = "190,2";
             // 
             // label73
             // 
@@ -1610,19 +1616,19 @@
             this.label73.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label73.Location = new System.Drawing.Point(583, 301);
             this.label73.Name = "label73";
-            this.label73.Size = new System.Drawing.Size(14, 15);
+            this.label73.Size = new System.Drawing.Size(21, 15);
             this.label73.TabIndex = 160;
-            this.label73.Text = "1";
+            this.label73.Text = "76";
             // 
-            // button24
+            // btn_osmio
             // 
-            this.button24.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button24.Location = new System.Drawing.Point(579, 297);
-            this.button24.Name = "button24";
-            this.button24.Size = new System.Drawing.Size(62, 55);
-            this.button24.TabIndex = 159;
-            this.button24.Text = "H";
-            this.button24.UseVisualStyleBackColor = false;
+            this.btn_osmio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_osmio.Location = new System.Drawing.Point(579, 297);
+            this.btn_osmio.Name = "btn_osmio";
+            this.btn_osmio.Size = new System.Drawing.Size(62, 55);
+            this.btn_osmio.TabIndex = 159;
+            this.btn_osmio.Text = "Os";
+            this.btn_osmio.UseVisualStyleBackColor = false;
             // 
             // label74
             // 
@@ -1630,19 +1636,19 @@
             this.label74.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label74.Location = new System.Drawing.Point(582, 274);
             this.label74.Name = "label74";
-            this.label74.Size = new System.Drawing.Size(65, 15);
+            this.label74.Size = new System.Drawing.Size(50, 15);
             this.label74.TabIndex = 158;
-            this.label74.Text = "Hidrógeno";
+            this.label74.Text = "Rutenio";
             // 
             // label75
             // 
             this.label75.AutoSize = true;
             this.label75.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label75.Location = new System.Drawing.Point(616, 242);
+            this.label75.Location = new System.Drawing.Point(599, 242);
             this.label75.Name = "label75";
-            this.label75.Size = new System.Drawing.Size(24, 15);
+            this.label75.Size = new System.Drawing.Size(38, 15);
             this.label75.TabIndex = 157;
-            this.label75.Text = "1,0";
+            this.label75.Text = "101,1";
             // 
             // label76
             // 
@@ -1650,19 +1656,19 @@
             this.label76.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label76.Location = new System.Drawing.Point(582, 243);
             this.label76.Name = "label76";
-            this.label76.Size = new System.Drawing.Size(14, 15);
+            this.label76.Size = new System.Drawing.Size(21, 15);
             this.label76.TabIndex = 156;
-            this.label76.Text = "1";
+            this.label76.Text = "44";
             // 
-            // button25
+            // btn_rutenio
             // 
-            this.button25.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button25.Location = new System.Drawing.Point(578, 239);
-            this.button25.Name = "button25";
-            this.button25.Size = new System.Drawing.Size(62, 55);
-            this.button25.TabIndex = 155;
-            this.button25.Text = "H";
-            this.button25.UseVisualStyleBackColor = false;
+            this.btn_rutenio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_rutenio.Location = new System.Drawing.Point(578, 239);
+            this.btn_rutenio.Name = "btn_rutenio";
+            this.btn_rutenio.Size = new System.Drawing.Size(62, 55);
+            this.btn_rutenio.TabIndex = 155;
+            this.btn_rutenio.Text = "Ru";
+            this.btn_rutenio.UseVisualStyleBackColor = false;
             // 
             // label77
             // 
@@ -1670,9 +1676,9 @@
             this.label77.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label77.Location = new System.Drawing.Point(582, 216);
             this.label77.Name = "label77";
-            this.label77.Size = new System.Drawing.Size(65, 15);
+            this.label77.Size = new System.Drawing.Size(41, 15);
             this.label77.TabIndex = 154;
-            this.label77.Text = "Hidrógeno";
+            this.label77.Text = "Hierro";
             // 
             // label78
             // 
@@ -1680,9 +1686,9 @@
             this.label78.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label78.Location = new System.Drawing.Point(616, 184);
             this.label78.Name = "label78";
-            this.label78.Size = new System.Drawing.Size(24, 15);
+            this.label78.Size = new System.Drawing.Size(31, 15);
             this.label78.TabIndex = 153;
-            this.label78.Text = "1,0";
+            this.label78.Text = "55,8";
             // 
             // label79
             // 
@@ -1690,19 +1696,19 @@
             this.label79.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label79.Location = new System.Drawing.Point(582, 185);
             this.label79.Name = "label79";
-            this.label79.Size = new System.Drawing.Size(14, 15);
+            this.label79.Size = new System.Drawing.Size(21, 15);
             this.label79.TabIndex = 152;
-            this.label79.Text = "1";
+            this.label79.Text = "26";
             // 
-            // button26
+            // btn_hierro
             // 
-            this.button26.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button26.Location = new System.Drawing.Point(578, 181);
-            this.button26.Name = "button26";
-            this.button26.Size = new System.Drawing.Size(62, 55);
-            this.button26.TabIndex = 151;
-            this.button26.Text = "H";
-            this.button26.UseVisualStyleBackColor = false;
+            this.btn_hierro.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_hierro.Location = new System.Drawing.Point(578, 181);
+            this.btn_hierro.Name = "btn_hierro";
+            this.btn_hierro.Size = new System.Drawing.Size(62, 55);
+            this.btn_hierro.TabIndex = 151;
+            this.btn_hierro.Text = "Fe";
+            this.btn_hierro.UseVisualStyleBackColor = false;
             // 
             // label80
             // 
@@ -2190,19 +2196,19 @@
             this.label116.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label116.Location = new System.Drawing.Point(850, 390);
             this.label116.Name = "label116";
-            this.label116.Size = new System.Drawing.Size(65, 15);
+            this.label116.Size = new System.Drawing.Size(63, 15);
             this.label116.TabIndex = 230;
-            this.label116.Text = "Hidrógeno";
+            this.label116.Text = "Copernico";
             // 
             // label117
             // 
             this.label117.AutoSize = true;
             this.label117.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label117.Location = new System.Drawing.Point(884, 358);
+            this.label117.Location = new System.Drawing.Point(874, 358);
             this.label117.Name = "label117";
-            this.label117.Size = new System.Drawing.Size(24, 15);
+            this.label117.Size = new System.Drawing.Size(36, 15);
             this.label117.TabIndex = 229;
-            this.label117.Text = "1,0";
+            this.label117.Text = "(285)";
             // 
             // label118
             // 
@@ -2210,19 +2216,19 @@
             this.label118.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label118.Location = new System.Drawing.Point(850, 359);
             this.label118.Name = "label118";
-            this.label118.Size = new System.Drawing.Size(14, 15);
+            this.label118.Size = new System.Drawing.Size(28, 15);
             this.label118.TabIndex = 228;
-            this.label118.Text = "1";
+            this.label118.Text = "112";
             // 
-            // button39
+            // btn_copernico
             // 
-            this.button39.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button39.Location = new System.Drawing.Point(846, 355);
-            this.button39.Name = "button39";
-            this.button39.Size = new System.Drawing.Size(62, 55);
-            this.button39.TabIndex = 227;
-            this.button39.Text = "H";
-            this.button39.UseVisualStyleBackColor = false;
+            this.btn_copernico.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_copernico.Location = new System.Drawing.Point(846, 355);
+            this.btn_copernico.Name = "btn_copernico";
+            this.btn_copernico.Size = new System.Drawing.Size(62, 55);
+            this.btn_copernico.TabIndex = 227;
+            this.btn_copernico.Text = "Cn";
+            this.btn_copernico.UseVisualStyleBackColor = false;
             // 
             // label119
             // 
@@ -2230,19 +2236,19 @@
             this.label119.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label119.Location = new System.Drawing.Point(850, 332);
             this.label119.Name = "label119";
-            this.label119.Size = new System.Drawing.Size(65, 15);
+            this.label119.Size = new System.Drawing.Size(56, 15);
             this.label119.TabIndex = 226;
-            this.label119.Text = "Hidrógeno";
+            this.label119.Text = "Mercurio";
             // 
             // label120
             // 
             this.label120.AutoSize = true;
             this.label120.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label120.Location = new System.Drawing.Point(884, 300);
+            this.label120.Location = new System.Drawing.Point(873, 301);
             this.label120.Name = "label120";
-            this.label120.Size = new System.Drawing.Size(24, 15);
+            this.label120.Size = new System.Drawing.Size(38, 15);
             this.label120.TabIndex = 225;
-            this.label120.Text = "1,0";
+            this.label120.Text = "200,6";
             // 
             // label121
             // 
@@ -2250,19 +2256,19 @@
             this.label121.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label121.Location = new System.Drawing.Point(850, 301);
             this.label121.Name = "label121";
-            this.label121.Size = new System.Drawing.Size(14, 15);
+            this.label121.Size = new System.Drawing.Size(21, 15);
             this.label121.TabIndex = 224;
-            this.label121.Text = "1";
+            this.label121.Text = "80";
             // 
-            // button40
+            // btn_mercurio
             // 
-            this.button40.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button40.Location = new System.Drawing.Point(846, 297);
-            this.button40.Name = "button40";
-            this.button40.Size = new System.Drawing.Size(62, 55);
-            this.button40.TabIndex = 223;
-            this.button40.Text = "H";
-            this.button40.UseVisualStyleBackColor = false;
+            this.btn_mercurio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_mercurio.Location = new System.Drawing.Point(846, 297);
+            this.btn_mercurio.Name = "btn_mercurio";
+            this.btn_mercurio.Size = new System.Drawing.Size(62, 55);
+            this.btn_mercurio.TabIndex = 223;
+            this.btn_mercurio.Text = "Hg";
+            this.btn_mercurio.UseVisualStyleBackColor = false;
             // 
             // label122
             // 
@@ -2270,19 +2276,19 @@
             this.label122.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label122.Location = new System.Drawing.Point(849, 274);
             this.label122.Name = "label122";
-            this.label122.Size = new System.Drawing.Size(65, 15);
+            this.label122.Size = new System.Drawing.Size(50, 15);
             this.label122.TabIndex = 222;
-            this.label122.Text = "Hidrógeno";
+            this.label122.Text = "Cadmio";
             // 
             // label123
             // 
             this.label123.AutoSize = true;
             this.label123.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label123.Location = new System.Drawing.Point(883, 242);
+            this.label123.Location = new System.Drawing.Point(870, 244);
             this.label123.Name = "label123";
-            this.label123.Size = new System.Drawing.Size(24, 15);
+            this.label123.Size = new System.Drawing.Size(38, 15);
             this.label123.TabIndex = 221;
-            this.label123.Text = "1,0";
+            this.label123.Text = "112,4";
             // 
             // label124
             // 
@@ -2290,19 +2296,19 @@
             this.label124.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label124.Location = new System.Drawing.Point(849, 243);
             this.label124.Name = "label124";
-            this.label124.Size = new System.Drawing.Size(14, 15);
+            this.label124.Size = new System.Drawing.Size(21, 15);
             this.label124.TabIndex = 220;
-            this.label124.Text = "1";
+            this.label124.Text = "48";
             // 
-            // button41
+            // btn_cadmio
             // 
-            this.button41.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button41.Location = new System.Drawing.Point(845, 239);
-            this.button41.Name = "button41";
-            this.button41.Size = new System.Drawing.Size(62, 55);
-            this.button41.TabIndex = 219;
-            this.button41.Text = "H";
-            this.button41.UseVisualStyleBackColor = false;
+            this.btn_cadmio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_cadmio.Location = new System.Drawing.Point(845, 239);
+            this.btn_cadmio.Name = "btn_cadmio";
+            this.btn_cadmio.Size = new System.Drawing.Size(62, 55);
+            this.btn_cadmio.TabIndex = 219;
+            this.btn_cadmio.Text = "Cd";
+            this.btn_cadmio.UseVisualStyleBackColor = false;
             // 
             // label125
             // 
@@ -2310,9 +2316,9 @@
             this.label125.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label125.Location = new System.Drawing.Point(849, 216);
             this.label125.Name = "label125";
-            this.label125.Size = new System.Drawing.Size(65, 15);
+            this.label125.Size = new System.Drawing.Size(31, 15);
             this.label125.TabIndex = 218;
-            this.label125.Text = "Hidrógeno";
+            this.label125.Text = "Cinc";
             // 
             // label126
             // 
@@ -2320,9 +2326,9 @@
             this.label126.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label126.Location = new System.Drawing.Point(883, 184);
             this.label126.Name = "label126";
-            this.label126.Size = new System.Drawing.Size(24, 15);
+            this.label126.Size = new System.Drawing.Size(31, 15);
             this.label126.TabIndex = 217;
-            this.label126.Text = "1,0";
+            this.label126.Text = "65,4";
             // 
             // label127
             // 
@@ -2330,39 +2336,39 @@
             this.label127.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label127.Location = new System.Drawing.Point(849, 185);
             this.label127.Name = "label127";
-            this.label127.Size = new System.Drawing.Size(14, 15);
+            this.label127.Size = new System.Drawing.Size(21, 15);
             this.label127.TabIndex = 216;
-            this.label127.Text = "1";
+            this.label127.Text = "30";
             // 
-            // button42
+            // btn_cinc
             // 
-            this.button42.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button42.Location = new System.Drawing.Point(845, 181);
-            this.button42.Name = "button42";
-            this.button42.Size = new System.Drawing.Size(62, 55);
-            this.button42.TabIndex = 215;
-            this.button42.Text = "H";
-            this.button42.UseVisualStyleBackColor = false;
+            this.btn_cinc.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_cinc.Location = new System.Drawing.Point(845, 181);
+            this.btn_cinc.Name = "btn_cinc";
+            this.btn_cinc.Size = new System.Drawing.Size(62, 55);
+            this.btn_cinc.TabIndex = 215;
+            this.btn_cinc.Text = "Zn";
+            this.btn_cinc.UseVisualStyleBackColor = false;
             // 
             // label128
             // 
             this.label128.AutoSize = true;
             this.label128.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label128.Location = new System.Drawing.Point(782, 390);
+            this.label128.Location = new System.Drawing.Point(774, 390);
             this.label128.Name = "label128";
-            this.label128.Size = new System.Drawing.Size(65, 15);
+            this.label128.Size = new System.Drawing.Size(71, 15);
             this.label128.TabIndex = 214;
-            this.label128.Text = "Hidrógeno";
+            this.label128.Text = "Roentgenio";
             // 
             // label129
             // 
             this.label129.AutoSize = true;
             this.label129.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label129.Location = new System.Drawing.Point(816, 358);
+            this.label129.Location = new System.Drawing.Point(807, 358);
             this.label129.Name = "label129";
-            this.label129.Size = new System.Drawing.Size(24, 15);
+            this.label129.Size = new System.Drawing.Size(36, 15);
             this.label129.TabIndex = 213;
-            this.label129.Text = "1,0";
+            this.label129.Text = "(272)";
             // 
             // label130
             // 
@@ -2370,19 +2376,19 @@
             this.label130.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label130.Location = new System.Drawing.Point(782, 359);
             this.label130.Name = "label130";
-            this.label130.Size = new System.Drawing.Size(14, 15);
+            this.label130.Size = new System.Drawing.Size(21, 15);
             this.label130.TabIndex = 212;
-            this.label130.Text = "1";
+            this.label130.Text = "11";
             // 
-            // button43
+            // btn_roentgenio
             // 
-            this.button43.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button43.Location = new System.Drawing.Point(778, 355);
-            this.button43.Name = "button43";
-            this.button43.Size = new System.Drawing.Size(62, 55);
-            this.button43.TabIndex = 211;
-            this.button43.Text = "H";
-            this.button43.UseVisualStyleBackColor = false;
+            this.btn_roentgenio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_roentgenio.Location = new System.Drawing.Point(778, 355);
+            this.btn_roentgenio.Name = "btn_roentgenio";
+            this.btn_roentgenio.Size = new System.Drawing.Size(62, 55);
+            this.btn_roentgenio.TabIndex = 211;
+            this.btn_roentgenio.Text = "Rg";
+            this.btn_roentgenio.UseVisualStyleBackColor = false;
             // 
             // label131
             // 
@@ -2390,19 +2396,19 @@
             this.label131.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label131.Location = new System.Drawing.Point(782, 332);
             this.label131.Name = "label131";
-            this.label131.Size = new System.Drawing.Size(65, 15);
+            this.label131.Size = new System.Drawing.Size(27, 15);
             this.label131.TabIndex = 210;
-            this.label131.Text = "Hidrógeno";
+            this.label131.Text = "Oro";
             // 
             // label132
             // 
             this.label132.AutoSize = true;
             this.label132.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label132.Location = new System.Drawing.Point(816, 300);
+            this.label132.Location = new System.Drawing.Point(803, 300);
             this.label132.Name = "label132";
-            this.label132.Size = new System.Drawing.Size(24, 15);
+            this.label132.Size = new System.Drawing.Size(38, 15);
             this.label132.TabIndex = 209;
-            this.label132.Text = "1,0";
+            this.label132.Text = "197,0";
             // 
             // label133
             // 
@@ -2410,19 +2416,19 @@
             this.label133.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label133.Location = new System.Drawing.Point(782, 301);
             this.label133.Name = "label133";
-            this.label133.Size = new System.Drawing.Size(14, 15);
+            this.label133.Size = new System.Drawing.Size(21, 15);
             this.label133.TabIndex = 208;
-            this.label133.Text = "1";
+            this.label133.Text = "79";
             // 
-            // button44
+            // btn_oro
             // 
-            this.button44.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button44.Location = new System.Drawing.Point(778, 297);
-            this.button44.Name = "button44";
-            this.button44.Size = new System.Drawing.Size(62, 55);
-            this.button44.TabIndex = 207;
-            this.button44.Text = "H";
-            this.button44.UseVisualStyleBackColor = false;
+            this.btn_oro.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_oro.Location = new System.Drawing.Point(778, 297);
+            this.btn_oro.Name = "btn_oro";
+            this.btn_oro.Size = new System.Drawing.Size(62, 55);
+            this.btn_oro.TabIndex = 207;
+            this.btn_oro.Text = "Au";
+            this.btn_oro.UseVisualStyleBackColor = false;
             // 
             // label134
             // 
@@ -2430,19 +2436,19 @@
             this.label134.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label134.Location = new System.Drawing.Point(781, 274);
             this.label134.Name = "label134";
-            this.label134.Size = new System.Drawing.Size(65, 15);
+            this.label134.Size = new System.Drawing.Size(35, 15);
             this.label134.TabIndex = 206;
-            this.label134.Text = "Hidrógeno";
+            this.label134.Text = "Plata";
             // 
             // label135
             // 
             this.label135.AutoSize = true;
             this.label135.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label135.Location = new System.Drawing.Point(815, 242);
+            this.label135.Location = new System.Drawing.Point(802, 242);
             this.label135.Name = "label135";
-            this.label135.Size = new System.Drawing.Size(24, 15);
+            this.label135.Size = new System.Drawing.Size(38, 15);
             this.label135.TabIndex = 205;
-            this.label135.Text = "1,0";
+            this.label135.Text = "107,9";
             // 
             // label136
             // 
@@ -2450,19 +2456,19 @@
             this.label136.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label136.Location = new System.Drawing.Point(781, 243);
             this.label136.Name = "label136";
-            this.label136.Size = new System.Drawing.Size(14, 15);
+            this.label136.Size = new System.Drawing.Size(21, 15);
             this.label136.TabIndex = 204;
-            this.label136.Text = "1";
+            this.label136.Text = "47";
             // 
-            // button45
+            // btn_plata
             // 
-            this.button45.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button45.Location = new System.Drawing.Point(777, 239);
-            this.button45.Name = "button45";
-            this.button45.Size = new System.Drawing.Size(62, 55);
-            this.button45.TabIndex = 203;
-            this.button45.Text = "H";
-            this.button45.UseVisualStyleBackColor = false;
+            this.btn_plata.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_plata.Location = new System.Drawing.Point(777, 239);
+            this.btn_plata.Name = "btn_plata";
+            this.btn_plata.Size = new System.Drawing.Size(62, 55);
+            this.btn_plata.TabIndex = 203;
+            this.btn_plata.Text = "Ag";
+            this.btn_plata.UseVisualStyleBackColor = false;
             // 
             // label137
             // 
@@ -2470,9 +2476,9 @@
             this.label137.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label137.Location = new System.Drawing.Point(781, 216);
             this.label137.Name = "label137";
-            this.label137.Size = new System.Drawing.Size(65, 15);
+            this.label137.Size = new System.Drawing.Size(40, 15);
             this.label137.TabIndex = 202;
-            this.label137.Text = "Hidrógeno";
+            this.label137.Text = "Cobre";
             // 
             // label138
             // 
@@ -2480,9 +2486,9 @@
             this.label138.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label138.Location = new System.Drawing.Point(815, 184);
             this.label138.Name = "label138";
-            this.label138.Size = new System.Drawing.Size(24, 15);
+            this.label138.Size = new System.Drawing.Size(31, 15);
             this.label138.TabIndex = 201;
-            this.label138.Text = "1,0";
+            this.label138.Text = "63,5";
             // 
             // label139
             // 
@@ -2490,19 +2496,19 @@
             this.label139.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label139.Location = new System.Drawing.Point(781, 185);
             this.label139.Name = "label139";
-            this.label139.Size = new System.Drawing.Size(14, 15);
+            this.label139.Size = new System.Drawing.Size(21, 15);
             this.label139.TabIndex = 200;
-            this.label139.Text = "1";
+            this.label139.Text = "29";
             // 
-            // button46
+            // btn_cobre
             // 
-            this.button46.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button46.Location = new System.Drawing.Point(777, 181);
-            this.button46.Name = "button46";
-            this.button46.Size = new System.Drawing.Size(62, 55);
-            this.button46.TabIndex = 199;
-            this.button46.Text = "H";
-            this.button46.UseVisualStyleBackColor = false;
+            this.btn_cobre.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_cobre.Location = new System.Drawing.Point(777, 181);
+            this.btn_cobre.Name = "btn_cobre";
+            this.btn_cobre.Size = new System.Drawing.Size(62, 55);
+            this.btn_cobre.TabIndex = 199;
+            this.btn_cobre.Text = "Cu";
+            this.btn_cobre.UseVisualStyleBackColor = false;
             // 
             // label140
             // 
@@ -2510,19 +2516,19 @@
             this.label140.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label140.Location = new System.Drawing.Point(716, 390);
             this.label140.Name = "label140";
-            this.label140.Size = new System.Drawing.Size(65, 15);
+            this.label140.Size = new System.Drawing.Size(67, 15);
             this.label140.TabIndex = 198;
-            this.label140.Text = "Hidrógeno";
+            this.label140.Text = "Darmstatio";
             // 
             // label141
             // 
             this.label141.AutoSize = true;
             this.label141.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label141.Location = new System.Drawing.Point(750, 358);
+            this.label141.Location = new System.Drawing.Point(741, 358);
             this.label141.Name = "label141";
-            this.label141.Size = new System.Drawing.Size(24, 15);
+            this.label141.Size = new System.Drawing.Size(36, 15);
             this.label141.TabIndex = 197;
-            this.label141.Text = "1,0";
+            this.label141.Text = "(271)";
             // 
             // label142
             // 
@@ -2530,19 +2536,19 @@
             this.label142.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label142.Location = new System.Drawing.Point(716, 359);
             this.label142.Name = "label142";
-            this.label142.Size = new System.Drawing.Size(14, 15);
+            this.label142.Size = new System.Drawing.Size(28, 15);
             this.label142.TabIndex = 196;
-            this.label142.Text = "1";
+            this.label142.Text = "110";
             // 
-            // button47
+            // btn_darmstatio
             // 
-            this.button47.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button47.Location = new System.Drawing.Point(712, 355);
-            this.button47.Name = "button47";
-            this.button47.Size = new System.Drawing.Size(62, 55);
-            this.button47.TabIndex = 195;
-            this.button47.Text = "H";
-            this.button47.UseVisualStyleBackColor = false;
+            this.btn_darmstatio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_darmstatio.Location = new System.Drawing.Point(712, 355);
+            this.btn_darmstatio.Name = "btn_darmstatio";
+            this.btn_darmstatio.Size = new System.Drawing.Size(62, 55);
+            this.btn_darmstatio.TabIndex = 195;
+            this.btn_darmstatio.Text = "Ds";
+            this.btn_darmstatio.UseVisualStyleBackColor = false;
             // 
             // label143
             // 
@@ -2550,9 +2556,9 @@
             this.label143.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label143.Location = new System.Drawing.Point(716, 332);
             this.label143.Name = "label143";
-            this.label143.Size = new System.Drawing.Size(65, 15);
+            this.label143.Size = new System.Drawing.Size(45, 15);
             this.label143.TabIndex = 194;
-            this.label143.Text = "Hidrógeno";
+            this.label143.Text = "Platino";
             // 
             // label144
             // 
@@ -2560,9 +2566,9 @@
             this.label144.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label144.Location = new System.Drawing.Point(750, 300);
             this.label144.Name = "label144";
-            this.label144.Size = new System.Drawing.Size(24, 15);
+            this.label144.Size = new System.Drawing.Size(38, 15);
             this.label144.TabIndex = 193;
-            this.label144.Text = "1,0";
+            this.label144.Text = "195,1";
             // 
             // label145
             // 
@@ -2570,19 +2576,19 @@
             this.label145.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label145.Location = new System.Drawing.Point(716, 301);
             this.label145.Name = "label145";
-            this.label145.Size = new System.Drawing.Size(14, 15);
+            this.label145.Size = new System.Drawing.Size(21, 15);
             this.label145.TabIndex = 192;
-            this.label145.Text = "1";
+            this.label145.Text = "78";
             // 
-            // button48
+            // btn_platino
             // 
-            this.button48.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button48.Location = new System.Drawing.Point(712, 297);
-            this.button48.Name = "button48";
-            this.button48.Size = new System.Drawing.Size(62, 55);
-            this.button48.TabIndex = 191;
-            this.button48.Text = "H";
-            this.button48.UseVisualStyleBackColor = false;
+            this.btn_platino.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_platino.Location = new System.Drawing.Point(712, 297);
+            this.btn_platino.Name = "btn_platino";
+            this.btn_platino.Size = new System.Drawing.Size(62, 55);
+            this.btn_platino.TabIndex = 191;
+            this.btn_platino.Text = "Pt";
+            this.btn_platino.UseVisualStyleBackColor = false;
             // 
             // label146
             // 
@@ -2590,9 +2596,9 @@
             this.label146.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label146.Location = new System.Drawing.Point(715, 274);
             this.label146.Name = "label146";
-            this.label146.Size = new System.Drawing.Size(65, 15);
+            this.label146.Size = new System.Drawing.Size(49, 15);
             this.label146.TabIndex = 190;
-            this.label146.Text = "Hidrógeno";
+            this.label146.Text = "Paladio";
             // 
             // label147
             // 
@@ -2600,9 +2606,9 @@
             this.label147.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label147.Location = new System.Drawing.Point(749, 242);
             this.label147.Name = "label147";
-            this.label147.Size = new System.Drawing.Size(24, 15);
+            this.label147.Size = new System.Drawing.Size(38, 15);
             this.label147.TabIndex = 189;
-            this.label147.Text = "1,0";
+            this.label147.Text = "106,4";
             // 
             // label148
             // 
@@ -2610,19 +2616,19 @@
             this.label148.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label148.Location = new System.Drawing.Point(715, 243);
             this.label148.Name = "label148";
-            this.label148.Size = new System.Drawing.Size(14, 15);
+            this.label148.Size = new System.Drawing.Size(21, 15);
             this.label148.TabIndex = 188;
-            this.label148.Text = "1";
+            this.label148.Text = "46";
             // 
-            // button49
+            // btn_paladio
             // 
-            this.button49.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button49.Location = new System.Drawing.Point(711, 239);
-            this.button49.Name = "button49";
-            this.button49.Size = new System.Drawing.Size(62, 55);
-            this.button49.TabIndex = 187;
-            this.button49.Text = "H";
-            this.button49.UseVisualStyleBackColor = false;
+            this.btn_paladio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_paladio.Location = new System.Drawing.Point(711, 239);
+            this.btn_paladio.Name = "btn_paladio";
+            this.btn_paladio.Size = new System.Drawing.Size(62, 55);
+            this.btn_paladio.TabIndex = 187;
+            this.btn_paladio.Text = "Pd";
+            this.btn_paladio.UseVisualStyleBackColor = false;
             // 
             // label149
             // 
@@ -2630,9 +2636,9 @@
             this.label149.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label149.Location = new System.Drawing.Point(715, 216);
             this.label149.Name = "label149";
-            this.label149.Size = new System.Drawing.Size(65, 15);
+            this.label149.Size = new System.Drawing.Size(43, 15);
             this.label149.TabIndex = 186;
-            this.label149.Text = "Hidrógeno";
+            this.label149.Text = "Níquel";
             // 
             // label150
             // 
@@ -2640,9 +2646,9 @@
             this.label150.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label150.Location = new System.Drawing.Point(749, 184);
             this.label150.Name = "label150";
-            this.label150.Size = new System.Drawing.Size(24, 15);
+            this.label150.Size = new System.Drawing.Size(31, 15);
             this.label150.TabIndex = 185;
-            this.label150.Text = "1,0";
+            this.label150.Text = "58,7";
             // 
             // label151
             // 
@@ -2650,19 +2656,19 @@
             this.label151.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label151.Location = new System.Drawing.Point(715, 185);
             this.label151.Name = "label151";
-            this.label151.Size = new System.Drawing.Size(14, 15);
+            this.label151.Size = new System.Drawing.Size(21, 15);
             this.label151.TabIndex = 184;
-            this.label151.Text = "1";
+            this.label151.Text = "28";
             // 
-            // button50
+            // btn_niquel
             // 
-            this.button50.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button50.Location = new System.Drawing.Point(711, 181);
-            this.button50.Name = "button50";
-            this.button50.Size = new System.Drawing.Size(62, 55);
-            this.button50.TabIndex = 183;
-            this.button50.Text = "H";
-            this.button50.UseVisualStyleBackColor = false;
+            this.btn_niquel.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_niquel.Location = new System.Drawing.Point(711, 181);
+            this.btn_niquel.Name = "btn_niquel";
+            this.btn_niquel.Size = new System.Drawing.Size(62, 55);
+            this.btn_niquel.TabIndex = 183;
+            this.btn_niquel.Text = "Ni";
+            this.btn_niquel.UseVisualStyleBackColor = false;
             // 
             // label152
             // 
@@ -2670,39 +2676,39 @@
             this.label152.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label152.Location = new System.Drawing.Point(648, 390);
             this.label152.Name = "label152";
-            this.label152.Size = new System.Drawing.Size(65, 15);
+            this.label152.Size = new System.Drawing.Size(59, 15);
             this.label152.TabIndex = 182;
-            this.label152.Text = "Hidrógeno";
+            this.label152.Text = "Meitnerio";
             // 
             // label153
             // 
             this.label153.AutoSize = true;
             this.label153.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label153.Location = new System.Drawing.Point(682, 358);
+            this.label153.Location = new System.Drawing.Point(669, 359);
             this.label153.Name = "label153";
-            this.label153.Size = new System.Drawing.Size(24, 15);
+            this.label153.Size = new System.Drawing.Size(36, 15);
             this.label153.TabIndex = 181;
-            this.label153.Text = "1,0";
+            this.label153.Text = "(268)";
             // 
             // label154
             // 
             this.label154.AutoSize = true;
             this.label154.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label154.Location = new System.Drawing.Point(648, 359);
+            this.label154.Location = new System.Drawing.Point(643, 359);
             this.label154.Name = "label154";
-            this.label154.Size = new System.Drawing.Size(14, 15);
+            this.label154.Size = new System.Drawing.Size(28, 15);
             this.label154.TabIndex = 180;
-            this.label154.Text = "1";
+            this.label154.Text = "109";
             // 
-            // button51
+            // btn_meitnerio
             // 
-            this.button51.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button51.Location = new System.Drawing.Point(644, 355);
-            this.button51.Name = "button51";
-            this.button51.Size = new System.Drawing.Size(62, 55);
-            this.button51.TabIndex = 179;
-            this.button51.Text = "H";
-            this.button51.UseVisualStyleBackColor = false;
+            this.btn_meitnerio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_meitnerio.Location = new System.Drawing.Point(644, 355);
+            this.btn_meitnerio.Name = "btn_meitnerio";
+            this.btn_meitnerio.Size = new System.Drawing.Size(62, 55);
+            this.btn_meitnerio.TabIndex = 179;
+            this.btn_meitnerio.Text = "Mt";
+            this.btn_meitnerio.UseVisualStyleBackColor = false;
             // 
             // label155
             // 
@@ -2710,19 +2716,19 @@
             this.label155.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label155.Location = new System.Drawing.Point(648, 332);
             this.label155.Name = "label155";
-            this.label155.Size = new System.Drawing.Size(65, 15);
+            this.label155.Size = new System.Drawing.Size(34, 15);
             this.label155.TabIndex = 178;
-            this.label155.Text = "Hidrógeno";
+            this.label155.Text = "Iridio";
             // 
             // label156
             // 
             this.label156.AutoSize = true;
             this.label156.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label156.Location = new System.Drawing.Point(682, 300);
+            this.label156.Location = new System.Drawing.Point(666, 300);
             this.label156.Name = "label156";
-            this.label156.Size = new System.Drawing.Size(24, 15);
+            this.label156.Size = new System.Drawing.Size(38, 15);
             this.label156.TabIndex = 177;
-            this.label156.Text = "1,0";
+            this.label156.Text = "192,2";
             // 
             // label157
             // 
@@ -2730,19 +2736,19 @@
             this.label157.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label157.Location = new System.Drawing.Point(648, 301);
             this.label157.Name = "label157";
-            this.label157.Size = new System.Drawing.Size(14, 15);
+            this.label157.Size = new System.Drawing.Size(21, 15);
             this.label157.TabIndex = 176;
-            this.label157.Text = "1";
+            this.label157.Text = "77";
             // 
-            // button52
+            // btn_iridio
             // 
-            this.button52.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button52.Location = new System.Drawing.Point(644, 297);
-            this.button52.Name = "button52";
-            this.button52.Size = new System.Drawing.Size(62, 55);
-            this.button52.TabIndex = 175;
-            this.button52.Text = "H";
-            this.button52.UseVisualStyleBackColor = false;
+            this.btn_iridio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_iridio.Location = new System.Drawing.Point(644, 297);
+            this.btn_iridio.Name = "btn_iridio";
+            this.btn_iridio.Size = new System.Drawing.Size(62, 55);
+            this.btn_iridio.TabIndex = 175;
+            this.btn_iridio.Text = "Ir";
+            this.btn_iridio.UseVisualStyleBackColor = false;
             // 
             // label158
             // 
@@ -2750,19 +2756,19 @@
             this.label158.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label158.Location = new System.Drawing.Point(647, 274);
             this.label158.Name = "label158";
-            this.label158.Size = new System.Drawing.Size(65, 15);
+            this.label158.Size = new System.Drawing.Size(40, 15);
             this.label158.TabIndex = 174;
-            this.label158.Text = "Hidrógeno";
+            this.label158.Text = "Rodio";
             // 
             // label159
             // 
             this.label159.AutoSize = true;
             this.label159.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label159.Location = new System.Drawing.Point(681, 242);
+            this.label159.Location = new System.Drawing.Point(665, 242);
             this.label159.Name = "label159";
-            this.label159.Size = new System.Drawing.Size(24, 15);
+            this.label159.Size = new System.Drawing.Size(38, 15);
             this.label159.TabIndex = 173;
-            this.label159.Text = "1,0";
+            this.label159.Text = "102,9";
             // 
             // label160
             // 
@@ -2770,19 +2776,19 @@
             this.label160.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label160.Location = new System.Drawing.Point(647, 243);
             this.label160.Name = "label160";
-            this.label160.Size = new System.Drawing.Size(14, 15);
+            this.label160.Size = new System.Drawing.Size(21, 15);
             this.label160.TabIndex = 172;
-            this.label160.Text = "1";
+            this.label160.Text = "45";
             // 
-            // button53
+            // btn_rodio
             // 
-            this.button53.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button53.Location = new System.Drawing.Point(643, 239);
-            this.button53.Name = "button53";
-            this.button53.Size = new System.Drawing.Size(62, 55);
-            this.button53.TabIndex = 171;
-            this.button53.Text = "H";
-            this.button53.UseVisualStyleBackColor = false;
+            this.btn_rodio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_rodio.Location = new System.Drawing.Point(643, 239);
+            this.btn_rodio.Name = "btn_rodio";
+            this.btn_rodio.Size = new System.Drawing.Size(62, 55);
+            this.btn_rodio.TabIndex = 171;
+            this.btn_rodio.Text = "Rh";
+            this.btn_rodio.UseVisualStyleBackColor = false;
             // 
             // label161
             // 
@@ -2790,9 +2796,9 @@
             this.label161.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label161.Location = new System.Drawing.Point(647, 216);
             this.label161.Name = "label161";
-            this.label161.Size = new System.Drawing.Size(65, 15);
+            this.label161.Size = new System.Drawing.Size(49, 15);
             this.label161.TabIndex = 170;
-            this.label161.Text = "Hidrógeno";
+            this.label161.Text = "Cobalto";
             // 
             // label162
             // 
@@ -2800,9 +2806,9 @@
             this.label162.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label162.Location = new System.Drawing.Point(681, 184);
             this.label162.Name = "label162";
-            this.label162.Size = new System.Drawing.Size(24, 15);
+            this.label162.Size = new System.Drawing.Size(31, 15);
             this.label162.TabIndex = 169;
-            this.label162.Text = "1,0";
+            this.label162.Text = "58,9";
             // 
             // label163
             // 
@@ -2810,19 +2816,19 @@
             this.label163.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label163.Location = new System.Drawing.Point(647, 185);
             this.label163.Name = "label163";
-            this.label163.Size = new System.Drawing.Size(14, 15);
+            this.label163.Size = new System.Drawing.Size(21, 15);
             this.label163.TabIndex = 168;
-            this.label163.Text = "1";
+            this.label163.Text = "27";
             // 
-            // button54
+            // btn_cobalto
             // 
-            this.button54.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button54.Location = new System.Drawing.Point(643, 181);
-            this.button54.Name = "button54";
-            this.button54.Size = new System.Drawing.Size(62, 55);
-            this.button54.TabIndex = 167;
-            this.button54.Text = "H";
-            this.button54.UseVisualStyleBackColor = false;
+            this.btn_cobalto.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_cobalto.Location = new System.Drawing.Point(643, 181);
+            this.btn_cobalto.Name = "btn_cobalto";
+            this.btn_cobalto.Size = new System.Drawing.Size(62, 55);
+            this.btn_cobalto.TabIndex = 167;
+            this.btn_cobalto.Text = "Co";
+            this.btn_cobalto.UseVisualStyleBackColor = false;
             // 
             // label164
             // 
@@ -2830,9 +2836,9 @@
             this.label164.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label164.Location = new System.Drawing.Point(986, 390);
             this.label164.Name = "label164";
-            this.label164.Size = new System.Drawing.Size(65, 15);
+            this.label164.Size = new System.Drawing.Size(50, 15);
             this.label164.TabIndex = 278;
-            this.label164.Text = "Hidrógeno";
+            this.label164.Text = "Flerovio";
             // 
             // label165
             // 
@@ -2840,9 +2846,9 @@
             this.label165.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label165.Location = new System.Drawing.Point(1020, 358);
             this.label165.Name = "label165";
-            this.label165.Size = new System.Drawing.Size(24, 15);
+            this.label165.Size = new System.Drawing.Size(36, 15);
             this.label165.TabIndex = 277;
-            this.label165.Text = "1,0";
+            this.label165.Text = "(289)";
             // 
             // label166
             // 
@@ -2850,19 +2856,19 @@
             this.label166.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label166.Location = new System.Drawing.Point(986, 359);
             this.label166.Name = "label166";
-            this.label166.Size = new System.Drawing.Size(14, 15);
+            this.label166.Size = new System.Drawing.Size(28, 15);
             this.label166.TabIndex = 276;
-            this.label166.Text = "1";
+            this.label166.Text = "114";
             // 
-            // button55
+            // btn_flerovio
             // 
-            this.button55.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button55.Location = new System.Drawing.Point(982, 355);
-            this.button55.Name = "button55";
-            this.button55.Size = new System.Drawing.Size(62, 55);
-            this.button55.TabIndex = 275;
-            this.button55.Text = "H";
-            this.button55.UseVisualStyleBackColor = false;
+            this.btn_flerovio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_flerovio.Location = new System.Drawing.Point(982, 355);
+            this.btn_flerovio.Name = "btn_flerovio";
+            this.btn_flerovio.Size = new System.Drawing.Size(62, 55);
+            this.btn_flerovio.TabIndex = 275;
+            this.btn_flerovio.Text = "Fl";
+            this.btn_flerovio.UseVisualStyleBackColor = false;
             // 
             // label167
             // 
@@ -2870,19 +2876,19 @@
             this.label167.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label167.Location = new System.Drawing.Point(986, 332);
             this.label167.Name = "label167";
-            this.label167.Size = new System.Drawing.Size(65, 15);
+            this.label167.Size = new System.Drawing.Size(43, 15);
             this.label167.TabIndex = 274;
-            this.label167.Text = "Hidrógeno";
+            this.label167.Text = "Plomo";
             // 
             // label168
             // 
             this.label168.AutoSize = true;
             this.label168.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label168.Location = new System.Drawing.Point(1020, 300);
+            this.label168.Location = new System.Drawing.Point(1009, 300);
             this.label168.Name = "label168";
-            this.label168.Size = new System.Drawing.Size(24, 15);
+            this.label168.Size = new System.Drawing.Size(38, 15);
             this.label168.TabIndex = 273;
-            this.label168.Text = "1,0";
+            this.label168.Text = "207,2";
             // 
             // label169
             // 
@@ -2890,19 +2896,19 @@
             this.label169.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label169.Location = new System.Drawing.Point(986, 301);
             this.label169.Name = "label169";
-            this.label169.Size = new System.Drawing.Size(14, 15);
+            this.label169.Size = new System.Drawing.Size(21, 15);
             this.label169.TabIndex = 272;
-            this.label169.Text = "1";
+            this.label169.Text = "82";
             // 
-            // button56
+            // btn_plomo
             // 
-            this.button56.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button56.Location = new System.Drawing.Point(982, 297);
-            this.button56.Name = "button56";
-            this.button56.Size = new System.Drawing.Size(62, 55);
-            this.button56.TabIndex = 271;
-            this.button56.Text = "H";
-            this.button56.UseVisualStyleBackColor = false;
+            this.btn_plomo.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_plomo.Location = new System.Drawing.Point(982, 297);
+            this.btn_plomo.Name = "btn_plomo";
+            this.btn_plomo.Size = new System.Drawing.Size(62, 55);
+            this.btn_plomo.TabIndex = 271;
+            this.btn_plomo.Text = "Pb";
+            this.btn_plomo.UseVisualStyleBackColor = false;
             // 
             // label170
             // 
@@ -2910,19 +2916,19 @@
             this.label170.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label170.Location = new System.Drawing.Point(985, 274);
             this.label170.Name = "label170";
-            this.label170.Size = new System.Drawing.Size(65, 15);
+            this.label170.Size = new System.Drawing.Size(45, 15);
             this.label170.TabIndex = 270;
-            this.label170.Text = "Hidrógeno";
+            this.label170.Text = "Estaño";
             // 
             // label171
             // 
             this.label171.AutoSize = true;
             this.label171.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label171.Location = new System.Drawing.Point(1019, 242);
+            this.label171.Location = new System.Drawing.Point(1003, 242);
             this.label171.Name = "label171";
-            this.label171.Size = new System.Drawing.Size(24, 15);
+            this.label171.Size = new System.Drawing.Size(38, 15);
             this.label171.TabIndex = 269;
-            this.label171.Text = "1,0";
+            this.label171.Text = "118,7";
             // 
             // label172
             // 
@@ -2930,19 +2936,19 @@
             this.label172.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label172.Location = new System.Drawing.Point(985, 243);
             this.label172.Name = "label172";
-            this.label172.Size = new System.Drawing.Size(14, 15);
+            this.label172.Size = new System.Drawing.Size(21, 15);
             this.label172.TabIndex = 268;
-            this.label172.Text = "1";
+            this.label172.Text = "50";
             // 
-            // button57
+            // btn_estaño
             // 
-            this.button57.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button57.Location = new System.Drawing.Point(981, 239);
-            this.button57.Name = "button57";
-            this.button57.Size = new System.Drawing.Size(62, 55);
-            this.button57.TabIndex = 267;
-            this.button57.Text = "H";
-            this.button57.UseVisualStyleBackColor = false;
+            this.btn_estaño.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_estaño.Location = new System.Drawing.Point(981, 239);
+            this.btn_estaño.Name = "btn_estaño";
+            this.btn_estaño.Size = new System.Drawing.Size(62, 55);
+            this.btn_estaño.TabIndex = 267;
+            this.btn_estaño.Text = "Sn";
+            this.btn_estaño.UseVisualStyleBackColor = false;
             // 
             // label173
             // 
@@ -2950,9 +2956,9 @@
             this.label173.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label173.Location = new System.Drawing.Point(985, 216);
             this.label173.Name = "label173";
-            this.label173.Size = new System.Drawing.Size(65, 15);
+            this.label173.Size = new System.Drawing.Size(62, 15);
             this.label173.TabIndex = 266;
-            this.label173.Text = "Hidrógeno";
+            this.label173.Text = "Germanio";
             // 
             // label174
             // 
@@ -2960,9 +2966,9 @@
             this.label174.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label174.Location = new System.Drawing.Point(1019, 184);
             this.label174.Name = "label174";
-            this.label174.Size = new System.Drawing.Size(24, 15);
+            this.label174.Size = new System.Drawing.Size(31, 15);
             this.label174.TabIndex = 265;
-            this.label174.Text = "1,0";
+            this.label174.Text = "72,6";
             // 
             // label175
             // 
@@ -2970,19 +2976,19 @@
             this.label175.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label175.Location = new System.Drawing.Point(985, 185);
             this.label175.Name = "label175";
-            this.label175.Size = new System.Drawing.Size(14, 15);
+            this.label175.Size = new System.Drawing.Size(21, 15);
             this.label175.TabIndex = 264;
-            this.label175.Text = "1";
+            this.label175.Text = "32";
             // 
-            // button58
+            // btn_germanio
             // 
-            this.button58.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button58.Location = new System.Drawing.Point(981, 181);
-            this.button58.Name = "button58";
-            this.button58.Size = new System.Drawing.Size(62, 55);
-            this.button58.TabIndex = 263;
-            this.button58.Text = "H";
-            this.button58.UseVisualStyleBackColor = false;
+            this.btn_germanio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_germanio.Location = new System.Drawing.Point(981, 181);
+            this.btn_germanio.Name = "btn_germanio";
+            this.btn_germanio.Size = new System.Drawing.Size(62, 55);
+            this.btn_germanio.TabIndex = 263;
+            this.btn_germanio.Text = "Ge";
+            this.btn_germanio.UseVisualStyleBackColor = false;
             // 
             // label176
             // 
@@ -2990,19 +2996,19 @@
             this.label176.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label176.Location = new System.Drawing.Point(984, 158);
             this.label176.Name = "label176";
-            this.label176.Size = new System.Drawing.Size(65, 15);
+            this.label176.Size = new System.Drawing.Size(40, 15);
             this.label176.TabIndex = 262;
-            this.label176.Text = "Hidrógeno";
+            this.label176.Text = "Silicio";
             // 
             // label177
             // 
             this.label177.AutoSize = true;
             this.label177.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label177.Location = new System.Drawing.Point(1018, 126);
+            this.label177.Location = new System.Drawing.Point(1010, 127);
             this.label177.Name = "label177";
-            this.label177.Size = new System.Drawing.Size(24, 15);
+            this.label177.Size = new System.Drawing.Size(31, 15);
             this.label177.TabIndex = 261;
-            this.label177.Text = "1,0";
+            this.label177.Text = "28,1";
             // 
             // label178
             // 
@@ -3010,19 +3016,19 @@
             this.label178.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label178.Location = new System.Drawing.Point(984, 127);
             this.label178.Name = "label178";
-            this.label178.Size = new System.Drawing.Size(14, 15);
+            this.label178.Size = new System.Drawing.Size(21, 15);
             this.label178.TabIndex = 260;
-            this.label178.Text = "1";
+            this.label178.Text = "14";
             // 
-            // button59
+            // btn_silicio
             // 
-            this.button59.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button59.Location = new System.Drawing.Point(980, 123);
-            this.button59.Name = "button59";
-            this.button59.Size = new System.Drawing.Size(62, 55);
-            this.button59.TabIndex = 259;
-            this.button59.Text = "H";
-            this.button59.UseVisualStyleBackColor = false;
+            this.btn_silicio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_silicio.Location = new System.Drawing.Point(980, 123);
+            this.btn_silicio.Name = "btn_silicio";
+            this.btn_silicio.Size = new System.Drawing.Size(62, 55);
+            this.btn_silicio.TabIndex = 259;
+            this.btn_silicio.Text = "Si";
+            this.btn_silicio.UseVisualStyleBackColor = false;
             // 
             // label179
             // 
@@ -3030,9 +3036,9 @@
             this.label179.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label179.Location = new System.Drawing.Point(984, 100);
             this.label179.Name = "label179";
-            this.label179.Size = new System.Drawing.Size(65, 15);
+            this.label179.Size = new System.Drawing.Size(54, 15);
             this.label179.TabIndex = 258;
-            this.label179.Text = "Hidrógeno";
+            this.label179.Text = "Carbono";
             // 
             // label180
             // 
@@ -3040,9 +3046,9 @@
             this.label180.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label180.Location = new System.Drawing.Point(1018, 68);
             this.label180.Name = "label180";
-            this.label180.Size = new System.Drawing.Size(24, 15);
+            this.label180.Size = new System.Drawing.Size(31, 15);
             this.label180.TabIndex = 257;
-            this.label180.Text = "1,0";
+            this.label180.Text = "12,0";
             // 
             // label181
             // 
@@ -3052,17 +3058,17 @@
             this.label181.Name = "label181";
             this.label181.Size = new System.Drawing.Size(14, 15);
             this.label181.TabIndex = 256;
-            this.label181.Text = "1";
+            this.label181.Text = "6";
             // 
-            // button60
+            // btn_carbono
             // 
-            this.button60.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button60.Location = new System.Drawing.Point(980, 65);
-            this.button60.Name = "button60";
-            this.button60.Size = new System.Drawing.Size(62, 55);
-            this.button60.TabIndex = 255;
-            this.button60.Text = "H";
-            this.button60.UseVisualStyleBackColor = false;
+            this.btn_carbono.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_carbono.Location = new System.Drawing.Point(980, 65);
+            this.btn_carbono.Name = "btn_carbono";
+            this.btn_carbono.Size = new System.Drawing.Size(62, 55);
+            this.btn_carbono.TabIndex = 255;
+            this.btn_carbono.Text = "C";
+            this.btn_carbono.UseVisualStyleBackColor = false;
             // 
             // label182
             // 
@@ -3070,19 +3076,19 @@
             this.label182.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label182.Location = new System.Drawing.Point(918, 390);
             this.label182.Name = "label182";
-            this.label182.Size = new System.Drawing.Size(65, 15);
+            this.label182.Size = new System.Drawing.Size(50, 15);
             this.label182.TabIndex = 254;
-            this.label182.Text = "Hidrógeno";
+            this.label182.Text = "Nihonio";
             // 
             // label183
             // 
             this.label183.AutoSize = true;
             this.label183.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label183.Location = new System.Drawing.Point(952, 358);
+            this.label183.Location = new System.Drawing.Point(943, 358);
             this.label183.Name = "label183";
-            this.label183.Size = new System.Drawing.Size(24, 15);
+            this.label183.Size = new System.Drawing.Size(36, 15);
             this.label183.TabIndex = 253;
-            this.label183.Text = "1,0";
+            this.label183.Text = "(284)";
             // 
             // label184
             // 
@@ -3090,19 +3096,19 @@
             this.label184.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label184.Location = new System.Drawing.Point(918, 359);
             this.label184.Name = "label184";
-            this.label184.Size = new System.Drawing.Size(14, 15);
+            this.label184.Size = new System.Drawing.Size(28, 15);
             this.label184.TabIndex = 252;
-            this.label184.Text = "1";
+            this.label184.Text = "113";
             // 
-            // button61
+            // btn_nihonio
             // 
-            this.button61.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button61.Location = new System.Drawing.Point(914, 355);
-            this.button61.Name = "button61";
-            this.button61.Size = new System.Drawing.Size(62, 55);
-            this.button61.TabIndex = 251;
-            this.button61.Text = "H";
-            this.button61.UseVisualStyleBackColor = false;
+            this.btn_nihonio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_nihonio.Location = new System.Drawing.Point(914, 355);
+            this.btn_nihonio.Name = "btn_nihonio";
+            this.btn_nihonio.Size = new System.Drawing.Size(62, 55);
+            this.btn_nihonio.TabIndex = 251;
+            this.btn_nihonio.Text = "Nh";
+            this.btn_nihonio.UseVisualStyleBackColor = false;
             // 
             // label185
             // 
@@ -3110,19 +3116,19 @@
             this.label185.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label185.Location = new System.Drawing.Point(918, 332);
             this.label185.Name = "label185";
-            this.label185.Size = new System.Drawing.Size(65, 15);
+            this.label185.Size = new System.Drawing.Size(34, 15);
             this.label185.TabIndex = 250;
-            this.label185.Text = "Hidrógeno";
+            this.label185.Text = "Talio";
             // 
             // label186
             // 
             this.label186.AutoSize = true;
             this.label186.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label186.Location = new System.Drawing.Point(952, 300);
+            this.label186.Location = new System.Drawing.Point(937, 300);
             this.label186.Name = "label186";
-            this.label186.Size = new System.Drawing.Size(24, 15);
+            this.label186.Size = new System.Drawing.Size(38, 15);
             this.label186.TabIndex = 249;
-            this.label186.Text = "1,0";
+            this.label186.Text = "204,4";
             // 
             // label187
             // 
@@ -3130,19 +3136,19 @@
             this.label187.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label187.Location = new System.Drawing.Point(918, 301);
             this.label187.Name = "label187";
-            this.label187.Size = new System.Drawing.Size(14, 15);
+            this.label187.Size = new System.Drawing.Size(21, 15);
             this.label187.TabIndex = 248;
-            this.label187.Text = "1";
+            this.label187.Text = "81";
             // 
-            // button62
+            // btn_talio
             // 
-            this.button62.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button62.Location = new System.Drawing.Point(914, 297);
-            this.button62.Name = "button62";
-            this.button62.Size = new System.Drawing.Size(62, 55);
-            this.button62.TabIndex = 247;
-            this.button62.Text = "H";
-            this.button62.UseVisualStyleBackColor = false;
+            this.btn_talio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_talio.Location = new System.Drawing.Point(914, 297);
+            this.btn_talio.Name = "btn_talio";
+            this.btn_talio.Size = new System.Drawing.Size(62, 55);
+            this.btn_talio.TabIndex = 247;
+            this.btn_talio.Text = "Tl";
+            this.btn_talio.UseVisualStyleBackColor = false;
             // 
             // label188
             // 
@@ -3150,19 +3156,19 @@
             this.label188.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label188.Location = new System.Drawing.Point(917, 274);
             this.label188.Name = "label188";
-            this.label188.Size = new System.Drawing.Size(65, 15);
+            this.label188.Size = new System.Drawing.Size(34, 15);
             this.label188.TabIndex = 246;
-            this.label188.Text = "Hidrógeno";
+            this.label188.Text = "Indio";
             // 
             // label189
             // 
             this.label189.AutoSize = true;
             this.label189.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label189.Location = new System.Drawing.Point(951, 242);
+            this.label189.Location = new System.Drawing.Point(935, 242);
             this.label189.Name = "label189";
-            this.label189.Size = new System.Drawing.Size(24, 15);
+            this.label189.Size = new System.Drawing.Size(38, 15);
             this.label189.TabIndex = 245;
-            this.label189.Text = "1,0";
+            this.label189.Text = "118,7";
             // 
             // label190
             // 
@@ -3170,19 +3176,19 @@
             this.label190.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label190.Location = new System.Drawing.Point(917, 243);
             this.label190.Name = "label190";
-            this.label190.Size = new System.Drawing.Size(14, 15);
+            this.label190.Size = new System.Drawing.Size(21, 15);
             this.label190.TabIndex = 244;
-            this.label190.Text = "1";
+            this.label190.Text = "49";
             // 
-            // button63
+            // btn_indio
             // 
-            this.button63.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button63.Location = new System.Drawing.Point(913, 239);
-            this.button63.Name = "button63";
-            this.button63.Size = new System.Drawing.Size(62, 55);
-            this.button63.TabIndex = 243;
-            this.button63.Text = "H";
-            this.button63.UseVisualStyleBackColor = false;
+            this.btn_indio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_indio.Location = new System.Drawing.Point(913, 239);
+            this.btn_indio.Name = "btn_indio";
+            this.btn_indio.Size = new System.Drawing.Size(62, 55);
+            this.btn_indio.TabIndex = 243;
+            this.btn_indio.Text = "In";
+            this.btn_indio.UseVisualStyleBackColor = false;
             // 
             // label191
             // 
@@ -3190,9 +3196,9 @@
             this.label191.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label191.Location = new System.Drawing.Point(917, 216);
             this.label191.Name = "label191";
-            this.label191.Size = new System.Drawing.Size(65, 15);
+            this.label191.Size = new System.Drawing.Size(36, 15);
             this.label191.TabIndex = 242;
-            this.label191.Text = "Hidrógeno";
+            this.label191.Text = "Galio";
             // 
             // label192
             // 
@@ -3200,9 +3206,9 @@
             this.label192.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label192.Location = new System.Drawing.Point(951, 184);
             this.label192.Name = "label192";
-            this.label192.Size = new System.Drawing.Size(24, 15);
+            this.label192.Size = new System.Drawing.Size(31, 15);
             this.label192.TabIndex = 241;
-            this.label192.Text = "1,0";
+            this.label192.Text = "69,7";
             // 
             // label193
             // 
@@ -3210,19 +3216,19 @@
             this.label193.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label193.Location = new System.Drawing.Point(917, 185);
             this.label193.Name = "label193";
-            this.label193.Size = new System.Drawing.Size(14, 15);
+            this.label193.Size = new System.Drawing.Size(21, 15);
             this.label193.TabIndex = 240;
-            this.label193.Text = "1";
+            this.label193.Text = "31";
             // 
-            // button64
+            // btn_galio
             // 
-            this.button64.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button64.Location = new System.Drawing.Point(913, 181);
-            this.button64.Name = "button64";
-            this.button64.Size = new System.Drawing.Size(62, 55);
-            this.button64.TabIndex = 239;
-            this.button64.Text = "H";
-            this.button64.UseVisualStyleBackColor = false;
+            this.btn_galio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_galio.Location = new System.Drawing.Point(913, 181);
+            this.btn_galio.Name = "btn_galio";
+            this.btn_galio.Size = new System.Drawing.Size(62, 55);
+            this.btn_galio.TabIndex = 239;
+            this.btn_galio.Text = "Ga";
+            this.btn_galio.UseVisualStyleBackColor = false;
             // 
             // label194
             // 
@@ -3230,9 +3236,9 @@
             this.label194.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label194.Location = new System.Drawing.Point(916, 158);
             this.label194.Name = "label194";
-            this.label194.Size = new System.Drawing.Size(65, 15);
+            this.label194.Size = new System.Drawing.Size(55, 15);
             this.label194.TabIndex = 238;
-            this.label194.Text = "Hidrógeno";
+            this.label194.Text = "Aluminio";
             // 
             // label195
             // 
@@ -3240,9 +3246,9 @@
             this.label195.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label195.Location = new System.Drawing.Point(950, 126);
             this.label195.Name = "label195";
-            this.label195.Size = new System.Drawing.Size(24, 15);
+            this.label195.Size = new System.Drawing.Size(31, 15);
             this.label195.TabIndex = 237;
-            this.label195.Text = "1,0";
+            this.label195.Text = "27,0";
             // 
             // label196
             // 
@@ -3250,19 +3256,19 @@
             this.label196.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label196.Location = new System.Drawing.Point(916, 127);
             this.label196.Name = "label196";
-            this.label196.Size = new System.Drawing.Size(14, 15);
+            this.label196.Size = new System.Drawing.Size(21, 15);
             this.label196.TabIndex = 236;
-            this.label196.Text = "1";
+            this.label196.Text = "13";
             // 
-            // button65
+            // btn_aluminio
             // 
-            this.button65.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button65.Location = new System.Drawing.Point(912, 123);
-            this.button65.Name = "button65";
-            this.button65.Size = new System.Drawing.Size(62, 55);
-            this.button65.TabIndex = 235;
-            this.button65.Text = "H";
-            this.button65.UseVisualStyleBackColor = false;
+            this.btn_aluminio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_aluminio.Location = new System.Drawing.Point(912, 123);
+            this.btn_aluminio.Name = "btn_aluminio";
+            this.btn_aluminio.Size = new System.Drawing.Size(62, 55);
+            this.btn_aluminio.TabIndex = 235;
+            this.btn_aluminio.Text = "Al";
+            this.btn_aluminio.UseVisualStyleBackColor = false;
             // 
             // label197
             // 
@@ -3270,9 +3276,9 @@
             this.label197.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label197.Location = new System.Drawing.Point(916, 100);
             this.label197.Name = "label197";
-            this.label197.Size = new System.Drawing.Size(65, 15);
+            this.label197.Size = new System.Drawing.Size(33, 15);
             this.label197.TabIndex = 234;
-            this.label197.Text = "Hidrógeno";
+            this.label197.Text = "Boro";
             // 
             // label198
             // 
@@ -3280,9 +3286,9 @@
             this.label198.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label198.Location = new System.Drawing.Point(950, 68);
             this.label198.Name = "label198";
-            this.label198.Size = new System.Drawing.Size(24, 15);
+            this.label198.Size = new System.Drawing.Size(31, 15);
             this.label198.TabIndex = 233;
-            this.label198.Text = "1,0";
+            this.label198.Text = "10,8";
             // 
             // label199
             // 
@@ -3292,17 +3298,17 @@
             this.label199.Name = "label199";
             this.label199.Size = new System.Drawing.Size(14, 15);
             this.label199.TabIndex = 232;
-            this.label199.Text = "1";
+            this.label199.Text = "5";
             // 
-            // button66
+            // btn_boro
             // 
-            this.button66.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button66.Location = new System.Drawing.Point(912, 65);
-            this.button66.Name = "button66";
-            this.button66.Size = new System.Drawing.Size(62, 55);
-            this.button66.TabIndex = 231;
-            this.button66.Text = "H";
-            this.button66.UseVisualStyleBackColor = false;
+            this.btn_boro.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_boro.Location = new System.Drawing.Point(912, 65);
+            this.btn_boro.Name = "btn_boro";
+            this.btn_boro.Size = new System.Drawing.Size(62, 55);
+            this.btn_boro.TabIndex = 231;
+            this.btn_boro.Text = "B";
+            this.btn_boro.UseVisualStyleBackColor = false;
             // 
             // label200
             // 
@@ -3318,31 +3324,31 @@
             // 
             this.label201.AutoSize = true;
             this.label201.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label201.Location = new System.Drawing.Point(1157, 359);
+            this.label201.Location = new System.Drawing.Point(1149, 359);
             this.label201.Name = "label201";
-            this.label201.Size = new System.Drawing.Size(24, 15);
+            this.label201.Size = new System.Drawing.Size(36, 15);
             this.label201.TabIndex = 325;
-            this.label201.Text = "1,0";
+            this.label201.Text = "(292)";
             // 
             // label202
             // 
             this.label202.AutoSize = true;
             this.label202.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label202.Location = new System.Drawing.Point(1123, 360);
+            this.label202.Location = new System.Drawing.Point(1121, 360);
             this.label202.Name = "label202";
-            this.label202.Size = new System.Drawing.Size(14, 15);
+            this.label202.Size = new System.Drawing.Size(28, 15);
             this.label202.TabIndex = 324;
-            this.label202.Text = "1";
+            this.label202.Text = "116";
             // 
-            // button67
+            // btn_livermorio
             // 
-            this.button67.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button67.Location = new System.Drawing.Point(1119, 356);
-            this.button67.Name = "button67";
-            this.button67.Size = new System.Drawing.Size(62, 55);
-            this.button67.TabIndex = 323;
-            this.button67.Text = "H";
-            this.button67.UseVisualStyleBackColor = false;
+            this.btn_livermorio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_livermorio.Location = new System.Drawing.Point(1119, 356);
+            this.btn_livermorio.Name = "btn_livermorio";
+            this.btn_livermorio.Size = new System.Drawing.Size(62, 55);
+            this.btn_livermorio.TabIndex = 323;
+            this.btn_livermorio.Text = "Lv";
+            this.btn_livermorio.UseVisualStyleBackColor = false;
             // 
             // label203
             // 
@@ -3350,19 +3356,19 @@
             this.label203.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label203.Location = new System.Drawing.Point(1123, 333);
             this.label203.Name = "label203";
-            this.label203.Size = new System.Drawing.Size(65, 15);
+            this.label203.Size = new System.Drawing.Size(49, 15);
             this.label203.TabIndex = 322;
-            this.label203.Text = "Hidrógeno";
+            this.label203.Text = "Polonio";
             // 
             // label204
             // 
             this.label204.AutoSize = true;
             this.label204.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label204.Location = new System.Drawing.Point(1157, 301);
+            this.label204.Location = new System.Drawing.Point(1146, 301);
             this.label204.Name = "label204";
-            this.label204.Size = new System.Drawing.Size(24, 15);
+            this.label204.Size = new System.Drawing.Size(36, 15);
             this.label204.TabIndex = 321;
-            this.label204.Text = "1,0";
+            this.label204.Text = "(210)";
             // 
             // label205
             // 
@@ -3370,19 +3376,19 @@
             this.label205.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label205.Location = new System.Drawing.Point(1123, 302);
             this.label205.Name = "label205";
-            this.label205.Size = new System.Drawing.Size(14, 15);
+            this.label205.Size = new System.Drawing.Size(21, 15);
             this.label205.TabIndex = 320;
-            this.label205.Text = "1";
+            this.label205.Text = "84";
             // 
-            // button68
+            // btn_polonio
             // 
-            this.button68.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button68.Location = new System.Drawing.Point(1119, 298);
-            this.button68.Name = "button68";
-            this.button68.Size = new System.Drawing.Size(62, 55);
-            this.button68.TabIndex = 319;
-            this.button68.Text = "H";
-            this.button68.UseVisualStyleBackColor = false;
+            this.btn_polonio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_polonio.Location = new System.Drawing.Point(1119, 298);
+            this.btn_polonio.Name = "btn_polonio";
+            this.btn_polonio.Size = new System.Drawing.Size(62, 55);
+            this.btn_polonio.TabIndex = 319;
+            this.btn_polonio.Text = "Po";
+            this.btn_polonio.UseVisualStyleBackColor = false;
             // 
             // label206
             // 
@@ -3390,19 +3396,19 @@
             this.label206.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label206.Location = new System.Drawing.Point(1122, 275);
             this.label206.Name = "label206";
-            this.label206.Size = new System.Drawing.Size(65, 15);
+            this.label206.Size = new System.Drawing.Size(42, 15);
             this.label206.TabIndex = 318;
-            this.label206.Text = "Hidrógeno";
+            this.label206.Text = "Teluro";
             // 
             // label207
             // 
             this.label207.AutoSize = true;
             this.label207.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label207.Location = new System.Drawing.Point(1156, 243);
+            this.label207.Location = new System.Drawing.Point(1143, 243);
             this.label207.Name = "label207";
-            this.label207.Size = new System.Drawing.Size(24, 15);
+            this.label207.Size = new System.Drawing.Size(38, 15);
             this.label207.TabIndex = 317;
-            this.label207.Text = "1,0";
+            this.label207.Text = "127,6";
             // 
             // label208
             // 
@@ -3410,19 +3416,19 @@
             this.label208.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label208.Location = new System.Drawing.Point(1122, 244);
             this.label208.Name = "label208";
-            this.label208.Size = new System.Drawing.Size(14, 15);
+            this.label208.Size = new System.Drawing.Size(21, 15);
             this.label208.TabIndex = 316;
-            this.label208.Text = "1";
+            this.label208.Text = "52";
             // 
-            // button69
+            // btn_teluro
             // 
-            this.button69.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button69.Location = new System.Drawing.Point(1118, 240);
-            this.button69.Name = "button69";
-            this.button69.Size = new System.Drawing.Size(62, 55);
-            this.button69.TabIndex = 315;
-            this.button69.Text = "H";
-            this.button69.UseVisualStyleBackColor = false;
+            this.btn_teluro.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_teluro.Location = new System.Drawing.Point(1118, 240);
+            this.btn_teluro.Name = "btn_teluro";
+            this.btn_teluro.Size = new System.Drawing.Size(62, 55);
+            this.btn_teluro.TabIndex = 315;
+            this.btn_teluro.Text = "Te";
+            this.btn_teluro.UseVisualStyleBackColor = false;
             // 
             // label209
             // 
@@ -3430,9 +3436,9 @@
             this.label209.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label209.Location = new System.Drawing.Point(1122, 217);
             this.label209.Name = "label209";
-            this.label209.Size = new System.Drawing.Size(65, 15);
+            this.label209.Size = new System.Drawing.Size(49, 15);
             this.label209.TabIndex = 314;
-            this.label209.Text = "Hidrógeno";
+            this.label209.Text = "Selenio";
             // 
             // label210
             // 
@@ -3440,9 +3446,9 @@
             this.label210.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label210.Location = new System.Drawing.Point(1156, 185);
             this.label210.Name = "label210";
-            this.label210.Size = new System.Drawing.Size(24, 15);
+            this.label210.Size = new System.Drawing.Size(31, 15);
             this.label210.TabIndex = 313;
-            this.label210.Text = "1,0";
+            this.label210.Text = "79,0";
             // 
             // label211
             // 
@@ -3450,19 +3456,19 @@
             this.label211.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label211.Location = new System.Drawing.Point(1122, 186);
             this.label211.Name = "label211";
-            this.label211.Size = new System.Drawing.Size(14, 15);
+            this.label211.Size = new System.Drawing.Size(21, 15);
             this.label211.TabIndex = 312;
-            this.label211.Text = "1";
+            this.label211.Text = "34";
             // 
-            // button70
+            // btn_selenio
             // 
-            this.button70.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button70.Location = new System.Drawing.Point(1118, 182);
-            this.button70.Name = "button70";
-            this.button70.Size = new System.Drawing.Size(62, 55);
-            this.button70.TabIndex = 311;
-            this.button70.Text = "H";
-            this.button70.UseVisualStyleBackColor = false;
+            this.btn_selenio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_selenio.Location = new System.Drawing.Point(1118, 182);
+            this.btn_selenio.Name = "btn_selenio";
+            this.btn_selenio.Size = new System.Drawing.Size(62, 55);
+            this.btn_selenio.TabIndex = 311;
+            this.btn_selenio.Text = "Se";
+            this.btn_selenio.UseVisualStyleBackColor = false;
             // 
             // label212
             // 
@@ -3470,9 +3476,9 @@
             this.label212.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label212.Location = new System.Drawing.Point(1121, 159);
             this.label212.Name = "label212";
-            this.label212.Size = new System.Drawing.Size(65, 15);
+            this.label212.Size = new System.Drawing.Size(41, 15);
             this.label212.TabIndex = 310;
-            this.label212.Text = "Hidrógeno";
+            this.label212.Text = "Azúfre";
             // 
             // label213
             // 
@@ -3480,9 +3486,9 @@
             this.label213.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label213.Location = new System.Drawing.Point(1155, 127);
             this.label213.Name = "label213";
-            this.label213.Size = new System.Drawing.Size(24, 15);
+            this.label213.Size = new System.Drawing.Size(31, 15);
             this.label213.TabIndex = 309;
-            this.label213.Text = "1,0";
+            this.label213.Text = "32,1";
             // 
             // label214
             // 
@@ -3490,19 +3496,19 @@
             this.label214.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label214.Location = new System.Drawing.Point(1121, 128);
             this.label214.Name = "label214";
-            this.label214.Size = new System.Drawing.Size(14, 15);
+            this.label214.Size = new System.Drawing.Size(21, 15);
             this.label214.TabIndex = 308;
-            this.label214.Text = "1";
+            this.label214.Text = "16";
             // 
-            // button71
+            // btn_azufre
             // 
-            this.button71.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button71.Location = new System.Drawing.Point(1117, 124);
-            this.button71.Name = "button71";
-            this.button71.Size = new System.Drawing.Size(62, 55);
-            this.button71.TabIndex = 307;
-            this.button71.Text = "H";
-            this.button71.UseVisualStyleBackColor = false;
+            this.btn_azufre.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_azufre.Location = new System.Drawing.Point(1117, 124);
+            this.btn_azufre.Name = "btn_azufre";
+            this.btn_azufre.Size = new System.Drawing.Size(62, 55);
+            this.btn_azufre.TabIndex = 307;
+            this.btn_azufre.Text = "S";
+            this.btn_azufre.UseVisualStyleBackColor = false;
             // 
             // label215
             // 
@@ -3510,9 +3516,9 @@
             this.label215.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label215.Location = new System.Drawing.Point(1121, 101);
             this.label215.Name = "label215";
-            this.label215.Size = new System.Drawing.Size(65, 15);
+            this.label215.Size = new System.Drawing.Size(53, 15);
             this.label215.TabIndex = 306;
-            this.label215.Text = "Hidrógeno";
+            this.label215.Text = "Oxígeno";
             // 
             // label216
             // 
@@ -3520,9 +3526,9 @@
             this.label216.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label216.Location = new System.Drawing.Point(1155, 69);
             this.label216.Name = "label216";
-            this.label216.Size = new System.Drawing.Size(24, 15);
+            this.label216.Size = new System.Drawing.Size(31, 15);
             this.label216.TabIndex = 305;
-            this.label216.Text = "1,0";
+            this.label216.Text = "15,9";
             // 
             // label217
             // 
@@ -3532,17 +3538,17 @@
             this.label217.Name = "label217";
             this.label217.Size = new System.Drawing.Size(14, 15);
             this.label217.TabIndex = 304;
-            this.label217.Text = "1";
+            this.label217.Text = "8";
             // 
-            // button72
+            // btn_oxigeno
             // 
-            this.button72.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button72.Location = new System.Drawing.Point(1117, 66);
-            this.button72.Name = "button72";
-            this.button72.Size = new System.Drawing.Size(62, 55);
-            this.button72.TabIndex = 303;
-            this.button72.Text = "H";
-            this.button72.UseVisualStyleBackColor = false;
+            this.btn_oxigeno.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_oxigeno.Location = new System.Drawing.Point(1117, 66);
+            this.btn_oxigeno.Name = "btn_oxigeno";
+            this.btn_oxigeno.Size = new System.Drawing.Size(62, 55);
+            this.btn_oxigeno.TabIndex = 303;
+            this.btn_oxigeno.Text = "O";
+            this.btn_oxigeno.UseVisualStyleBackColor = false;
             // 
             // label218
             // 
@@ -3550,9 +3556,9 @@
             this.label218.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label218.Location = new System.Drawing.Point(1055, 391);
             this.label218.Name = "label218";
-            this.label218.Size = new System.Drawing.Size(65, 15);
+            this.label218.Size = new System.Drawing.Size(59, 15);
             this.label218.TabIndex = 302;
-            this.label218.Text = "Hidrógeno";
+            this.label218.Text = "Moscovio";
             // 
             // label219
             // 
@@ -3560,29 +3566,29 @@
             this.label219.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label219.Location = new System.Drawing.Point(1089, 359);
             this.label219.Name = "label219";
-            this.label219.Size = new System.Drawing.Size(24, 15);
+            this.label219.Size = new System.Drawing.Size(28, 15);
             this.label219.TabIndex = 301;
-            this.label219.Text = "1,0";
+            this.label219.Text = "288";
             // 
             // label220
             // 
             this.label220.AutoSize = true;
             this.label220.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label220.Location = new System.Drawing.Point(1055, 360);
+            this.label220.Location = new System.Drawing.Point(1051, 360);
             this.label220.Name = "label220";
-            this.label220.Size = new System.Drawing.Size(14, 15);
+            this.label220.Size = new System.Drawing.Size(28, 15);
             this.label220.TabIndex = 300;
-            this.label220.Text = "1";
+            this.label220.Text = "115";
             // 
-            // button73
+            // btn_moscovio
             // 
-            this.button73.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button73.Location = new System.Drawing.Point(1051, 356);
-            this.button73.Name = "button73";
-            this.button73.Size = new System.Drawing.Size(62, 55);
-            this.button73.TabIndex = 299;
-            this.button73.Text = "H";
-            this.button73.UseVisualStyleBackColor = false;
+            this.btn_moscovio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_moscovio.Location = new System.Drawing.Point(1051, 356);
+            this.btn_moscovio.Name = "btn_moscovio";
+            this.btn_moscovio.Size = new System.Drawing.Size(62, 55);
+            this.btn_moscovio.TabIndex = 299;
+            this.btn_moscovio.Text = "Mc";
+            this.btn_moscovio.UseVisualStyleBackColor = false;
             // 
             // label221
             // 
@@ -3590,19 +3596,19 @@
             this.label221.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label221.Location = new System.Drawing.Point(1055, 333);
             this.label221.Name = "label221";
-            this.label221.Size = new System.Drawing.Size(65, 15);
+            this.label221.Size = new System.Drawing.Size(52, 15);
             this.label221.TabIndex = 298;
-            this.label221.Text = "Hidrógeno";
+            this.label221.Text = "Bismuto";
             // 
             // label222
             // 
             this.label222.AutoSize = true;
             this.label222.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label222.Location = new System.Drawing.Point(1089, 301);
+            this.label222.Location = new System.Drawing.Point(1074, 301);
             this.label222.Name = "label222";
-            this.label222.Size = new System.Drawing.Size(24, 15);
+            this.label222.Size = new System.Drawing.Size(38, 15);
             this.label222.TabIndex = 297;
-            this.label222.Text = "1,0";
+            this.label222.Text = "209,2";
             // 
             // label223
             // 
@@ -3610,19 +3616,19 @@
             this.label223.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label223.Location = new System.Drawing.Point(1055, 302);
             this.label223.Name = "label223";
-            this.label223.Size = new System.Drawing.Size(14, 15);
+            this.label223.Size = new System.Drawing.Size(21, 15);
             this.label223.TabIndex = 296;
-            this.label223.Text = "1";
+            this.label223.Text = "83";
             // 
-            // button74
+            // btn_bismuto
             // 
-            this.button74.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button74.Location = new System.Drawing.Point(1051, 298);
-            this.button74.Name = "button74";
-            this.button74.Size = new System.Drawing.Size(62, 55);
-            this.button74.TabIndex = 295;
-            this.button74.Text = "H";
-            this.button74.UseVisualStyleBackColor = false;
+            this.btn_bismuto.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_bismuto.Location = new System.Drawing.Point(1051, 298);
+            this.btn_bismuto.Name = "btn_bismuto";
+            this.btn_bismuto.Size = new System.Drawing.Size(62, 55);
+            this.btn_bismuto.TabIndex = 295;
+            this.btn_bismuto.Text = "Bi";
+            this.btn_bismuto.UseVisualStyleBackColor = false;
             // 
             // label224
             // 
@@ -3630,19 +3636,19 @@
             this.label224.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label224.Location = new System.Drawing.Point(1054, 275);
             this.label224.Name = "label224";
-            this.label224.Size = new System.Drawing.Size(65, 15);
+            this.label224.Size = new System.Drawing.Size(62, 15);
             this.label224.TabIndex = 294;
-            this.label224.Text = "Hidrógeno";
+            this.label224.Text = "Antimonio";
             // 
             // label225
             // 
             this.label225.AutoSize = true;
             this.label225.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label225.Location = new System.Drawing.Point(1088, 243);
+            this.label225.Location = new System.Drawing.Point(1073, 243);
             this.label225.Name = "label225";
-            this.label225.Size = new System.Drawing.Size(24, 15);
+            this.label225.Size = new System.Drawing.Size(38, 15);
             this.label225.TabIndex = 293;
-            this.label225.Text = "1,0";
+            this.label225.Text = "121,8";
             // 
             // label226
             // 
@@ -3650,19 +3656,19 @@
             this.label226.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label226.Location = new System.Drawing.Point(1054, 244);
             this.label226.Name = "label226";
-            this.label226.Size = new System.Drawing.Size(14, 15);
+            this.label226.Size = new System.Drawing.Size(21, 15);
             this.label226.TabIndex = 292;
-            this.label226.Text = "1";
+            this.label226.Text = "51";
             // 
-            // button75
+            // btn_antimonio
             // 
-            this.button75.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button75.Location = new System.Drawing.Point(1050, 240);
-            this.button75.Name = "button75";
-            this.button75.Size = new System.Drawing.Size(62, 55);
-            this.button75.TabIndex = 291;
-            this.button75.Text = "H";
-            this.button75.UseVisualStyleBackColor = false;
+            this.btn_antimonio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_antimonio.Location = new System.Drawing.Point(1050, 240);
+            this.btn_antimonio.Name = "btn_antimonio";
+            this.btn_antimonio.Size = new System.Drawing.Size(62, 55);
+            this.btn_antimonio.TabIndex = 291;
+            this.btn_antimonio.Text = "Sb";
+            this.btn_antimonio.UseVisualStyleBackColor = false;
             // 
             // label227
             // 
@@ -3670,9 +3676,9 @@
             this.label227.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label227.Location = new System.Drawing.Point(1054, 217);
             this.label227.Name = "label227";
-            this.label227.Size = new System.Drawing.Size(65, 15);
+            this.label227.Size = new System.Drawing.Size(54, 15);
             this.label227.TabIndex = 290;
-            this.label227.Text = "Hidrógeno";
+            this.label227.Text = "Arsénico";
             // 
             // label228
             // 
@@ -3680,9 +3686,9 @@
             this.label228.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label228.Location = new System.Drawing.Point(1088, 185);
             this.label228.Name = "label228";
-            this.label228.Size = new System.Drawing.Size(24, 15);
+            this.label228.Size = new System.Drawing.Size(31, 15);
             this.label228.TabIndex = 289;
-            this.label228.Text = "1,0";
+            this.label228.Text = "74,9";
             // 
             // label229
             // 
@@ -3690,19 +3696,19 @@
             this.label229.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label229.Location = new System.Drawing.Point(1054, 186);
             this.label229.Name = "label229";
-            this.label229.Size = new System.Drawing.Size(14, 15);
+            this.label229.Size = new System.Drawing.Size(21, 15);
             this.label229.TabIndex = 288;
-            this.label229.Text = "1";
+            this.label229.Text = "33";
             // 
-            // button76
+            // btn_arsenico
             // 
-            this.button76.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button76.Location = new System.Drawing.Point(1050, 182);
-            this.button76.Name = "button76";
-            this.button76.Size = new System.Drawing.Size(62, 55);
-            this.button76.TabIndex = 287;
-            this.button76.Text = "H";
-            this.button76.UseVisualStyleBackColor = false;
+            this.btn_arsenico.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_arsenico.Location = new System.Drawing.Point(1050, 182);
+            this.btn_arsenico.Name = "btn_arsenico";
+            this.btn_arsenico.Size = new System.Drawing.Size(62, 55);
+            this.btn_arsenico.TabIndex = 287;
+            this.btn_arsenico.Text = "As";
+            this.btn_arsenico.UseVisualStyleBackColor = false;
             // 
             // label230
             // 
@@ -3710,9 +3716,9 @@
             this.label230.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label230.Location = new System.Drawing.Point(1053, 159);
             this.label230.Name = "label230";
-            this.label230.Size = new System.Drawing.Size(65, 15);
+            this.label230.Size = new System.Drawing.Size(48, 15);
             this.label230.TabIndex = 286;
-            this.label230.Text = "Hidrógeno";
+            this.label230.Text = "Fósforo";
             // 
             // label231
             // 
@@ -3720,9 +3726,9 @@
             this.label231.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label231.Location = new System.Drawing.Point(1087, 127);
             this.label231.Name = "label231";
-            this.label231.Size = new System.Drawing.Size(24, 15);
+            this.label231.Size = new System.Drawing.Size(31, 15);
             this.label231.TabIndex = 285;
-            this.label231.Text = "1,0";
+            this.label231.Text = "31,0";
             // 
             // label232
             // 
@@ -3730,19 +3736,19 @@
             this.label232.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label232.Location = new System.Drawing.Point(1053, 128);
             this.label232.Name = "label232";
-            this.label232.Size = new System.Drawing.Size(14, 15);
+            this.label232.Size = new System.Drawing.Size(21, 15);
             this.label232.TabIndex = 284;
-            this.label232.Text = "1";
+            this.label232.Text = "15";
             // 
-            // button77
+            // btn_fosforo
             // 
-            this.button77.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button77.Location = new System.Drawing.Point(1049, 124);
-            this.button77.Name = "button77";
-            this.button77.Size = new System.Drawing.Size(62, 55);
-            this.button77.TabIndex = 283;
-            this.button77.Text = "H";
-            this.button77.UseVisualStyleBackColor = false;
+            this.btn_fosforo.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_fosforo.Location = new System.Drawing.Point(1049, 124);
+            this.btn_fosforo.Name = "btn_fosforo";
+            this.btn_fosforo.Size = new System.Drawing.Size(62, 55);
+            this.btn_fosforo.TabIndex = 283;
+            this.btn_fosforo.Text = "P";
+            this.btn_fosforo.UseVisualStyleBackColor = false;
             // 
             // label233
             // 
@@ -3750,19 +3756,19 @@
             this.label233.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label233.Location = new System.Drawing.Point(1053, 101);
             this.label233.Name = "label233";
-            this.label233.Size = new System.Drawing.Size(65, 15);
+            this.label233.Size = new System.Drawing.Size(61, 15);
             this.label233.TabIndex = 282;
-            this.label233.Text = "Hidrógeno";
+            this.label233.Text = "Nitrógeno";
             // 
             // label234
             // 
             this.label234.AutoSize = true;
             this.label234.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label234.Location = new System.Drawing.Point(1087, 69);
+            this.label234.Location = new System.Drawing.Point(1080, 68);
             this.label234.Name = "label234";
-            this.label234.Size = new System.Drawing.Size(24, 15);
+            this.label234.Size = new System.Drawing.Size(31, 15);
             this.label234.TabIndex = 281;
-            this.label234.Text = "1,0";
+            this.label234.Text = "14,0";
             // 
             // label235
             // 
@@ -3772,17 +3778,17 @@
             this.label235.Name = "label235";
             this.label235.Size = new System.Drawing.Size(14, 15);
             this.label235.TabIndex = 280;
-            this.label235.Text = "1";
+            this.label235.Text = "7";
             // 
-            // button78
+            // btn_nitrogeno
             // 
-            this.button78.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button78.Location = new System.Drawing.Point(1049, 66);
-            this.button78.Name = "button78";
-            this.button78.Size = new System.Drawing.Size(62, 55);
-            this.button78.TabIndex = 279;
-            this.button78.Text = "H";
-            this.button78.UseVisualStyleBackColor = false;
+            this.btn_nitrogeno.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_nitrogeno.Location = new System.Drawing.Point(1049, 66);
+            this.btn_nitrogeno.Name = "btn_nitrogeno";
+            this.btn_nitrogeno.Size = new System.Drawing.Size(62, 55);
+            this.btn_nitrogeno.TabIndex = 279;
+            this.btn_nitrogeno.Text = "N";
+            this.btn_nitrogeno.UseVisualStyleBackColor = false;
             // 
             // label236
             // 
@@ -3790,29 +3796,30 @@
             this.label236.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label236.Location = new System.Drawing.Point(1191, 390);
             this.label236.Name = "label236";
-            this.label236.Size = new System.Drawing.Size(65, 15);
+            this.label236.Size = new System.Drawing.Size(48, 15);
             this.label236.TabIndex = 344;
-            this.label236.Text = "Hidrógeno";
+            this.label236.Text = "Teneso";
             // 
             // label237
             // 
             this.label237.AutoSize = true;
             this.label237.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label237.Location = new System.Drawing.Point(1225, 358);
+            this.label237.Location = new System.Drawing.Point(1220, 358);
             this.label237.Name = "label237";
-            this.label237.Size = new System.Drawing.Size(24, 15);
+            this.label237.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.label237.Size = new System.Drawing.Size(36, 15);
             this.label237.TabIndex = 343;
-            this.label237.Text = "1,0";
+            this.label237.Text = "(294)";
             // 
-            // button79
+            // btn_teneso
             // 
-            this.button79.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button79.Location = new System.Drawing.Point(1187, 355);
-            this.button79.Name = "button79";
-            this.button79.Size = new System.Drawing.Size(62, 55);
-            this.button79.TabIndex = 342;
-            this.button79.Text = "H";
-            this.button79.UseVisualStyleBackColor = false;
+            this.btn_teneso.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_teneso.Location = new System.Drawing.Point(1187, 355);
+            this.btn_teneso.Name = "btn_teneso";
+            this.btn_teneso.Size = new System.Drawing.Size(62, 55);
+            this.btn_teneso.TabIndex = 342;
+            this.btn_teneso.Text = "Ts";
+            this.btn_teneso.UseVisualStyleBackColor = false;
             // 
             // label238
             // 
@@ -3820,9 +3827,9 @@
             this.label238.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label238.Location = new System.Drawing.Point(1191, 332);
             this.label238.Name = "label238";
-            this.label238.Size = new System.Drawing.Size(65, 15);
+            this.label238.Size = new System.Drawing.Size(40, 15);
             this.label238.TabIndex = 341;
-            this.label238.Text = "Hidrógeno";
+            this.label238.Text = "Astato";
             // 
             // label239
             // 
@@ -3830,19 +3837,19 @@
             this.label239.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label239.Location = new System.Drawing.Point(1225, 300);
             this.label239.Name = "label239";
-            this.label239.Size = new System.Drawing.Size(24, 15);
+            this.label239.Size = new System.Drawing.Size(36, 15);
             this.label239.TabIndex = 340;
-            this.label239.Text = "1,0";
+            this.label239.Text = "(210)";
             // 
-            // button80
+            // btn_astato
             // 
-            this.button80.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button80.Location = new System.Drawing.Point(1187, 297);
-            this.button80.Name = "button80";
-            this.button80.Size = new System.Drawing.Size(62, 55);
-            this.button80.TabIndex = 339;
-            this.button80.Text = "H";
-            this.button80.UseVisualStyleBackColor = false;
+            this.btn_astato.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_astato.Location = new System.Drawing.Point(1187, 297);
+            this.btn_astato.Name = "btn_astato";
+            this.btn_astato.Size = new System.Drawing.Size(62, 55);
+            this.btn_astato.TabIndex = 339;
+            this.btn_astato.Text = "At";
+            this.btn_astato.UseVisualStyleBackColor = false;
             // 
             // label240
             // 
@@ -3850,29 +3857,29 @@
             this.label240.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label240.Location = new System.Drawing.Point(1190, 274);
             this.label240.Name = "label240";
-            this.label240.Size = new System.Drawing.Size(65, 15);
+            this.label240.Size = new System.Drawing.Size(35, 15);
             this.label240.TabIndex = 338;
-            this.label240.Text = "Hidrógeno";
+            this.label240.Text = "Yodo";
             // 
             // label241
             // 
             this.label241.AutoSize = true;
             this.label241.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label241.Location = new System.Drawing.Point(1224, 242);
+            this.label241.Location = new System.Drawing.Point(1213, 244);
             this.label241.Name = "label241";
-            this.label241.Size = new System.Drawing.Size(24, 15);
+            this.label241.Size = new System.Drawing.Size(38, 15);
             this.label241.TabIndex = 337;
-            this.label241.Text = "1,0";
+            this.label241.Text = "126,9";
             // 
-            // button81
+            // btn_yodo
             // 
-            this.button81.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button81.Location = new System.Drawing.Point(1186, 239);
-            this.button81.Name = "button81";
-            this.button81.Size = new System.Drawing.Size(62, 55);
-            this.button81.TabIndex = 336;
-            this.button81.Text = "H";
-            this.button81.UseVisualStyleBackColor = false;
+            this.btn_yodo.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_yodo.Location = new System.Drawing.Point(1186, 239);
+            this.btn_yodo.Name = "btn_yodo";
+            this.btn_yodo.Size = new System.Drawing.Size(62, 55);
+            this.btn_yodo.TabIndex = 336;
+            this.btn_yodo.Text = "l";
+            this.btn_yodo.UseVisualStyleBackColor = false;
             // 
             // label242
             // 
@@ -3880,9 +3887,9 @@
             this.label242.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label242.Location = new System.Drawing.Point(1190, 216);
             this.label242.Name = "label242";
-            this.label242.Size = new System.Drawing.Size(65, 15);
+            this.label242.Size = new System.Drawing.Size(44, 15);
             this.label242.TabIndex = 335;
-            this.label242.Text = "Hidrógeno";
+            this.label242.Text = "Bromo";
             // 
             // label243
             // 
@@ -3890,19 +3897,19 @@
             this.label243.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label243.Location = new System.Drawing.Point(1224, 184);
             this.label243.Name = "label243";
-            this.label243.Size = new System.Drawing.Size(24, 15);
+            this.label243.Size = new System.Drawing.Size(31, 15);
             this.label243.TabIndex = 334;
-            this.label243.Text = "1,0";
+            this.label243.Text = "79,9";
             // 
-            // button82
+            // btn_bromo
             // 
-            this.button82.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button82.Location = new System.Drawing.Point(1186, 181);
-            this.button82.Name = "button82";
-            this.button82.Size = new System.Drawing.Size(62, 55);
-            this.button82.TabIndex = 333;
-            this.button82.Text = "H";
-            this.button82.UseVisualStyleBackColor = false;
+            this.btn_bromo.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_bromo.Location = new System.Drawing.Point(1186, 181);
+            this.btn_bromo.Name = "btn_bromo";
+            this.btn_bromo.Size = new System.Drawing.Size(62, 55);
+            this.btn_bromo.TabIndex = 333;
+            this.btn_bromo.Text = "Br";
+            this.btn_bromo.UseVisualStyleBackColor = false;
             // 
             // label244
             // 
@@ -3910,9 +3917,9 @@
             this.label244.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label244.Location = new System.Drawing.Point(1189, 158);
             this.label244.Name = "label244";
-            this.label244.Size = new System.Drawing.Size(65, 15);
+            this.label244.Size = new System.Drawing.Size(36, 15);
             this.label244.TabIndex = 332;
-            this.label244.Text = "Hidrógeno";
+            this.label244.Text = "Cloro";
             // 
             // label245
             // 
@@ -3920,19 +3927,19 @@
             this.label245.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label245.Location = new System.Drawing.Point(1223, 126);
             this.label245.Name = "label245";
-            this.label245.Size = new System.Drawing.Size(24, 15);
+            this.label245.Size = new System.Drawing.Size(31, 15);
             this.label245.TabIndex = 331;
-            this.label245.Text = "1,0";
+            this.label245.Text = "35,5";
             // 
-            // button83
+            // btn_cloro
             // 
-            this.button83.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button83.Location = new System.Drawing.Point(1185, 123);
-            this.button83.Name = "button83";
-            this.button83.Size = new System.Drawing.Size(62, 55);
-            this.button83.TabIndex = 330;
-            this.button83.Text = "H";
-            this.button83.UseVisualStyleBackColor = false;
+            this.btn_cloro.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_cloro.Location = new System.Drawing.Point(1185, 123);
+            this.btn_cloro.Name = "btn_cloro";
+            this.btn_cloro.Size = new System.Drawing.Size(62, 55);
+            this.btn_cloro.TabIndex = 330;
+            this.btn_cloro.Text = "Cl";
+            this.btn_cloro.UseVisualStyleBackColor = false;
             // 
             // label246
             // 
@@ -3940,9 +3947,9 @@
             this.label246.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label246.Location = new System.Drawing.Point(1189, 100);
             this.label246.Name = "label246";
-            this.label246.Size = new System.Drawing.Size(65, 15);
+            this.label246.Size = new System.Drawing.Size(35, 15);
             this.label246.TabIndex = 329;
-            this.label246.Text = "Hidrógeno";
+            this.label246.Text = "Flúor";
             // 
             // label247
             // 
@@ -3950,39 +3957,39 @@
             this.label247.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label247.Location = new System.Drawing.Point(1223, 68);
             this.label247.Name = "label247";
-            this.label247.Size = new System.Drawing.Size(24, 15);
+            this.label247.Size = new System.Drawing.Size(31, 15);
             this.label247.TabIndex = 328;
-            this.label247.Text = "1,0";
+            this.label247.Text = "19,0";
             // 
-            // button84
+            // btn_fluor
             // 
-            this.button84.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button84.Location = new System.Drawing.Point(1185, 65);
-            this.button84.Name = "button84";
-            this.button84.Size = new System.Drawing.Size(62, 55);
-            this.button84.TabIndex = 327;
-            this.button84.Text = "H";
-            this.button84.UseVisualStyleBackColor = false;
+            this.btn_fluor.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_fluor.Location = new System.Drawing.Point(1185, 65);
+            this.btn_fluor.Name = "btn_fluor";
+            this.btn_fluor.Size = new System.Drawing.Size(62, 55);
+            this.btn_fluor.TabIndex = 327;
+            this.btn_fluor.Text = "F";
+            this.btn_fluor.UseVisualStyleBackColor = false;
             // 
             // label248
             // 
             this.label248.AutoSize = true;
             this.label248.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label248.Location = new System.Drawing.Point(1262, 390);
+            this.label248.Location = new System.Drawing.Point(1260, 392);
             this.label248.Name = "label248";
-            this.label248.Size = new System.Drawing.Size(65, 15);
+            this.label248.Size = new System.Drawing.Size(64, 15);
             this.label248.TabIndex = 372;
-            this.label248.Text = "Hidrógeno";
+            this.label248.Text = "Ognaesón";
             // 
             // label249
             // 
             this.label249.AutoSize = true;
             this.label249.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label249.Location = new System.Drawing.Point(1296, 358);
+            this.label249.Location = new System.Drawing.Point(1292, 358);
             this.label249.Name = "label249";
-            this.label249.Size = new System.Drawing.Size(24, 15);
+            this.label249.Size = new System.Drawing.Size(36, 15);
             this.label249.TabIndex = 371;
-            this.label249.Text = "1,0";
+            this.label249.Text = "(294)";
             // 
             // label250
             // 
@@ -3990,19 +3997,19 @@
             this.label250.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label250.Location = new System.Drawing.Point(1262, 359);
             this.label250.Name = "label250";
-            this.label250.Size = new System.Drawing.Size(14, 15);
+            this.label250.Size = new System.Drawing.Size(28, 15);
             this.label250.TabIndex = 370;
-            this.label250.Text = "1";
+            this.label250.Text = "118";
             // 
-            // button85
+            // btn_oganeson
             // 
-            this.button85.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button85.Location = new System.Drawing.Point(1258, 355);
-            this.button85.Name = "button85";
-            this.button85.Size = new System.Drawing.Size(62, 55);
-            this.button85.TabIndex = 369;
-            this.button85.Text = "H";
-            this.button85.UseVisualStyleBackColor = false;
+            this.btn_oganeson.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_oganeson.Location = new System.Drawing.Point(1258, 355);
+            this.btn_oganeson.Name = "btn_oganeson";
+            this.btn_oganeson.Size = new System.Drawing.Size(62, 55);
+            this.btn_oganeson.TabIndex = 369;
+            this.btn_oganeson.Text = "Og";
+            this.btn_oganeson.UseVisualStyleBackColor = false;
             // 
             // label251
             // 
@@ -4010,9 +4017,9 @@
             this.label251.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label251.Location = new System.Drawing.Point(1262, 332);
             this.label251.Name = "label251";
-            this.label251.Size = new System.Drawing.Size(65, 15);
+            this.label251.Size = new System.Drawing.Size(44, 15);
             this.label251.TabIndex = 368;
-            this.label251.Text = "Hidrógeno";
+            this.label251.Text = "Radón";
             // 
             // label252
             // 
@@ -4020,9 +4027,9 @@
             this.label252.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label252.Location = new System.Drawing.Point(1296, 300);
             this.label252.Name = "label252";
-            this.label252.Size = new System.Drawing.Size(24, 15);
+            this.label252.Size = new System.Drawing.Size(36, 15);
             this.label252.TabIndex = 367;
-            this.label252.Text = "1,0";
+            this.label252.Text = "(222)";
             // 
             // label253
             // 
@@ -4030,19 +4037,19 @@
             this.label253.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label253.Location = new System.Drawing.Point(1262, 301);
             this.label253.Name = "label253";
-            this.label253.Size = new System.Drawing.Size(14, 15);
+            this.label253.Size = new System.Drawing.Size(21, 15);
             this.label253.TabIndex = 366;
-            this.label253.Text = "1";
+            this.label253.Text = "86";
             // 
-            // button86
+            // btn_radon
             // 
-            this.button86.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button86.Location = new System.Drawing.Point(1258, 297);
-            this.button86.Name = "button86";
-            this.button86.Size = new System.Drawing.Size(62, 55);
-            this.button86.TabIndex = 365;
-            this.button86.Text = "H";
-            this.button86.UseVisualStyleBackColor = false;
+            this.btn_radon.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_radon.Location = new System.Drawing.Point(1258, 297);
+            this.btn_radon.Name = "btn_radon";
+            this.btn_radon.Size = new System.Drawing.Size(62, 55);
+            this.btn_radon.TabIndex = 365;
+            this.btn_radon.Text = "Rn";
+            this.btn_radon.UseVisualStyleBackColor = false;
             // 
             // label254
             // 
@@ -4050,9 +4057,9 @@
             this.label254.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label254.Location = new System.Drawing.Point(1261, 274);
             this.label254.Name = "label254";
-            this.label254.Size = new System.Drawing.Size(65, 15);
+            this.label254.Size = new System.Drawing.Size(43, 15);
             this.label254.TabIndex = 364;
-            this.label254.Text = "Hidrógeno";
+            this.label254.Text = "Xenón";
             // 
             // label255
             // 
@@ -4060,9 +4067,9 @@
             this.label255.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label255.Location = new System.Drawing.Point(1295, 242);
             this.label255.Name = "label255";
-            this.label255.Size = new System.Drawing.Size(24, 15);
+            this.label255.Size = new System.Drawing.Size(38, 15);
             this.label255.TabIndex = 363;
-            this.label255.Text = "1,0";
+            this.label255.Text = "131,3";
             // 
             // label256
             // 
@@ -4070,19 +4077,19 @@
             this.label256.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label256.Location = new System.Drawing.Point(1261, 243);
             this.label256.Name = "label256";
-            this.label256.Size = new System.Drawing.Size(14, 15);
+            this.label256.Size = new System.Drawing.Size(21, 15);
             this.label256.TabIndex = 362;
-            this.label256.Text = "1";
+            this.label256.Text = "54";
             // 
-            // button87
+            // btn_xenon
             // 
-            this.button87.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button87.Location = new System.Drawing.Point(1257, 239);
-            this.button87.Name = "button87";
-            this.button87.Size = new System.Drawing.Size(62, 55);
-            this.button87.TabIndex = 361;
-            this.button87.Text = "H";
-            this.button87.UseVisualStyleBackColor = false;
+            this.btn_xenon.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_xenon.Location = new System.Drawing.Point(1257, 239);
+            this.btn_xenon.Name = "btn_xenon";
+            this.btn_xenon.Size = new System.Drawing.Size(62, 55);
+            this.btn_xenon.TabIndex = 361;
+            this.btn_xenon.Text = "Xe";
+            this.btn_xenon.UseVisualStyleBackColor = false;
             // 
             // label257
             // 
@@ -4090,9 +4097,9 @@
             this.label257.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label257.Location = new System.Drawing.Point(1261, 216);
             this.label257.Name = "label257";
-            this.label257.Size = new System.Drawing.Size(65, 15);
+            this.label257.Size = new System.Drawing.Size(46, 15);
             this.label257.TabIndex = 360;
-            this.label257.Text = "Hidrógeno";
+            this.label257.Text = "Kriptón";
             // 
             // label258
             // 
@@ -4100,9 +4107,9 @@
             this.label258.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label258.Location = new System.Drawing.Point(1295, 184);
             this.label258.Name = "label258";
-            this.label258.Size = new System.Drawing.Size(24, 15);
+            this.label258.Size = new System.Drawing.Size(31, 15);
             this.label258.TabIndex = 359;
-            this.label258.Text = "1,0";
+            this.label258.Text = "83,8";
             // 
             // label259
             // 
@@ -4110,9 +4117,9 @@
             this.label259.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label259.Location = new System.Drawing.Point(1261, 185);
             this.label259.Name = "label259";
-            this.label259.Size = new System.Drawing.Size(14, 15);
+            this.label259.Size = new System.Drawing.Size(21, 15);
             this.label259.TabIndex = 358;
-            this.label259.Text = "1";
+            this.label259.Text = "36";
             // 
             // label260
             // 
@@ -4120,19 +4127,19 @@
             this.label260.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label260.Location = new System.Drawing.Point(1260, 158);
             this.label260.Name = "label260";
-            this.label260.Size = new System.Drawing.Size(65, 15);
+            this.label260.Size = new System.Drawing.Size(39, 15);
             this.label260.TabIndex = 356;
-            this.label260.Text = "Hidrógeno";
+            this.label260.Text = "Argón";
             // 
             // label261
             // 
             this.label261.AutoSize = true;
             this.label261.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label261.Location = new System.Drawing.Point(1294, 126);
+            this.label261.Location = new System.Drawing.Point(1284, 127);
             this.label261.Name = "label261";
-            this.label261.Size = new System.Drawing.Size(24, 15);
+            this.label261.Size = new System.Drawing.Size(31, 15);
             this.label261.TabIndex = 355;
-            this.label261.Text = "1,0";
+            this.label261.Text = "39,9";
             // 
             // label262
             // 
@@ -4140,19 +4147,19 @@
             this.label262.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label262.Location = new System.Drawing.Point(1260, 127);
             this.label262.Name = "label262";
-            this.label262.Size = new System.Drawing.Size(14, 15);
+            this.label262.Size = new System.Drawing.Size(21, 15);
             this.label262.TabIndex = 354;
-            this.label262.Text = "1";
+            this.label262.Text = "18";
             // 
-            // button89
+            // btn_argon
             // 
-            this.button89.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button89.Location = new System.Drawing.Point(1256, 123);
-            this.button89.Name = "button89";
-            this.button89.Size = new System.Drawing.Size(62, 55);
-            this.button89.TabIndex = 353;
-            this.button89.Text = "H";
-            this.button89.UseVisualStyleBackColor = false;
+            this.btn_argon.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_argon.Location = new System.Drawing.Point(1256, 123);
+            this.btn_argon.Name = "btn_argon";
+            this.btn_argon.Size = new System.Drawing.Size(62, 55);
+            this.btn_argon.TabIndex = 353;
+            this.btn_argon.Text = "Ar";
+            this.btn_argon.UseVisualStyleBackColor = false;
             // 
             // label263
             // 
@@ -4160,9 +4167,9 @@
             this.label263.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label263.Location = new System.Drawing.Point(1260, 100);
             this.label263.Name = "label263";
-            this.label263.Size = new System.Drawing.Size(65, 15);
+            this.label263.Size = new System.Drawing.Size(37, 15);
             this.label263.TabIndex = 352;
-            this.label263.Text = "Hidrógeno";
+            this.label263.Text = "Neón";
             // 
             // label264
             // 
@@ -4184,15 +4191,15 @@
             this.label265.TabIndex = 350;
             this.label265.Text = "1";
             // 
-            // button90
+            // btn_neon
             // 
-            this.button90.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button90.Location = new System.Drawing.Point(1256, 65);
-            this.button90.Name = "button90";
-            this.button90.Size = new System.Drawing.Size(62, 55);
-            this.button90.TabIndex = 349;
-            this.button90.Text = "H";
-            this.button90.UseVisualStyleBackColor = false;
+            this.btn_neon.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_neon.Location = new System.Drawing.Point(1256, 65);
+            this.btn_neon.Name = "btn_neon";
+            this.btn_neon.Size = new System.Drawing.Size(62, 55);
+            this.btn_neon.TabIndex = 349;
+            this.btn_neon.Text = "Ne";
+            this.btn_neon.UseVisualStyleBackColor = false;
             // 
             // label266
             // 
@@ -4200,9 +4207,10 @@
             this.label266.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label266.Location = new System.Drawing.Point(1259, 42);
             this.label266.Name = "label266";
-            this.label266.Size = new System.Drawing.Size(65, 15);
+            this.label266.Size = new System.Drawing.Size(36, 15);
             this.label266.TabIndex = 348;
-            this.label266.Text = "Hidrógeno";
+            this.label266.Text = "Helio";
+            this.label266.Click += new System.EventHandler(this.label266_Click);
             // 
             // label267
             // 
@@ -4212,7 +4220,7 @@
             this.label267.Name = "label267";
             this.label267.Size = new System.Drawing.Size(24, 15);
             this.label267.TabIndex = 347;
-            this.label267.Text = "1,0";
+            this.label267.Text = "4,0";
             // 
             // label268
             // 
@@ -4222,7 +4230,7 @@
             this.label268.Name = "label268";
             this.label268.Size = new System.Drawing.Size(14, 15);
             this.label268.TabIndex = 346;
-            this.label268.Text = "1";
+            this.label268.Text = "2";
             // 
             // button91
             // 
@@ -4231,18 +4239,18 @@
             this.button91.Name = "button91";
             this.button91.Size = new System.Drawing.Size(62, 55);
             this.button91.TabIndex = 345;
-            this.button91.Text = "H";
+            this.button91.Text = "He";
             this.button91.UseVisualStyleBackColor = false;
             // 
-            // button88
+            // btn_kripton
             // 
-            this.button88.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button88.Location = new System.Drawing.Point(1257, 181);
-            this.button88.Name = "button88";
-            this.button88.Size = new System.Drawing.Size(62, 55);
-            this.button88.TabIndex = 357;
-            this.button88.Text = "H";
-            this.button88.UseVisualStyleBackColor = false;
+            this.btn_kripton.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_kripton.Location = new System.Drawing.Point(1257, 181);
+            this.btn_kripton.Name = "btn_kripton";
+            this.btn_kripton.Size = new System.Drawing.Size(62, 55);
+            this.btn_kripton.TabIndex = 357;
+            this.btn_kripton.Text = "Kr";
+            this.btn_kripton.UseVisualStyleBackColor = false;
             // 
             // label14
             // 
@@ -4250,19 +4258,19 @@
             this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label14.Location = new System.Drawing.Point(1123, 458);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(65, 15);
+            this.label14.Size = new System.Drawing.Size(41, 15);
             this.label14.TabIndex = 428;
-            this.label14.Text = "Hidrógeno";
+            this.label14.Text = "Iterbio";
             // 
             // label15
             // 
             this.label15.AutoSize = true;
             this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label15.Location = new System.Drawing.Point(1157, 426);
+            this.label15.Location = new System.Drawing.Point(1142, 426);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(24, 15);
+            this.label15.Size = new System.Drawing.Size(38, 15);
             this.label15.TabIndex = 427;
-            this.label15.Text = "1,0";
+            this.label15.Text = "173,0";
             // 
             // label16
             // 
@@ -4270,19 +4278,19 @@
             this.label16.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label16.Location = new System.Drawing.Point(1123, 427);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(14, 15);
+            this.label16.Size = new System.Drawing.Size(21, 15);
             this.label16.TabIndex = 426;
-            this.label16.Text = "1";
+            this.label16.Text = "70";
             // 
-            // button5
+            // btn_iterbio
             // 
-            this.button5.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button5.Location = new System.Drawing.Point(1119, 423);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(62, 55);
-            this.button5.TabIndex = 425;
-            this.button5.Text = "H";
-            this.button5.UseVisualStyleBackColor = false;
+            this.btn_iterbio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_iterbio.Location = new System.Drawing.Point(1119, 423);
+            this.btn_iterbio.Name = "btn_iterbio";
+            this.btn_iterbio.Size = new System.Drawing.Size(62, 55);
+            this.btn_iterbio.TabIndex = 425;
+            this.btn_iterbio.Text = "Yb";
+            this.btn_iterbio.UseVisualStyleBackColor = false;
             // 
             // label269
             // 
@@ -4290,19 +4298,19 @@
             this.label269.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label269.Location = new System.Drawing.Point(1055, 458);
             this.label269.Name = "label269";
-            this.label269.Size = new System.Drawing.Size(65, 15);
+            this.label269.Size = new System.Drawing.Size(34, 15);
             this.label269.TabIndex = 424;
-            this.label269.Text = "Hidrógeno";
+            this.label269.Text = "Tulio";
             // 
             // label270
             // 
             this.label270.AutoSize = true;
             this.label270.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label270.Location = new System.Drawing.Point(1089, 426);
+            this.label270.Location = new System.Drawing.Point(1075, 426);
             this.label270.Name = "label270";
-            this.label270.Size = new System.Drawing.Size(24, 15);
+            this.label270.Size = new System.Drawing.Size(38, 15);
             this.label270.TabIndex = 423;
-            this.label270.Text = "1,0";
+            this.label270.Text = "168,9";
             // 
             // label271
             // 
@@ -4310,19 +4318,19 @@
             this.label271.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label271.Location = new System.Drawing.Point(1055, 427);
             this.label271.Name = "label271";
-            this.label271.Size = new System.Drawing.Size(14, 15);
+            this.label271.Size = new System.Drawing.Size(21, 15);
             this.label271.TabIndex = 422;
-            this.label271.Text = "1";
+            this.label271.Text = "69";
             // 
-            // button92
+            // btn_tulio
             // 
-            this.button92.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button92.Location = new System.Drawing.Point(1051, 423);
-            this.button92.Name = "button92";
-            this.button92.Size = new System.Drawing.Size(62, 55);
-            this.button92.TabIndex = 421;
-            this.button92.Text = "H";
-            this.button92.UseVisualStyleBackColor = false;
+            this.btn_tulio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_tulio.Location = new System.Drawing.Point(1051, 423);
+            this.btn_tulio.Name = "btn_tulio";
+            this.btn_tulio.Size = new System.Drawing.Size(62, 55);
+            this.btn_tulio.TabIndex = 421;
+            this.btn_tulio.Text = "Tm";
+            this.btn_tulio.UseVisualStyleBackColor = false;
             // 
             // label272
             // 
@@ -4330,19 +4338,19 @@
             this.label272.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label272.Location = new System.Drawing.Point(986, 457);
             this.label272.Name = "label272";
-            this.label272.Size = new System.Drawing.Size(65, 15);
+            this.label272.Size = new System.Drawing.Size(36, 15);
             this.label272.TabIndex = 420;
-            this.label272.Text = "Hidrógeno";
+            this.label272.Text = "Erbio";
             // 
             // label273
             // 
             this.label273.AutoSize = true;
             this.label273.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label273.Location = new System.Drawing.Point(1020, 425);
+            this.label273.Location = new System.Drawing.Point(1007, 425);
             this.label273.Name = "label273";
-            this.label273.Size = new System.Drawing.Size(24, 15);
+            this.label273.Size = new System.Drawing.Size(38, 15);
             this.label273.TabIndex = 419;
-            this.label273.Text = "1,0";
+            this.label273.Text = "167,3";
             // 
             // label274
             // 
@@ -4350,19 +4358,19 @@
             this.label274.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label274.Location = new System.Drawing.Point(986, 426);
             this.label274.Name = "label274";
-            this.label274.Size = new System.Drawing.Size(14, 15);
+            this.label274.Size = new System.Drawing.Size(21, 15);
             this.label274.TabIndex = 418;
-            this.label274.Text = "1";
+            this.label274.Text = "68";
             // 
-            // button93
+            // btn_erbio
             // 
-            this.button93.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button93.Location = new System.Drawing.Point(982, 422);
-            this.button93.Name = "button93";
-            this.button93.Size = new System.Drawing.Size(62, 55);
-            this.button93.TabIndex = 417;
-            this.button93.Text = "H";
-            this.button93.UseVisualStyleBackColor = false;
+            this.btn_erbio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_erbio.Location = new System.Drawing.Point(982, 422);
+            this.btn_erbio.Name = "btn_erbio";
+            this.btn_erbio.Size = new System.Drawing.Size(62, 55);
+            this.btn_erbio.TabIndex = 417;
+            this.btn_erbio.Text = "Er";
+            this.btn_erbio.UseVisualStyleBackColor = false;
             // 
             // label275
             // 
@@ -4370,19 +4378,19 @@
             this.label275.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label275.Location = new System.Drawing.Point(918, 457);
             this.label275.Name = "label275";
-            this.label275.Size = new System.Drawing.Size(65, 15);
+            this.label275.Size = new System.Drawing.Size(47, 15);
             this.label275.TabIndex = 416;
-            this.label275.Text = "Hidrógeno";
+            this.label275.Text = "Holmio";
             // 
             // label276
             // 
             this.label276.AutoSize = true;
             this.label276.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label276.Location = new System.Drawing.Point(952, 425);
+            this.label276.Location = new System.Drawing.Point(935, 425);
             this.label276.Name = "label276";
-            this.label276.Size = new System.Drawing.Size(24, 15);
+            this.label276.Size = new System.Drawing.Size(38, 15);
             this.label276.TabIndex = 415;
-            this.label276.Text = "1,0";
+            this.label276.Text = "164,9";
             // 
             // label277
             // 
@@ -4390,39 +4398,39 @@
             this.label277.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label277.Location = new System.Drawing.Point(918, 426);
             this.label277.Name = "label277";
-            this.label277.Size = new System.Drawing.Size(14, 15);
+            this.label277.Size = new System.Drawing.Size(21, 15);
             this.label277.TabIndex = 414;
-            this.label277.Text = "1";
+            this.label277.Text = "67";
             // 
-            // button94
+            // btn_holmio
             // 
-            this.button94.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button94.Location = new System.Drawing.Point(914, 422);
-            this.button94.Name = "button94";
-            this.button94.Size = new System.Drawing.Size(62, 55);
-            this.button94.TabIndex = 413;
-            this.button94.Text = "H";
-            this.button94.UseVisualStyleBackColor = false;
+            this.btn_holmio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_holmio.Location = new System.Drawing.Point(914, 422);
+            this.btn_holmio.Name = "btn_holmio";
+            this.btn_holmio.Size = new System.Drawing.Size(62, 55);
+            this.btn_holmio.TabIndex = 413;
+            this.btn_holmio.Text = "Ho";
+            this.btn_holmio.UseVisualStyleBackColor = false;
             // 
             // label278
             // 
             this.label278.AutoSize = true;
             this.label278.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label278.Location = new System.Drawing.Point(850, 457);
+            this.label278.Location = new System.Drawing.Point(848, 459);
             this.label278.Name = "label278";
-            this.label278.Size = new System.Drawing.Size(65, 15);
+            this.label278.Size = new System.Drawing.Size(59, 15);
             this.label278.TabIndex = 412;
-            this.label278.Text = "Hidrógeno";
+            this.label278.Text = "Disprosio";
             // 
             // label279
             // 
             this.label279.AutoSize = true;
             this.label279.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label279.Location = new System.Drawing.Point(884, 425);
+            this.label279.Location = new System.Drawing.Point(869, 425);
             this.label279.Name = "label279";
-            this.label279.Size = new System.Drawing.Size(24, 15);
+            this.label279.Size = new System.Drawing.Size(38, 15);
             this.label279.TabIndex = 411;
-            this.label279.Text = "1,0";
+            this.label279.Text = "162,5";
             // 
             // label280
             // 
@@ -4430,19 +4438,19 @@
             this.label280.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label280.Location = new System.Drawing.Point(850, 426);
             this.label280.Name = "label280";
-            this.label280.Size = new System.Drawing.Size(14, 15);
+            this.label280.Size = new System.Drawing.Size(21, 15);
             this.label280.TabIndex = 410;
-            this.label280.Text = "1";
+            this.label280.Text = "66";
             // 
-            // button95
+            // btn_disprosio
             // 
-            this.button95.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button95.Location = new System.Drawing.Point(846, 422);
-            this.button95.Name = "button95";
-            this.button95.Size = new System.Drawing.Size(62, 55);
-            this.button95.TabIndex = 409;
-            this.button95.Text = "H";
-            this.button95.UseVisualStyleBackColor = false;
+            this.btn_disprosio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_disprosio.Location = new System.Drawing.Point(846, 422);
+            this.btn_disprosio.Name = "btn_disprosio";
+            this.btn_disprosio.Size = new System.Drawing.Size(62, 55);
+            this.btn_disprosio.TabIndex = 409;
+            this.btn_disprosio.Text = "Dy";
+            this.btn_disprosio.UseVisualStyleBackColor = false;
             // 
             // label281
             // 
@@ -4450,19 +4458,19 @@
             this.label281.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label281.Location = new System.Drawing.Point(782, 457);
             this.label281.Name = "label281";
-            this.label281.Size = new System.Drawing.Size(65, 15);
+            this.label281.Size = new System.Drawing.Size(42, 15);
             this.label281.TabIndex = 408;
-            this.label281.Text = "Hidrógeno";
+            this.label281.Text = "Terbio";
             // 
             // label282
             // 
             this.label282.AutoSize = true;
             this.label282.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label282.Location = new System.Drawing.Point(816, 425);
+            this.label282.Location = new System.Drawing.Point(801, 425);
             this.label282.Name = "label282";
-            this.label282.Size = new System.Drawing.Size(24, 15);
+            this.label282.Size = new System.Drawing.Size(38, 15);
             this.label282.TabIndex = 407;
-            this.label282.Text = "1,0";
+            this.label282.Text = "158,9";
             // 
             // label283
             // 
@@ -4470,19 +4478,19 @@
             this.label283.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label283.Location = new System.Drawing.Point(782, 426);
             this.label283.Name = "label283";
-            this.label283.Size = new System.Drawing.Size(14, 15);
+            this.label283.Size = new System.Drawing.Size(21, 15);
             this.label283.TabIndex = 406;
-            this.label283.Text = "1";
+            this.label283.Text = "65";
             // 
-            // button96
+            // btn_terbio
             // 
-            this.button96.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button96.Location = new System.Drawing.Point(778, 422);
-            this.button96.Name = "button96";
-            this.button96.Size = new System.Drawing.Size(62, 55);
-            this.button96.TabIndex = 405;
-            this.button96.Text = "H";
-            this.button96.UseVisualStyleBackColor = false;
+            this.btn_terbio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_terbio.Location = new System.Drawing.Point(778, 422);
+            this.btn_terbio.Name = "btn_terbio";
+            this.btn_terbio.Size = new System.Drawing.Size(62, 55);
+            this.btn_terbio.TabIndex = 405;
+            this.btn_terbio.Text = "Tb";
+            this.btn_terbio.UseVisualStyleBackColor = false;
             // 
             // label284
             // 
@@ -4490,19 +4498,19 @@
             this.label284.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label284.Location = new System.Drawing.Point(716, 457);
             this.label284.Name = "label284";
-            this.label284.Size = new System.Drawing.Size(65, 15);
+            this.label284.Size = new System.Drawing.Size(60, 15);
             this.label284.TabIndex = 404;
-            this.label284.Text = "Hidrógeno";
+            this.label284.Text = "Gadolinio";
             // 
             // label285
             // 
             this.label285.AutoSize = true;
             this.label285.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label285.Location = new System.Drawing.Point(750, 425);
+            this.label285.Location = new System.Drawing.Point(738, 425);
             this.label285.Name = "label285";
-            this.label285.Size = new System.Drawing.Size(24, 15);
+            this.label285.Size = new System.Drawing.Size(38, 15);
             this.label285.TabIndex = 403;
-            this.label285.Text = "1,0";
+            this.label285.Text = "157,2";
             // 
             // label286
             // 
@@ -4510,19 +4518,19 @@
             this.label286.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label286.Location = new System.Drawing.Point(716, 426);
             this.label286.Name = "label286";
-            this.label286.Size = new System.Drawing.Size(14, 15);
+            this.label286.Size = new System.Drawing.Size(21, 15);
             this.label286.TabIndex = 402;
-            this.label286.Text = "1";
+            this.label286.Text = "64";
             // 
-            // button97
+            // btn_gadolinio
             // 
-            this.button97.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button97.Location = new System.Drawing.Point(712, 422);
-            this.button97.Name = "button97";
-            this.button97.Size = new System.Drawing.Size(62, 55);
-            this.button97.TabIndex = 401;
-            this.button97.Text = "H";
-            this.button97.UseVisualStyleBackColor = false;
+            this.btn_gadolinio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_gadolinio.Location = new System.Drawing.Point(712, 422);
+            this.btn_gadolinio.Name = "btn_gadolinio";
+            this.btn_gadolinio.Size = new System.Drawing.Size(62, 55);
+            this.btn_gadolinio.TabIndex = 401;
+            this.btn_gadolinio.Text = "Gd";
+            this.btn_gadolinio.UseVisualStyleBackColor = false;
             // 
             // label287
             // 
@@ -4530,19 +4538,19 @@
             this.label287.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label287.Location = new System.Drawing.Point(648, 457);
             this.label287.Name = "label287";
-            this.label287.Size = new System.Drawing.Size(65, 15);
+            this.label287.Size = new System.Drawing.Size(50, 15);
             this.label287.TabIndex = 400;
-            this.label287.Text = "Hidrógeno";
+            this.label287.Text = "Europio";
             // 
             // label288
             // 
             this.label288.AutoSize = true;
             this.label288.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label288.Location = new System.Drawing.Point(682, 425);
+            this.label288.Location = new System.Drawing.Point(669, 425);
             this.label288.Name = "label288";
-            this.label288.Size = new System.Drawing.Size(24, 15);
+            this.label288.Size = new System.Drawing.Size(38, 15);
             this.label288.TabIndex = 399;
-            this.label288.Text = "1,0";
+            this.label288.Text = "152,0";
             // 
             // label289
             // 
@@ -4550,19 +4558,19 @@
             this.label289.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label289.Location = new System.Drawing.Point(648, 426);
             this.label289.Name = "label289";
-            this.label289.Size = new System.Drawing.Size(14, 15);
+            this.label289.Size = new System.Drawing.Size(21, 15);
             this.label289.TabIndex = 398;
-            this.label289.Text = "1";
+            this.label289.Text = "63";
             // 
-            // button98
+            // btn_euripio
             // 
-            this.button98.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button98.Location = new System.Drawing.Point(644, 422);
-            this.button98.Name = "button98";
-            this.button98.Size = new System.Drawing.Size(62, 55);
-            this.button98.TabIndex = 397;
-            this.button98.Text = "H";
-            this.button98.UseVisualStyleBackColor = false;
+            this.btn_euripio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_euripio.Location = new System.Drawing.Point(644, 422);
+            this.btn_euripio.Name = "btn_euripio";
+            this.btn_euripio.Size = new System.Drawing.Size(62, 55);
+            this.btn_euripio.TabIndex = 397;
+            this.btn_euripio.Text = "Eu";
+            this.btn_euripio.UseVisualStyleBackColor = false;
             // 
             // label290
             // 
@@ -4570,19 +4578,19 @@
             this.label290.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label290.Location = new System.Drawing.Point(583, 457);
             this.label290.Name = "label290";
-            this.label290.Size = new System.Drawing.Size(65, 15);
+            this.label290.Size = new System.Drawing.Size(54, 15);
             this.label290.TabIndex = 396;
-            this.label290.Text = "Hidrógeno";
+            this.label290.Text = "Samario";
             // 
             // label291
             // 
             this.label291.AutoSize = true;
             this.label291.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label291.Location = new System.Drawing.Point(617, 425);
+            this.label291.Location = new System.Drawing.Point(603, 425);
             this.label291.Name = "label291";
-            this.label291.Size = new System.Drawing.Size(24, 15);
+            this.label291.Size = new System.Drawing.Size(38, 15);
             this.label291.TabIndex = 395;
-            this.label291.Text = "1,0";
+            this.label291.Text = "150,3";
             // 
             // label292
             // 
@@ -4590,19 +4598,19 @@
             this.label292.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label292.Location = new System.Drawing.Point(583, 426);
             this.label292.Name = "label292";
-            this.label292.Size = new System.Drawing.Size(14, 15);
+            this.label292.Size = new System.Drawing.Size(21, 15);
             this.label292.TabIndex = 394;
-            this.label292.Text = "1";
+            this.label292.Text = "62";
             // 
-            // button99
+            // btn_samario
             // 
-            this.button99.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button99.Location = new System.Drawing.Point(579, 422);
-            this.button99.Name = "button99";
-            this.button99.Size = new System.Drawing.Size(62, 55);
-            this.button99.TabIndex = 393;
-            this.button99.Text = "H";
-            this.button99.UseVisualStyleBackColor = false;
+            this.btn_samario.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_samario.Location = new System.Drawing.Point(579, 422);
+            this.btn_samario.Name = "btn_samario";
+            this.btn_samario.Size = new System.Drawing.Size(62, 55);
+            this.btn_samario.TabIndex = 393;
+            this.btn_samario.Text = "Sm";
+            this.btn_samario.UseVisualStyleBackColor = false;
             // 
             // label293
             // 
@@ -4810,39 +4818,39 @@
             this.label308.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label308.Location = new System.Drawing.Point(1123, 519);
             this.label308.Name = "label308";
-            this.label308.Size = new System.Drawing.Size(65, 15);
+            this.label308.Size = new System.Drawing.Size(50, 15);
             this.label308.TabIndex = 484;
-            this.label308.Text = "Hidrógeno";
+            this.label308.Text = "Nobelio";
             // 
             // label309
             // 
             this.label309.AutoSize = true;
             this.label309.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label309.Location = new System.Drawing.Point(1157, 487);
+            this.label309.Location = new System.Drawing.Point(1151, 487);
             this.label309.Name = "label309";
-            this.label309.Size = new System.Drawing.Size(24, 15);
+            this.label309.Size = new System.Drawing.Size(36, 15);
             this.label309.TabIndex = 483;
-            this.label309.Text = "1,0";
+            this.label309.Text = "(259)";
             // 
             // label310
             // 
             this.label310.AutoSize = true;
             this.label310.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label310.Location = new System.Drawing.Point(1123, 488);
+            this.label310.Location = new System.Drawing.Point(1119, 488);
             this.label310.Name = "label310";
-            this.label310.Size = new System.Drawing.Size(14, 15);
+            this.label310.Size = new System.Drawing.Size(28, 15);
             this.label310.TabIndex = 482;
-            this.label310.Text = "1";
+            this.label310.Text = "102";
             // 
-            // button105
+            // btn_nobelio
             // 
-            this.button105.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button105.Location = new System.Drawing.Point(1119, 484);
-            this.button105.Name = "button105";
-            this.button105.Size = new System.Drawing.Size(62, 55);
-            this.button105.TabIndex = 481;
-            this.button105.Text = "H";
-            this.button105.UseVisualStyleBackColor = false;
+            this.btn_nobelio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_nobelio.Location = new System.Drawing.Point(1119, 484);
+            this.btn_nobelio.Name = "btn_nobelio";
+            this.btn_nobelio.Size = new System.Drawing.Size(62, 55);
+            this.btn_nobelio.TabIndex = 481;
+            this.btn_nobelio.Text = "No";
+            this.btn_nobelio.UseVisualStyleBackColor = false;
             // 
             // label311
             // 
@@ -4850,19 +4858,19 @@
             this.label311.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label311.Location = new System.Drawing.Point(1055, 519);
             this.label311.Name = "label311";
-            this.label311.Size = new System.Drawing.Size(65, 15);
+            this.label311.Size = new System.Drawing.Size(71, 15);
             this.label311.TabIndex = 480;
-            this.label311.Text = "Hidrógeno";
+            this.label311.Text = "Mendelevio";
             // 
             // label312
             // 
             this.label312.AutoSize = true;
             this.label312.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label312.Location = new System.Drawing.Point(1089, 487);
+            this.label312.Location = new System.Drawing.Point(1081, 487);
             this.label312.Name = "label312";
-            this.label312.Size = new System.Drawing.Size(24, 15);
+            this.label312.Size = new System.Drawing.Size(36, 15);
             this.label312.TabIndex = 479;
-            this.label312.Text = "1,0";
+            this.label312.Text = "(256)";
             // 
             // label313
             // 
@@ -4870,19 +4878,19 @@
             this.label313.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label313.Location = new System.Drawing.Point(1055, 488);
             this.label313.Name = "label313";
-            this.label313.Size = new System.Drawing.Size(14, 15);
+            this.label313.Size = new System.Drawing.Size(28, 15);
             this.label313.TabIndex = 478;
-            this.label313.Text = "1";
+            this.label313.Text = "101";
             // 
-            // button106
+            // btn_mendelevio
             // 
-            this.button106.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button106.Location = new System.Drawing.Point(1051, 484);
-            this.button106.Name = "button106";
-            this.button106.Size = new System.Drawing.Size(62, 55);
-            this.button106.TabIndex = 477;
-            this.button106.Text = "H";
-            this.button106.UseVisualStyleBackColor = false;
+            this.btn_mendelevio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_mendelevio.Location = new System.Drawing.Point(1051, 484);
+            this.btn_mendelevio.Name = "btn_mendelevio";
+            this.btn_mendelevio.Size = new System.Drawing.Size(62, 55);
+            this.btn_mendelevio.TabIndex = 477;
+            this.btn_mendelevio.Text = "Md";
+            this.btn_mendelevio.UseVisualStyleBackColor = false;
             // 
             // label314
             // 
@@ -4890,19 +4898,19 @@
             this.label314.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label314.Location = new System.Drawing.Point(986, 518);
             this.label314.Name = "label314";
-            this.label314.Size = new System.Drawing.Size(65, 15);
+            this.label314.Size = new System.Drawing.Size(46, 15);
             this.label314.TabIndex = 476;
-            this.label314.Text = "Hidrógeno";
+            this.label314.Text = "Fermio";
             // 
             // label315
             // 
             this.label315.AutoSize = true;
             this.label315.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label315.Location = new System.Drawing.Point(1020, 486);
+            this.label315.Location = new System.Drawing.Point(1009, 486);
             this.label315.Name = "label315";
-            this.label315.Size = new System.Drawing.Size(24, 15);
+            this.label315.Size = new System.Drawing.Size(36, 15);
             this.label315.TabIndex = 475;
-            this.label315.Text = "1,0";
+            this.label315.Text = "(257)";
             // 
             // label316
             // 
@@ -4910,19 +4918,19 @@
             this.label316.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label316.Location = new System.Drawing.Point(986, 487);
             this.label316.Name = "label316";
-            this.label316.Size = new System.Drawing.Size(14, 15);
+            this.label316.Size = new System.Drawing.Size(28, 15);
             this.label316.TabIndex = 474;
-            this.label316.Text = "1";
+            this.label316.Text = "100";
             // 
-            // button107
+            // btn_fermio
             // 
-            this.button107.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button107.Location = new System.Drawing.Point(982, 483);
-            this.button107.Name = "button107";
-            this.button107.Size = new System.Drawing.Size(62, 55);
-            this.button107.TabIndex = 473;
-            this.button107.Text = "H";
-            this.button107.UseVisualStyleBackColor = false;
+            this.btn_fermio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_fermio.Location = new System.Drawing.Point(982, 483);
+            this.btn_fermio.Name = "btn_fermio";
+            this.btn_fermio.Size = new System.Drawing.Size(62, 55);
+            this.btn_fermio.TabIndex = 473;
+            this.btn_fermio.Text = "Fm";
+            this.btn_fermio.UseVisualStyleBackColor = false;
             // 
             // label317
             // 
@@ -4930,19 +4938,20 @@
             this.label317.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label317.Location = new System.Drawing.Point(918, 518);
             this.label317.Name = "label317";
-            this.label317.Size = new System.Drawing.Size(65, 15);
+            this.label317.Size = new System.Drawing.Size(58, 15);
             this.label317.TabIndex = 472;
-            this.label317.Text = "Hidrógeno";
+            this.label317.Text = "Einstenio";
+            this.label317.Click += new System.EventHandler(this.label317_Click);
             // 
             // label318
             // 
             this.label318.AutoSize = true;
             this.label318.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label318.Location = new System.Drawing.Point(952, 486);
+            this.label318.Location = new System.Drawing.Point(937, 487);
             this.label318.Name = "label318";
-            this.label318.Size = new System.Drawing.Size(24, 15);
+            this.label318.Size = new System.Drawing.Size(36, 15);
             this.label318.TabIndex = 471;
-            this.label318.Text = "1,0";
+            this.label318.Text = "(252)";
             // 
             // label319
             // 
@@ -4950,19 +4959,19 @@
             this.label319.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label319.Location = new System.Drawing.Point(918, 487);
             this.label319.Name = "label319";
-            this.label319.Size = new System.Drawing.Size(14, 15);
+            this.label319.Size = new System.Drawing.Size(21, 15);
             this.label319.TabIndex = 470;
-            this.label319.Text = "1";
+            this.label319.Text = "99";
             // 
-            // button108
+            // btn_einstenio
             // 
-            this.button108.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button108.Location = new System.Drawing.Point(914, 483);
-            this.button108.Name = "button108";
-            this.button108.Size = new System.Drawing.Size(62, 55);
-            this.button108.TabIndex = 469;
-            this.button108.Text = "H";
-            this.button108.UseVisualStyleBackColor = false;
+            this.btn_einstenio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_einstenio.Location = new System.Drawing.Point(914, 483);
+            this.btn_einstenio.Name = "btn_einstenio";
+            this.btn_einstenio.Size = new System.Drawing.Size(62, 55);
+            this.btn_einstenio.TabIndex = 469;
+            this.btn_einstenio.Text = "Es";
+            this.btn_einstenio.UseVisualStyleBackColor = false;
             // 
             // label320
             // 
@@ -4970,19 +4979,19 @@
             this.label320.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label320.Location = new System.Drawing.Point(850, 518);
             this.label320.Name = "label320";
-            this.label320.Size = new System.Drawing.Size(65, 15);
+            this.label320.Size = new System.Drawing.Size(59, 15);
             this.label320.TabIndex = 468;
-            this.label320.Text = "Hidrógeno";
+            this.label320.Text = "Californio";
             // 
             // label321
             // 
             this.label321.AutoSize = true;
             this.label321.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label321.Location = new System.Drawing.Point(884, 486);
+            this.label321.Location = new System.Drawing.Point(871, 486);
             this.label321.Name = "label321";
-            this.label321.Size = new System.Drawing.Size(24, 15);
+            this.label321.Size = new System.Drawing.Size(36, 15);
             this.label321.TabIndex = 467;
-            this.label321.Text = "1,0";
+            this.label321.Text = "(251)";
             // 
             // label322
             // 
@@ -4990,19 +4999,19 @@
             this.label322.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label322.Location = new System.Drawing.Point(850, 487);
             this.label322.Name = "label322";
-            this.label322.Size = new System.Drawing.Size(14, 15);
+            this.label322.Size = new System.Drawing.Size(21, 15);
             this.label322.TabIndex = 466;
-            this.label322.Text = "1";
+            this.label322.Text = "98";
             // 
-            // button109
+            // btn_californio
             // 
-            this.button109.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button109.Location = new System.Drawing.Point(846, 483);
-            this.button109.Name = "button109";
-            this.button109.Size = new System.Drawing.Size(62, 55);
-            this.button109.TabIndex = 465;
-            this.button109.Text = "H";
-            this.button109.UseVisualStyleBackColor = false;
+            this.btn_californio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_californio.Location = new System.Drawing.Point(846, 483);
+            this.btn_californio.Name = "btn_californio";
+            this.btn_californio.Size = new System.Drawing.Size(62, 55);
+            this.btn_californio.TabIndex = 465;
+            this.btn_californio.Text = "Cf";
+            this.btn_californio.UseVisualStyleBackColor = false;
             // 
             // label323
             // 
@@ -5010,19 +5019,19 @@
             this.label323.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label323.Location = new System.Drawing.Point(782, 518);
             this.label323.Name = "label323";
-            this.label323.Size = new System.Drawing.Size(65, 15);
+            this.label323.Size = new System.Drawing.Size(60, 15);
             this.label323.TabIndex = 464;
-            this.label323.Text = "Hidrógeno";
+            this.label323.Text = "Berquelio";
             // 
             // label324
             // 
             this.label324.AutoSize = true;
             this.label324.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label324.Location = new System.Drawing.Point(816, 486);
+            this.label324.Location = new System.Drawing.Point(803, 486);
             this.label324.Name = "label324";
-            this.label324.Size = new System.Drawing.Size(24, 15);
+            this.label324.Size = new System.Drawing.Size(36, 15);
             this.label324.TabIndex = 463;
-            this.label324.Text = "1,0";
+            this.label324.Text = "(247)";
             // 
             // label325
             // 
@@ -5030,19 +5039,19 @@
             this.label325.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label325.Location = new System.Drawing.Point(782, 487);
             this.label325.Name = "label325";
-            this.label325.Size = new System.Drawing.Size(14, 15);
+            this.label325.Size = new System.Drawing.Size(21, 15);
             this.label325.TabIndex = 462;
-            this.label325.Text = "1";
+            this.label325.Text = "97";
             // 
-            // button110
+            // btn_berquelio
             // 
-            this.button110.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button110.Location = new System.Drawing.Point(778, 483);
-            this.button110.Name = "button110";
-            this.button110.Size = new System.Drawing.Size(62, 55);
-            this.button110.TabIndex = 461;
-            this.button110.Text = "H";
-            this.button110.UseVisualStyleBackColor = false;
+            this.btn_berquelio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_berquelio.Location = new System.Drawing.Point(778, 483);
+            this.btn_berquelio.Name = "btn_berquelio";
+            this.btn_berquelio.Size = new System.Drawing.Size(62, 55);
+            this.btn_berquelio.TabIndex = 461;
+            this.btn_berquelio.Text = "Bk";
+            this.btn_berquelio.UseVisualStyleBackColor = false;
             // 
             // label326
             // 
@@ -5050,19 +5059,19 @@
             this.label326.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label326.Location = new System.Drawing.Point(716, 518);
             this.label326.Name = "label326";
-            this.label326.Size = new System.Drawing.Size(65, 15);
+            this.label326.Size = new System.Drawing.Size(36, 15);
             this.label326.TabIndex = 460;
-            this.label326.Text = "Hidrógeno";
+            this.label326.Text = "Curio";
             // 
             // label327
             // 
             this.label327.AutoSize = true;
             this.label327.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label327.Location = new System.Drawing.Point(750, 486);
+            this.label327.Location = new System.Drawing.Point(741, 486);
             this.label327.Name = "label327";
-            this.label327.Size = new System.Drawing.Size(24, 15);
+            this.label327.Size = new System.Drawing.Size(36, 15);
             this.label327.TabIndex = 459;
-            this.label327.Text = "1,0";
+            this.label327.Text = "(247)";
             // 
             // label328
             // 
@@ -5070,19 +5079,19 @@
             this.label328.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label328.Location = new System.Drawing.Point(716, 487);
             this.label328.Name = "label328";
-            this.label328.Size = new System.Drawing.Size(14, 15);
+            this.label328.Size = new System.Drawing.Size(21, 15);
             this.label328.TabIndex = 458;
-            this.label328.Text = "1";
+            this.label328.Text = "96";
             // 
-            // button111
+            // btn_curio
             // 
-            this.button111.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button111.Location = new System.Drawing.Point(712, 483);
-            this.button111.Name = "button111";
-            this.button111.Size = new System.Drawing.Size(62, 55);
-            this.button111.TabIndex = 457;
-            this.button111.Text = "H";
-            this.button111.UseVisualStyleBackColor = false;
+            this.btn_curio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_curio.Location = new System.Drawing.Point(712, 483);
+            this.btn_curio.Name = "btn_curio";
+            this.btn_curio.Size = new System.Drawing.Size(62, 55);
+            this.btn_curio.TabIndex = 457;
+            this.btn_curio.Text = "Cm";
+            this.btn_curio.UseVisualStyleBackColor = false;
             // 
             // label329
             // 
@@ -5090,19 +5099,19 @@
             this.label329.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label329.Location = new System.Drawing.Point(648, 518);
             this.label329.Name = "label329";
-            this.label329.Size = new System.Drawing.Size(65, 15);
+            this.label329.Size = new System.Drawing.Size(55, 15);
             this.label329.TabIndex = 456;
-            this.label329.Text = "Hidrógeno";
+            this.label329.Text = "Americio";
             // 
             // label330
             // 
             this.label330.AutoSize = true;
             this.label330.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label330.Location = new System.Drawing.Point(682, 486);
+            this.label330.Location = new System.Drawing.Point(670, 486);
             this.label330.Name = "label330";
-            this.label330.Size = new System.Drawing.Size(24, 15);
+            this.label330.Size = new System.Drawing.Size(36, 15);
             this.label330.TabIndex = 455;
-            this.label330.Text = "1,0";
+            this.label330.Text = "(243)";
             // 
             // label331
             // 
@@ -5110,19 +5119,19 @@
             this.label331.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label331.Location = new System.Drawing.Point(648, 487);
             this.label331.Name = "label331";
-            this.label331.Size = new System.Drawing.Size(14, 15);
+            this.label331.Size = new System.Drawing.Size(21, 15);
             this.label331.TabIndex = 454;
-            this.label331.Text = "1";
+            this.label331.Text = "95";
             // 
-            // button112
+            // btn_americio
             // 
-            this.button112.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button112.Location = new System.Drawing.Point(644, 483);
-            this.button112.Name = "button112";
-            this.button112.Size = new System.Drawing.Size(62, 55);
-            this.button112.TabIndex = 453;
-            this.button112.Text = "H";
-            this.button112.UseVisualStyleBackColor = false;
+            this.btn_americio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_americio.Location = new System.Drawing.Point(644, 483);
+            this.btn_americio.Name = "btn_americio";
+            this.btn_americio.Size = new System.Drawing.Size(62, 55);
+            this.btn_americio.TabIndex = 453;
+            this.btn_americio.Text = "Am";
+            this.btn_americio.UseVisualStyleBackColor = false;
             // 
             // label332
             // 
@@ -5130,19 +5139,19 @@
             this.label332.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label332.Location = new System.Drawing.Point(583, 518);
             this.label332.Name = "label332";
-            this.label332.Size = new System.Drawing.Size(65, 15);
+            this.label332.Size = new System.Drawing.Size(52, 15);
             this.label332.TabIndex = 452;
-            this.label332.Text = "Hidrógeno";
+            this.label332.Text = "Plutonio";
             // 
             // label333
             // 
             this.label333.AutoSize = true;
             this.label333.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label333.Location = new System.Drawing.Point(617, 486);
+            this.label333.Location = new System.Drawing.Point(605, 486);
             this.label333.Name = "label333";
-            this.label333.Size = new System.Drawing.Size(24, 15);
+            this.label333.Size = new System.Drawing.Size(36, 15);
             this.label333.TabIndex = 451;
-            this.label333.Text = "1,0";
+            this.label333.Text = "(242)";
             // 
             // label334
             // 
@@ -5150,19 +5159,19 @@
             this.label334.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label334.Location = new System.Drawing.Point(583, 487);
             this.label334.Name = "label334";
-            this.label334.Size = new System.Drawing.Size(14, 15);
+            this.label334.Size = new System.Drawing.Size(21, 15);
             this.label334.TabIndex = 450;
-            this.label334.Text = "1";
+            this.label334.Text = "94";
             // 
-            // button113
+            // btn_plutonio
             // 
-            this.button113.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button113.Location = new System.Drawing.Point(579, 483);
-            this.button113.Name = "button113";
-            this.button113.Size = new System.Drawing.Size(62, 55);
-            this.button113.TabIndex = 449;
-            this.button113.Text = "H";
-            this.button113.UseVisualStyleBackColor = false;
+            this.btn_plutonio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_plutonio.Location = new System.Drawing.Point(579, 483);
+            this.btn_plutonio.Name = "btn_plutonio";
+            this.btn_plutonio.Size = new System.Drawing.Size(62, 55);
+            this.btn_plutonio.TabIndex = 449;
+            this.btn_plutonio.Text = "Pu";
+            this.btn_plutonio.UseVisualStyleBackColor = false;
             // 
             // label335
             // 
@@ -5382,25 +5391,25 @@
             this.comboBox1.Size = new System.Drawing.Size(132, 28);
             this.comboBox1.TabIndex = 486;
             // 
-            // button119
+            // btn_aleatorio
             // 
-            this.button119.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button119.Location = new System.Drawing.Point(646, 692);
-            this.button119.Name = "button119";
-            this.button119.Size = new System.Drawing.Size(127, 31);
-            this.button119.TabIndex = 492;
-            this.button119.Text = "Aleatorio";
-            this.button119.UseVisualStyleBackColor = true;
+            this.btn_aleatorio.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_aleatorio.Location = new System.Drawing.Point(646, 692);
+            this.btn_aleatorio.Name = "btn_aleatorio";
+            this.btn_aleatorio.Size = new System.Drawing.Size(127, 31);
+            this.btn_aleatorio.TabIndex = 492;
+            this.btn_aleatorio.Text = "Aleatorio";
+            this.btn_aleatorio.UseVisualStyleBackColor = true;
             // 
-            // button120
+            // btn_mostrar_reaccion
             // 
-            this.button120.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button120.Location = new System.Drawing.Point(845, 692);
-            this.button120.Name = "button120";
-            this.button120.Size = new System.Drawing.Size(171, 31);
-            this.button120.TabIndex = 493;
-            this.button120.Text = "Mostrar reacción";
-            this.button120.UseVisualStyleBackColor = true;
+            this.btn_mostrar_reaccion.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_mostrar_reaccion.Location = new System.Drawing.Point(845, 692);
+            this.btn_mostrar_reaccion.Name = "btn_mostrar_reaccion";
+            this.btn_mostrar_reaccion.Size = new System.Drawing.Size(171, 31);
+            this.btn_mostrar_reaccion.TabIndex = 493;
+            this.btn_mostrar_reaccion.Text = "Mostrar reacción";
+            this.btn_mostrar_reaccion.UseVisualStyleBackColor = true;
             // 
             // label351
             // 
@@ -5501,12 +5510,78 @@
             this.comboBox6.Size = new System.Drawing.Size(132, 28);
             this.comboBox6.TabIndex = 503;
             // 
+            // label357
+            // 
+            this.label357.AutoSize = true;
+            this.label357.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label357.Location = new System.Drawing.Point(1192, 69);
+            this.label357.Name = "label357";
+            this.label357.Size = new System.Drawing.Size(14, 15);
+            this.label357.TabIndex = 506;
+            this.label357.Text = "9";
+            // 
+            // label358
+            // 
+            this.label358.AutoSize = true;
+            this.label358.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label358.Location = new System.Drawing.Point(1192, 126);
+            this.label358.Name = "label358";
+            this.label358.Size = new System.Drawing.Size(21, 15);
+            this.label358.TabIndex = 507;
+            this.label358.Text = "17";
+            // 
+            // label359
+            // 
+            this.label359.AutoSize = true;
+            this.label359.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label359.Location = new System.Drawing.Point(1193, 186);
+            this.label359.Name = "label359";
+            this.label359.Size = new System.Drawing.Size(21, 15);
+            this.label359.TabIndex = 508;
+            this.label359.Text = "35";
+            // 
+            // label360
+            // 
+            this.label360.AutoSize = true;
+            this.label360.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label360.Location = new System.Drawing.Point(1193, 244);
+            this.label360.Name = "label360";
+            this.label360.Size = new System.Drawing.Size(21, 15);
+            this.label360.TabIndex = 509;
+            this.label360.Text = "53";
+            // 
+            // label361
+            // 
+            this.label361.AutoSize = true;
+            this.label361.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label361.Location = new System.Drawing.Point(1193, 302);
+            this.label361.Name = "label361";
+            this.label361.Size = new System.Drawing.Size(21, 15);
+            this.label361.TabIndex = 510;
+            this.label361.Text = "85";
+            // 
+            // label362
+            // 
+            this.label362.AutoSize = true;
+            this.label362.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label362.Location = new System.Drawing.Point(1190, 360);
+            this.label362.Name = "label362";
+            this.label362.Size = new System.Drawing.Size(28, 15);
+            this.label362.TabIndex = 511;
+            this.label362.Text = "117";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(1382, 830);
+            this.Controls.Add(this.label362);
+            this.Controls.Add(this.label361);
+            this.Controls.Add(this.label360);
+            this.Controls.Add(this.label359);
+            this.Controls.Add(this.label358);
+            this.Controls.Add(this.label357);
             this.Controls.Add(this.comboBox4);
             this.Controls.Add(this.comboBox5);
             this.Controls.Add(this.comboBox6);
@@ -5518,46 +5593,46 @@
             this.Controls.Add(this.label353);
             this.Controls.Add(this.label352);
             this.Controls.Add(this.label351);
-            this.Controls.Add(this.button120);
-            this.Controls.Add(this.button119);
+            this.Controls.Add(this.btn_mostrar_reaccion);
+            this.Controls.Add(this.btn_aleatorio);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.label350);
             this.Controls.Add(this.label308);
             this.Controls.Add(this.label309);
             this.Controls.Add(this.label310);
-            this.Controls.Add(this.button105);
+            this.Controls.Add(this.btn_nobelio);
             this.Controls.Add(this.label311);
             this.Controls.Add(this.label312);
             this.Controls.Add(this.label313);
-            this.Controls.Add(this.button106);
+            this.Controls.Add(this.btn_mendelevio);
             this.Controls.Add(this.label314);
             this.Controls.Add(this.label315);
             this.Controls.Add(this.label316);
-            this.Controls.Add(this.button107);
+            this.Controls.Add(this.btn_fermio);
             this.Controls.Add(this.label317);
             this.Controls.Add(this.label318);
             this.Controls.Add(this.label319);
-            this.Controls.Add(this.button108);
+            this.Controls.Add(this.btn_einstenio);
             this.Controls.Add(this.label320);
             this.Controls.Add(this.label321);
             this.Controls.Add(this.label322);
-            this.Controls.Add(this.button109);
+            this.Controls.Add(this.btn_californio);
             this.Controls.Add(this.label323);
             this.Controls.Add(this.label324);
             this.Controls.Add(this.label325);
-            this.Controls.Add(this.button110);
+            this.Controls.Add(this.btn_berquelio);
             this.Controls.Add(this.label326);
             this.Controls.Add(this.label327);
             this.Controls.Add(this.label328);
-            this.Controls.Add(this.button111);
+            this.Controls.Add(this.btn_curio);
             this.Controls.Add(this.label329);
             this.Controls.Add(this.label330);
             this.Controls.Add(this.label331);
-            this.Controls.Add(this.button112);
+            this.Controls.Add(this.btn_americio);
             this.Controls.Add(this.label332);
             this.Controls.Add(this.label333);
             this.Controls.Add(this.label334);
-            this.Controls.Add(this.button113);
+            this.Controls.Add(this.btn_plutonio);
             this.Controls.Add(this.label335);
             this.Controls.Add(this.label336);
             this.Controls.Add(this.label337);
@@ -5581,39 +5656,39 @@
             this.Controls.Add(this.label14);
             this.Controls.Add(this.label15);
             this.Controls.Add(this.label16);
-            this.Controls.Add(this.button5);
+            this.Controls.Add(this.btn_iterbio);
             this.Controls.Add(this.label269);
             this.Controls.Add(this.label270);
             this.Controls.Add(this.label271);
-            this.Controls.Add(this.button92);
+            this.Controls.Add(this.btn_tulio);
             this.Controls.Add(this.label272);
             this.Controls.Add(this.label273);
             this.Controls.Add(this.label274);
-            this.Controls.Add(this.button93);
+            this.Controls.Add(this.btn_erbio);
             this.Controls.Add(this.label275);
             this.Controls.Add(this.label276);
             this.Controls.Add(this.label277);
-            this.Controls.Add(this.button94);
+            this.Controls.Add(this.btn_holmio);
             this.Controls.Add(this.label278);
             this.Controls.Add(this.label279);
             this.Controls.Add(this.label280);
-            this.Controls.Add(this.button95);
+            this.Controls.Add(this.btn_disprosio);
             this.Controls.Add(this.label281);
             this.Controls.Add(this.label282);
             this.Controls.Add(this.label283);
-            this.Controls.Add(this.button96);
+            this.Controls.Add(this.btn_terbio);
             this.Controls.Add(this.label284);
             this.Controls.Add(this.label285);
             this.Controls.Add(this.label286);
-            this.Controls.Add(this.button97);
+            this.Controls.Add(this.btn_gadolinio);
             this.Controls.Add(this.label287);
             this.Controls.Add(this.label288);
             this.Controls.Add(this.label289);
-            this.Controls.Add(this.button98);
+            this.Controls.Add(this.btn_euripio);
             this.Controls.Add(this.label290);
             this.Controls.Add(this.label291);
             this.Controls.Add(this.label292);
-            this.Controls.Add(this.button99);
+            this.Controls.Add(this.btn_samario);
             this.Controls.Add(this.label293);
             this.Controls.Add(this.label294);
             this.Controls.Add(this.label295);
@@ -5637,225 +5712,225 @@
             this.Controls.Add(this.label248);
             this.Controls.Add(this.label249);
             this.Controls.Add(this.label250);
-            this.Controls.Add(this.button85);
+            this.Controls.Add(this.btn_oganeson);
             this.Controls.Add(this.label251);
             this.Controls.Add(this.label252);
             this.Controls.Add(this.label253);
-            this.Controls.Add(this.button86);
+            this.Controls.Add(this.btn_radon);
             this.Controls.Add(this.label254);
             this.Controls.Add(this.label255);
             this.Controls.Add(this.label256);
-            this.Controls.Add(this.button87);
+            this.Controls.Add(this.btn_xenon);
             this.Controls.Add(this.label257);
             this.Controls.Add(this.label258);
             this.Controls.Add(this.label259);
-            this.Controls.Add(this.button88);
+            this.Controls.Add(this.btn_kripton);
             this.Controls.Add(this.label260);
             this.Controls.Add(this.label261);
             this.Controls.Add(this.label262);
-            this.Controls.Add(this.button89);
+            this.Controls.Add(this.btn_argon);
             this.Controls.Add(this.label263);
             this.Controls.Add(this.label264);
             this.Controls.Add(this.label265);
-            this.Controls.Add(this.button90);
+            this.Controls.Add(this.btn_neon);
             this.Controls.Add(this.label266);
             this.Controls.Add(this.label267);
             this.Controls.Add(this.label268);
             this.Controls.Add(this.button91);
             this.Controls.Add(this.label236);
             this.Controls.Add(this.label237);
-            this.Controls.Add(this.button79);
+            this.Controls.Add(this.btn_teneso);
             this.Controls.Add(this.label238);
             this.Controls.Add(this.label239);
-            this.Controls.Add(this.button80);
+            this.Controls.Add(this.btn_astato);
             this.Controls.Add(this.label240);
             this.Controls.Add(this.label241);
-            this.Controls.Add(this.button81);
+            this.Controls.Add(this.btn_yodo);
             this.Controls.Add(this.label242);
             this.Controls.Add(this.label243);
-            this.Controls.Add(this.button82);
+            this.Controls.Add(this.btn_bromo);
             this.Controls.Add(this.label244);
             this.Controls.Add(this.label245);
-            this.Controls.Add(this.button83);
+            this.Controls.Add(this.btn_cloro);
             this.Controls.Add(this.label246);
             this.Controls.Add(this.label247);
-            this.Controls.Add(this.button84);
+            this.Controls.Add(this.btn_fluor);
             this.Controls.Add(this.label200);
             this.Controls.Add(this.label201);
             this.Controls.Add(this.label202);
-            this.Controls.Add(this.button67);
+            this.Controls.Add(this.btn_livermorio);
             this.Controls.Add(this.label203);
             this.Controls.Add(this.label204);
             this.Controls.Add(this.label205);
-            this.Controls.Add(this.button68);
+            this.Controls.Add(this.btn_polonio);
             this.Controls.Add(this.label206);
             this.Controls.Add(this.label207);
             this.Controls.Add(this.label208);
-            this.Controls.Add(this.button69);
+            this.Controls.Add(this.btn_teluro);
             this.Controls.Add(this.label209);
             this.Controls.Add(this.label210);
             this.Controls.Add(this.label211);
-            this.Controls.Add(this.button70);
+            this.Controls.Add(this.btn_selenio);
             this.Controls.Add(this.label212);
             this.Controls.Add(this.label213);
             this.Controls.Add(this.label214);
-            this.Controls.Add(this.button71);
+            this.Controls.Add(this.btn_azufre);
             this.Controls.Add(this.label215);
             this.Controls.Add(this.label216);
             this.Controls.Add(this.label217);
-            this.Controls.Add(this.button72);
+            this.Controls.Add(this.btn_oxigeno);
             this.Controls.Add(this.label218);
             this.Controls.Add(this.label219);
             this.Controls.Add(this.label220);
-            this.Controls.Add(this.button73);
+            this.Controls.Add(this.btn_moscovio);
             this.Controls.Add(this.label221);
             this.Controls.Add(this.label222);
             this.Controls.Add(this.label223);
-            this.Controls.Add(this.button74);
+            this.Controls.Add(this.btn_bismuto);
             this.Controls.Add(this.label224);
             this.Controls.Add(this.label225);
             this.Controls.Add(this.label226);
-            this.Controls.Add(this.button75);
+            this.Controls.Add(this.btn_antimonio);
             this.Controls.Add(this.label227);
             this.Controls.Add(this.label228);
             this.Controls.Add(this.label229);
-            this.Controls.Add(this.button76);
+            this.Controls.Add(this.btn_arsenico);
             this.Controls.Add(this.label230);
             this.Controls.Add(this.label231);
             this.Controls.Add(this.label232);
-            this.Controls.Add(this.button77);
+            this.Controls.Add(this.btn_fosforo);
             this.Controls.Add(this.label233);
             this.Controls.Add(this.label234);
             this.Controls.Add(this.label235);
-            this.Controls.Add(this.button78);
+            this.Controls.Add(this.btn_nitrogeno);
             this.Controls.Add(this.label164);
             this.Controls.Add(this.label165);
             this.Controls.Add(this.label166);
-            this.Controls.Add(this.button55);
+            this.Controls.Add(this.btn_flerovio);
             this.Controls.Add(this.label167);
             this.Controls.Add(this.label168);
             this.Controls.Add(this.label169);
-            this.Controls.Add(this.button56);
+            this.Controls.Add(this.btn_plomo);
             this.Controls.Add(this.label170);
             this.Controls.Add(this.label171);
             this.Controls.Add(this.label172);
-            this.Controls.Add(this.button57);
+            this.Controls.Add(this.btn_estaño);
             this.Controls.Add(this.label173);
             this.Controls.Add(this.label174);
             this.Controls.Add(this.label175);
-            this.Controls.Add(this.button58);
+            this.Controls.Add(this.btn_germanio);
             this.Controls.Add(this.label176);
             this.Controls.Add(this.label177);
             this.Controls.Add(this.label178);
-            this.Controls.Add(this.button59);
+            this.Controls.Add(this.btn_silicio);
             this.Controls.Add(this.label179);
             this.Controls.Add(this.label180);
             this.Controls.Add(this.label181);
-            this.Controls.Add(this.button60);
+            this.Controls.Add(this.btn_carbono);
             this.Controls.Add(this.label182);
             this.Controls.Add(this.label183);
             this.Controls.Add(this.label184);
-            this.Controls.Add(this.button61);
+            this.Controls.Add(this.btn_nihonio);
             this.Controls.Add(this.label185);
             this.Controls.Add(this.label186);
             this.Controls.Add(this.label187);
-            this.Controls.Add(this.button62);
+            this.Controls.Add(this.btn_talio);
             this.Controls.Add(this.label188);
             this.Controls.Add(this.label189);
             this.Controls.Add(this.label190);
-            this.Controls.Add(this.button63);
+            this.Controls.Add(this.btn_indio);
             this.Controls.Add(this.label191);
             this.Controls.Add(this.label192);
             this.Controls.Add(this.label193);
-            this.Controls.Add(this.button64);
+            this.Controls.Add(this.btn_galio);
             this.Controls.Add(this.label194);
             this.Controls.Add(this.label195);
             this.Controls.Add(this.label196);
-            this.Controls.Add(this.button65);
+            this.Controls.Add(this.btn_aluminio);
             this.Controls.Add(this.label197);
             this.Controls.Add(this.label198);
             this.Controls.Add(this.label199);
-            this.Controls.Add(this.button66);
+            this.Controls.Add(this.btn_boro);
             this.Controls.Add(this.label116);
             this.Controls.Add(this.label117);
             this.Controls.Add(this.label118);
-            this.Controls.Add(this.button39);
+            this.Controls.Add(this.btn_copernico);
             this.Controls.Add(this.label119);
             this.Controls.Add(this.label120);
             this.Controls.Add(this.label121);
-            this.Controls.Add(this.button40);
+            this.Controls.Add(this.btn_mercurio);
             this.Controls.Add(this.label122);
             this.Controls.Add(this.label123);
             this.Controls.Add(this.label124);
-            this.Controls.Add(this.button41);
+            this.Controls.Add(this.btn_cadmio);
             this.Controls.Add(this.label125);
             this.Controls.Add(this.label126);
             this.Controls.Add(this.label127);
-            this.Controls.Add(this.button42);
+            this.Controls.Add(this.btn_cinc);
             this.Controls.Add(this.label128);
             this.Controls.Add(this.label129);
             this.Controls.Add(this.label130);
-            this.Controls.Add(this.button43);
+            this.Controls.Add(this.btn_roentgenio);
             this.Controls.Add(this.label131);
             this.Controls.Add(this.label132);
             this.Controls.Add(this.label133);
-            this.Controls.Add(this.button44);
+            this.Controls.Add(this.btn_oro);
             this.Controls.Add(this.label134);
             this.Controls.Add(this.label135);
             this.Controls.Add(this.label136);
-            this.Controls.Add(this.button45);
+            this.Controls.Add(this.btn_plata);
             this.Controls.Add(this.label137);
             this.Controls.Add(this.label138);
             this.Controls.Add(this.label139);
-            this.Controls.Add(this.button46);
+            this.Controls.Add(this.btn_cobre);
             this.Controls.Add(this.label140);
             this.Controls.Add(this.label141);
             this.Controls.Add(this.label142);
-            this.Controls.Add(this.button47);
+            this.Controls.Add(this.btn_darmstatio);
             this.Controls.Add(this.label143);
             this.Controls.Add(this.label144);
             this.Controls.Add(this.label145);
-            this.Controls.Add(this.button48);
+            this.Controls.Add(this.btn_platino);
             this.Controls.Add(this.label146);
             this.Controls.Add(this.label147);
             this.Controls.Add(this.label148);
-            this.Controls.Add(this.button49);
+            this.Controls.Add(this.btn_paladio);
             this.Controls.Add(this.label149);
             this.Controls.Add(this.label150);
             this.Controls.Add(this.label151);
-            this.Controls.Add(this.button50);
+            this.Controls.Add(this.btn_niquel);
             this.Controls.Add(this.label152);
             this.Controls.Add(this.label153);
             this.Controls.Add(this.label154);
-            this.Controls.Add(this.button51);
+            this.Controls.Add(this.btn_meitnerio);
             this.Controls.Add(this.label155);
             this.Controls.Add(this.label156);
             this.Controls.Add(this.label157);
-            this.Controls.Add(this.button52);
+            this.Controls.Add(this.btn_iridio);
             this.Controls.Add(this.label158);
             this.Controls.Add(this.label159);
             this.Controls.Add(this.label160);
-            this.Controls.Add(this.button53);
+            this.Controls.Add(this.btn_rodio);
             this.Controls.Add(this.label161);
             this.Controls.Add(this.label162);
             this.Controls.Add(this.label163);
-            this.Controls.Add(this.button54);
+            this.Controls.Add(this.btn_cobalto);
             this.Controls.Add(this.label68);
             this.Controls.Add(this.label69);
             this.Controls.Add(this.label70);
-            this.Controls.Add(this.button23);
+            this.Controls.Add(this.btn_hassio);
             this.Controls.Add(this.label71);
             this.Controls.Add(this.label72);
             this.Controls.Add(this.label73);
-            this.Controls.Add(this.button24);
+            this.Controls.Add(this.btn_osmio);
             this.Controls.Add(this.label74);
             this.Controls.Add(this.label75);
             this.Controls.Add(this.label76);
-            this.Controls.Add(this.button25);
+            this.Controls.Add(this.btn_rutenio);
             this.Controls.Add(this.label77);
             this.Controls.Add(this.label78);
             this.Controls.Add(this.label79);
-            this.Controls.Add(this.button26);
+            this.Controls.Add(this.btn_hierro);
             this.Controls.Add(this.label80);
             this.Controls.Add(this.label81);
             this.Controls.Add(this.label82);
@@ -6117,19 +6192,19 @@
         private System.Windows.Forms.Label label68;
         private System.Windows.Forms.Label label69;
         private System.Windows.Forms.Label label70;
-        private System.Windows.Forms.Button button23;
+        private System.Windows.Forms.Button btn_hassio;
         private System.Windows.Forms.Label label71;
         private System.Windows.Forms.Label label72;
         private System.Windows.Forms.Label label73;
-        private System.Windows.Forms.Button button24;
+        private System.Windows.Forms.Button btn_osmio;
         private System.Windows.Forms.Label label74;
         private System.Windows.Forms.Label label75;
         private System.Windows.Forms.Label label76;
-        private System.Windows.Forms.Button button25;
+        private System.Windows.Forms.Button btn_rutenio;
         private System.Windows.Forms.Label label77;
         private System.Windows.Forms.Label label78;
         private System.Windows.Forms.Label label79;
-        private System.Windows.Forms.Button button26;
+        private System.Windows.Forms.Button btn_hierro;
         private System.Windows.Forms.Label label80;
         private System.Windows.Forms.Label label81;
         private System.Windows.Forms.Label label82;
@@ -6181,245 +6256,245 @@
         private System.Windows.Forms.Label label116;
         private System.Windows.Forms.Label label117;
         private System.Windows.Forms.Label label118;
-        private System.Windows.Forms.Button button39;
+        private System.Windows.Forms.Button btn_copernico;
         private System.Windows.Forms.Label label119;
         private System.Windows.Forms.Label label120;
         private System.Windows.Forms.Label label121;
-        private System.Windows.Forms.Button button40;
+        private System.Windows.Forms.Button btn_mercurio;
         private System.Windows.Forms.Label label122;
         private System.Windows.Forms.Label label123;
         private System.Windows.Forms.Label label124;
-        private System.Windows.Forms.Button button41;
+        private System.Windows.Forms.Button btn_cadmio;
         private System.Windows.Forms.Label label125;
         private System.Windows.Forms.Label label126;
         private System.Windows.Forms.Label label127;
-        private System.Windows.Forms.Button button42;
+        private System.Windows.Forms.Button btn_cinc;
         private System.Windows.Forms.Label label128;
         private System.Windows.Forms.Label label129;
         private System.Windows.Forms.Label label130;
-        private System.Windows.Forms.Button button43;
+        private System.Windows.Forms.Button btn_roentgenio;
         private System.Windows.Forms.Label label131;
         private System.Windows.Forms.Label label132;
         private System.Windows.Forms.Label label133;
-        private System.Windows.Forms.Button button44;
+        private System.Windows.Forms.Button btn_oro;
         private System.Windows.Forms.Label label134;
         private System.Windows.Forms.Label label135;
         private System.Windows.Forms.Label label136;
-        private System.Windows.Forms.Button button45;
+        private System.Windows.Forms.Button btn_plata;
         private System.Windows.Forms.Label label137;
         private System.Windows.Forms.Label label138;
         private System.Windows.Forms.Label label139;
-        private System.Windows.Forms.Button button46;
+        private System.Windows.Forms.Button btn_cobre;
         private System.Windows.Forms.Label label140;
         private System.Windows.Forms.Label label141;
         private System.Windows.Forms.Label label142;
-        private System.Windows.Forms.Button button47;
+        private System.Windows.Forms.Button btn_darmstatio;
         private System.Windows.Forms.Label label143;
         private System.Windows.Forms.Label label144;
         private System.Windows.Forms.Label label145;
-        private System.Windows.Forms.Button button48;
+        private System.Windows.Forms.Button btn_platino;
         private System.Windows.Forms.Label label146;
         private System.Windows.Forms.Label label147;
         private System.Windows.Forms.Label label148;
-        private System.Windows.Forms.Button button49;
+        private System.Windows.Forms.Button btn_paladio;
         private System.Windows.Forms.Label label149;
         private System.Windows.Forms.Label label150;
         private System.Windows.Forms.Label label151;
-        private System.Windows.Forms.Button button50;
+        private System.Windows.Forms.Button btn_niquel;
         private System.Windows.Forms.Label label152;
         private System.Windows.Forms.Label label153;
         private System.Windows.Forms.Label label154;
-        private System.Windows.Forms.Button button51;
+        private System.Windows.Forms.Button btn_meitnerio;
         private System.Windows.Forms.Label label155;
         private System.Windows.Forms.Label label156;
         private System.Windows.Forms.Label label157;
-        private System.Windows.Forms.Button button52;
+        private System.Windows.Forms.Button btn_iridio;
         private System.Windows.Forms.Label label158;
         private System.Windows.Forms.Label label159;
         private System.Windows.Forms.Label label160;
-        private System.Windows.Forms.Button button53;
+        private System.Windows.Forms.Button btn_rodio;
         private System.Windows.Forms.Label label161;
         private System.Windows.Forms.Label label162;
         private System.Windows.Forms.Label label163;
-        private System.Windows.Forms.Button button54;
+        private System.Windows.Forms.Button btn_cobalto;
         private System.Windows.Forms.Label label164;
         private System.Windows.Forms.Label label165;
         private System.Windows.Forms.Label label166;
-        private System.Windows.Forms.Button button55;
+        private System.Windows.Forms.Button btn_flerovio;
         private System.Windows.Forms.Label label167;
         private System.Windows.Forms.Label label168;
         private System.Windows.Forms.Label label169;
-        private System.Windows.Forms.Button button56;
+        private System.Windows.Forms.Button btn_plomo;
         private System.Windows.Forms.Label label170;
         private System.Windows.Forms.Label label171;
         private System.Windows.Forms.Label label172;
-        private System.Windows.Forms.Button button57;
+        private System.Windows.Forms.Button btn_estaño;
         private System.Windows.Forms.Label label173;
         private System.Windows.Forms.Label label174;
         private System.Windows.Forms.Label label175;
-        private System.Windows.Forms.Button button58;
+        private System.Windows.Forms.Button btn_germanio;
         private System.Windows.Forms.Label label176;
         private System.Windows.Forms.Label label177;
         private System.Windows.Forms.Label label178;
-        private System.Windows.Forms.Button button59;
+        private System.Windows.Forms.Button btn_silicio;
         private System.Windows.Forms.Label label179;
         private System.Windows.Forms.Label label180;
         private System.Windows.Forms.Label label181;
-        private System.Windows.Forms.Button button60;
+        private System.Windows.Forms.Button btn_carbono;
         private System.Windows.Forms.Label label182;
         private System.Windows.Forms.Label label183;
         private System.Windows.Forms.Label label184;
-        private System.Windows.Forms.Button button61;
+        private System.Windows.Forms.Button btn_nihonio;
         private System.Windows.Forms.Label label185;
         private System.Windows.Forms.Label label186;
         private System.Windows.Forms.Label label187;
-        private System.Windows.Forms.Button button62;
+        private System.Windows.Forms.Button btn_talio;
         private System.Windows.Forms.Label label188;
         private System.Windows.Forms.Label label189;
         private System.Windows.Forms.Label label190;
-        private System.Windows.Forms.Button button63;
+        private System.Windows.Forms.Button btn_indio;
         private System.Windows.Forms.Label label191;
         private System.Windows.Forms.Label label192;
         private System.Windows.Forms.Label label193;
-        private System.Windows.Forms.Button button64;
+        private System.Windows.Forms.Button btn_galio;
         private System.Windows.Forms.Label label194;
         private System.Windows.Forms.Label label195;
         private System.Windows.Forms.Label label196;
-        private System.Windows.Forms.Button button65;
+        private System.Windows.Forms.Button btn_aluminio;
         private System.Windows.Forms.Label label197;
         private System.Windows.Forms.Label label198;
         private System.Windows.Forms.Label label199;
-        private System.Windows.Forms.Button button66;
+        private System.Windows.Forms.Button btn_boro;
         private System.Windows.Forms.Label label200;
         private System.Windows.Forms.Label label201;
         private System.Windows.Forms.Label label202;
-        private System.Windows.Forms.Button button67;
+        private System.Windows.Forms.Button btn_livermorio;
         private System.Windows.Forms.Label label203;
         private System.Windows.Forms.Label label204;
         private System.Windows.Forms.Label label205;
-        private System.Windows.Forms.Button button68;
+        private System.Windows.Forms.Button btn_polonio;
         private System.Windows.Forms.Label label206;
         private System.Windows.Forms.Label label207;
         private System.Windows.Forms.Label label208;
-        private System.Windows.Forms.Button button69;
+        private System.Windows.Forms.Button btn_teluro;
         private System.Windows.Forms.Label label209;
         private System.Windows.Forms.Label label210;
         private System.Windows.Forms.Label label211;
-        private System.Windows.Forms.Button button70;
+        private System.Windows.Forms.Button btn_selenio;
         private System.Windows.Forms.Label label212;
         private System.Windows.Forms.Label label213;
         private System.Windows.Forms.Label label214;
-        private System.Windows.Forms.Button button71;
+        private System.Windows.Forms.Button btn_azufre;
         private System.Windows.Forms.Label label215;
         private System.Windows.Forms.Label label216;
         private System.Windows.Forms.Label label217;
-        private System.Windows.Forms.Button button72;
+        private System.Windows.Forms.Button btn_oxigeno;
         private System.Windows.Forms.Label label218;
         private System.Windows.Forms.Label label219;
         private System.Windows.Forms.Label label220;
-        private System.Windows.Forms.Button button73;
+        private System.Windows.Forms.Button btn_moscovio;
         private System.Windows.Forms.Label label221;
         private System.Windows.Forms.Label label222;
         private System.Windows.Forms.Label label223;
-        private System.Windows.Forms.Button button74;
+        private System.Windows.Forms.Button btn_bismuto;
         private System.Windows.Forms.Label label224;
         private System.Windows.Forms.Label label225;
         private System.Windows.Forms.Label label226;
-        private System.Windows.Forms.Button button75;
+        private System.Windows.Forms.Button btn_antimonio;
         private System.Windows.Forms.Label label227;
         private System.Windows.Forms.Label label228;
         private System.Windows.Forms.Label label229;
-        private System.Windows.Forms.Button button76;
+        private System.Windows.Forms.Button btn_arsenico;
         private System.Windows.Forms.Label label230;
         private System.Windows.Forms.Label label231;
         private System.Windows.Forms.Label label232;
-        private System.Windows.Forms.Button button77;
+        private System.Windows.Forms.Button btn_fosforo;
         private System.Windows.Forms.Label label233;
         private System.Windows.Forms.Label label234;
         private System.Windows.Forms.Label label235;
-        private System.Windows.Forms.Button button78;
+        private System.Windows.Forms.Button btn_nitrogeno;
         private System.Windows.Forms.Label label236;
         private System.Windows.Forms.Label label237;
-        private System.Windows.Forms.Button button79;
+        private System.Windows.Forms.Button btn_teneso;
         private System.Windows.Forms.Label label238;
         private System.Windows.Forms.Label label239;
-        private System.Windows.Forms.Button button80;
+        private System.Windows.Forms.Button btn_astato;
         private System.Windows.Forms.Label label240;
         private System.Windows.Forms.Label label241;
-        private System.Windows.Forms.Button button81;
+        private System.Windows.Forms.Button btn_yodo;
         private System.Windows.Forms.Label label242;
         private System.Windows.Forms.Label label243;
-        private System.Windows.Forms.Button button82;
+        private System.Windows.Forms.Button btn_bromo;
         private System.Windows.Forms.Label label244;
         private System.Windows.Forms.Label label245;
-        private System.Windows.Forms.Button button83;
+        private System.Windows.Forms.Button btn_cloro;
         private System.Windows.Forms.Label label246;
         private System.Windows.Forms.Label label247;
-        private System.Windows.Forms.Button button84;
+        private System.Windows.Forms.Button btn_fluor;
         private System.Windows.Forms.Label label248;
         private System.Windows.Forms.Label label249;
         private System.Windows.Forms.Label label250;
-        private System.Windows.Forms.Button button85;
+        private System.Windows.Forms.Button btn_oganeson;
         private System.Windows.Forms.Label label251;
         private System.Windows.Forms.Label label252;
         private System.Windows.Forms.Label label253;
-        private System.Windows.Forms.Button button86;
+        private System.Windows.Forms.Button btn_radon;
         private System.Windows.Forms.Label label254;
         private System.Windows.Forms.Label label255;
         private System.Windows.Forms.Label label256;
-        private System.Windows.Forms.Button button87;
+        private System.Windows.Forms.Button btn_xenon;
         private System.Windows.Forms.Label label257;
         private System.Windows.Forms.Label label258;
         private System.Windows.Forms.Label label259;
         private System.Windows.Forms.Label label260;
         private System.Windows.Forms.Label label261;
         private System.Windows.Forms.Label label262;
-        private System.Windows.Forms.Button button89;
+        private System.Windows.Forms.Button btn_argon;
         private System.Windows.Forms.Label label263;
         private System.Windows.Forms.Label label264;
         private System.Windows.Forms.Label label265;
-        private System.Windows.Forms.Button button90;
+        private System.Windows.Forms.Button btn_neon;
         private System.Windows.Forms.Label label266;
         private System.Windows.Forms.Label label267;
         private System.Windows.Forms.Label label268;
         private System.Windows.Forms.Button button91;
-        private System.Windows.Forms.Button button88;
+        private System.Windows.Forms.Button btn_kripton;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.Label label15;
         private System.Windows.Forms.Label label16;
-        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button btn_iterbio;
         private System.Windows.Forms.Label label269;
         private System.Windows.Forms.Label label270;
         private System.Windows.Forms.Label label271;
-        private System.Windows.Forms.Button button92;
+        private System.Windows.Forms.Button btn_tulio;
         private System.Windows.Forms.Label label272;
         private System.Windows.Forms.Label label273;
         private System.Windows.Forms.Label label274;
-        private System.Windows.Forms.Button button93;
+        private System.Windows.Forms.Button btn_erbio;
         private System.Windows.Forms.Label label275;
         private System.Windows.Forms.Label label276;
         private System.Windows.Forms.Label label277;
-        private System.Windows.Forms.Button button94;
+        private System.Windows.Forms.Button btn_holmio;
         private System.Windows.Forms.Label label278;
         private System.Windows.Forms.Label label279;
         private System.Windows.Forms.Label label280;
-        private System.Windows.Forms.Button button95;
+        private System.Windows.Forms.Button btn_disprosio;
         private System.Windows.Forms.Label label281;
         private System.Windows.Forms.Label label282;
         private System.Windows.Forms.Label label283;
-        private System.Windows.Forms.Button button96;
+        private System.Windows.Forms.Button btn_terbio;
         private System.Windows.Forms.Label label284;
         private System.Windows.Forms.Label label285;
         private System.Windows.Forms.Label label286;
-        private System.Windows.Forms.Button button97;
+        private System.Windows.Forms.Button btn_gadolinio;
         private System.Windows.Forms.Label label287;
         private System.Windows.Forms.Label label288;
         private System.Windows.Forms.Label label289;
-        private System.Windows.Forms.Button button98;
+        private System.Windows.Forms.Button btn_euripio;
         private System.Windows.Forms.Label label290;
         private System.Windows.Forms.Label label291;
         private System.Windows.Forms.Label label292;
-        private System.Windows.Forms.Button button99;
+        private System.Windows.Forms.Button btn_samario;
         private System.Windows.Forms.Label label293;
         private System.Windows.Forms.Label label294;
         private System.Windows.Forms.Label label295;
@@ -6443,39 +6518,39 @@
         private System.Windows.Forms.Label label308;
         private System.Windows.Forms.Label label309;
         private System.Windows.Forms.Label label310;
-        private System.Windows.Forms.Button button105;
+        private System.Windows.Forms.Button btn_nobelio;
         private System.Windows.Forms.Label label311;
         private System.Windows.Forms.Label label312;
         private System.Windows.Forms.Label label313;
-        private System.Windows.Forms.Button button106;
+        private System.Windows.Forms.Button btn_mendelevio;
         private System.Windows.Forms.Label label314;
         private System.Windows.Forms.Label label315;
         private System.Windows.Forms.Label label316;
-        private System.Windows.Forms.Button button107;
+        private System.Windows.Forms.Button btn_fermio;
         private System.Windows.Forms.Label label317;
         private System.Windows.Forms.Label label318;
         private System.Windows.Forms.Label label319;
-        private System.Windows.Forms.Button button108;
+        private System.Windows.Forms.Button btn_einstenio;
         private System.Windows.Forms.Label label320;
         private System.Windows.Forms.Label label321;
         private System.Windows.Forms.Label label322;
-        private System.Windows.Forms.Button button109;
+        private System.Windows.Forms.Button btn_californio;
         private System.Windows.Forms.Label label323;
         private System.Windows.Forms.Label label324;
         private System.Windows.Forms.Label label325;
-        private System.Windows.Forms.Button button110;
+        private System.Windows.Forms.Button btn_berquelio;
         private System.Windows.Forms.Label label326;
         private System.Windows.Forms.Label label327;
         private System.Windows.Forms.Label label328;
-        private System.Windows.Forms.Button button111;
+        private System.Windows.Forms.Button btn_curio;
         private System.Windows.Forms.Label label329;
         private System.Windows.Forms.Label label330;
         private System.Windows.Forms.Label label331;
-        private System.Windows.Forms.Button button112;
+        private System.Windows.Forms.Button btn_americio;
         private System.Windows.Forms.Label label332;
         private System.Windows.Forms.Label label333;
         private System.Windows.Forms.Label label334;
-        private System.Windows.Forms.Button button113;
+        private System.Windows.Forms.Button btn_plutonio;
         private System.Windows.Forms.Label label335;
         private System.Windows.Forms.Label label336;
         private System.Windows.Forms.Label label337;
@@ -6498,8 +6573,8 @@
         private System.Windows.Forms.Button btn_actinio;
         private System.Windows.Forms.Label label350;
         private System.Windows.Forms.ComboBox comboBox1;
-        private System.Windows.Forms.Button button119;
-        private System.Windows.Forms.Button button120;
+        private System.Windows.Forms.Button btn_aleatorio;
+        private System.Windows.Forms.Button btn_mostrar_reaccion;
         private System.Windows.Forms.Label label351;
         private System.Windows.Forms.Label label352;
         private System.Windows.Forms.Label label353;
@@ -6511,6 +6586,12 @@
         private System.Windows.Forms.ComboBox comboBox4;
         private System.Windows.Forms.ComboBox comboBox5;
         private System.Windows.Forms.ComboBox comboBox6;
+        private System.Windows.Forms.Label label357;
+        private System.Windows.Forms.Label label358;
+        private System.Windows.Forms.Label label359;
+        private System.Windows.Forms.Label label360;
+        private System.Windows.Forms.Label label361;
+        private System.Windows.Forms.Label label362;
     }
 }
 
