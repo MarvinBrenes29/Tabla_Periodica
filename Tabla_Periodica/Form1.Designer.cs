@@ -781,6 +781,7 @@
             // btn_litio
             // 
             this.btn_litio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_litio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_litio.Location = new System.Drawing.Point(107, 65);
             this.btn_litio.Name = "btn_litio";
             this.btn_litio.Size = new System.Drawing.Size(62, 55);
@@ -792,7 +793,7 @@
             // 
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(112, 216);
+            this.label8.Location = new System.Drawing.Point(117, 216);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(48, 15);
             this.label8.TabIndex = 30;
@@ -2596,7 +2597,7 @@
             this.label146.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label146.Location = new System.Drawing.Point(715, 274);
             this.label146.Name = "label146";
-            this.label146.Size = new System.Drawing.Size(49, 15);
+            this.label146.Size = new System.Drawing.Size(54, 16);
             this.label146.TabIndex = 190;
             this.label146.Text = "Paladio";
             // 
