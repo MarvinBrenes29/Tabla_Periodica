@@ -67,5 +67,15 @@ namespace Tabla_Periodica
         {
 
         }
+
+        private void btn_actinio_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_carbono_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

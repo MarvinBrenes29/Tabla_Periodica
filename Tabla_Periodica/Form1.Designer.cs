@@ -394,8 +394,7 @@
             this.btn_neon = new System.Windows.Forms.Button();
             this.label266 = new System.Windows.Forms.Label();
             this.label267 = new System.Windows.Forms.Label();
-            this.label268 = new System.Windows.Forms.Label();
-            this.button91 = new System.Windows.Forms.Button();
+            this.btn_helio = new System.Windows.Forms.Button();
             this.btn_kripton = new System.Windows.Forms.Button();
             this.label14 = new System.Windows.Forms.Label();
             this.label15 = new System.Windows.Forms.Label();
@@ -530,6 +529,7 @@
             this.label360 = new System.Windows.Forms.Label();
             this.label361 = new System.Windows.Forms.Label();
             this.label362 = new System.Windows.Forms.Label();
+            this.label268 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -698,7 +698,9 @@
             // 
             // bn_hidrogeno
             // 
-            this.bn_hidrogeno.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.bn_hidrogeno.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
+            this.bn_hidrogeno.FlatAppearance.BorderSize = 0;
+            this.bn_hidrogeno.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.bn_hidrogeno.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.bn_hidrogeno.Location = new System.Drawing.Point(106, 7);
             this.bn_hidrogeno.Name = "bn_hidrogeno";
@@ -710,6 +712,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
+            this.label2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(110, 11);
             this.label2.Name = "label2";
@@ -720,6 +723,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
+            this.label3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(144, 10);
             this.label3.Name = "label3";
@@ -730,8 +734,9 @@
             // label4
             // 
             this.label4.AutoSize = true;
+            this.label4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(110, 42);
+            this.label4.Location = new System.Drawing.Point(106, 42);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(65, 15);
             this.label4.TabIndex = 18;
@@ -751,6 +756,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
+            this.label5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(221)))), ((int)(((byte)(73)))));
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(126, 101);
             this.label5.Name = "label5";
@@ -761,6 +767,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
+            this.label6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(221)))), ((int)(((byte)(73)))));
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.Location = new System.Drawing.Point(145, 68);
             this.label6.Name = "label6";
@@ -771,6 +778,7 @@
             // label7
             // 
             this.label7.AutoSize = true;
+            this.label7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(221)))), ((int)(((byte)(73)))));
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.Location = new System.Drawing.Point(111, 69);
             this.label7.Name = "label7";
@@ -780,7 +788,9 @@
             // 
             // btn_litio
             // 
-            this.btn_litio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_litio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(221)))), ((int)(((byte)(73)))));
+            this.btn_litio.FlatAppearance.BorderSize = 0;
+            this.btn_litio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_litio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_litio.Location = new System.Drawing.Point(107, 65);
             this.btn_litio.Name = "btn_litio";
@@ -792,6 +802,7 @@
             // label8
             // 
             this.label8.AutoSize = true;
+            this.label8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(221)))), ((int)(((byte)(73)))));
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.Location = new System.Drawing.Point(117, 216);
             this.label8.Name = "label8";
@@ -803,8 +814,9 @@
             // label9
             // 
             this.label9.AutoSize = true;
+            this.label9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(221)))), ((int)(((byte)(73)))));
             this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(146, 184);
+            this.label9.Location = new System.Drawing.Point(136, 184);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(31, 15);
             this.label9.TabIndex = 29;
@@ -813,8 +825,9 @@
             // label10
             // 
             this.label10.AutoSize = true;
+            this.label10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(221)))), ((int)(((byte)(73)))));
             this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(112, 185);
+            this.label10.Location = new System.Drawing.Point(112, 184);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(21, 15);
             this.label10.TabIndex = 28;
@@ -822,7 +835,10 @@
             // 
             // btn_potasio
             // 
-            this.btn_potasio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_potasio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(221)))), ((int)(((byte)(73)))));
+            this.btn_potasio.FlatAppearance.BorderSize = 0;
+            this.btn_potasio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_potasio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_potasio.Location = new System.Drawing.Point(108, 181);
             this.btn_potasio.Name = "btn_potasio";
             this.btn_potasio.Size = new System.Drawing.Size(62, 55);
@@ -833,6 +849,7 @@
             // label11
             // 
             this.label11.AutoSize = true;
+            this.label11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(221)))), ((int)(((byte)(73)))));
             this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.Location = new System.Drawing.Point(126, 158);
             this.label11.Name = "label11";
@@ -843,8 +860,9 @@
             // label12
             // 
             this.label12.AutoSize = true;
+            this.label12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(221)))), ((int)(((byte)(73)))));
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.Location = new System.Drawing.Point(145, 126);
+            this.label12.Location = new System.Drawing.Point(138, 126);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(31, 15);
             this.label12.TabIndex = 25;
@@ -853,8 +871,9 @@
             // label13
             // 
             this.label13.AutoSize = true;
+            this.label13.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(221)))), ((int)(((byte)(73)))));
             this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label13.Location = new System.Drawing.Point(111, 127);
+            this.label13.Location = new System.Drawing.Point(110, 126);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(21, 15);
             this.label13.TabIndex = 24;
@@ -862,7 +881,10 @@
             // 
             // btn_sodio
             // 
-            this.btn_sodio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_sodio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(221)))), ((int)(((byte)(73)))));
+            this.btn_sodio.FlatAppearance.BorderSize = 0;
+            this.btn_sodio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_sodio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_sodio.Location = new System.Drawing.Point(107, 123);
             this.btn_sodio.Name = "btn_sodio";
             this.btn_sodio.Size = new System.Drawing.Size(62, 55);
@@ -873,6 +895,7 @@
             // label17
             // 
             this.label17.AutoSize = true;
+            this.label17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(221)))), ((int)(((byte)(73)))));
             this.label17.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label17.Location = new System.Drawing.Point(113, 390);
             this.label17.Name = "label17";
@@ -883,6 +906,7 @@
             // label18
             // 
             this.label18.AutoSize = true;
+            this.label18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(221)))), ((int)(((byte)(73)))));
             this.label18.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label18.Location = new System.Drawing.Point(133, 358);
             this.label18.Name = "label18";
@@ -893,8 +917,9 @@
             // label19
             // 
             this.label19.AutoSize = true;
+            this.label19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(221)))), ((int)(((byte)(73)))));
             this.label19.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label19.Location = new System.Drawing.Point(113, 359);
+            this.label19.Location = new System.Drawing.Point(113, 358);
             this.label19.Name = "label19";
             this.label19.Size = new System.Drawing.Size(21, 15);
             this.label19.TabIndex = 40;
@@ -902,7 +927,10 @@
             // 
             // btn_francio
             // 
-            this.btn_francio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_francio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(221)))), ((int)(((byte)(73)))));
+            this.btn_francio.FlatAppearance.BorderSize = 0;
+            this.btn_francio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_francio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_francio.Location = new System.Drawing.Point(109, 355);
             this.btn_francio.Name = "btn_francio";
             this.btn_francio.Size = new System.Drawing.Size(62, 55);
@@ -913,6 +941,7 @@
             // label20
             // 
             this.label20.AutoSize = true;
+            this.label20.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(221)))), ((int)(((byte)(73)))));
             this.label20.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label20.Location = new System.Drawing.Point(113, 332);
             this.label20.Name = "label20";
@@ -923,8 +952,9 @@
             // label21
             // 
             this.label21.AutoSize = true;
+            this.label21.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(221)))), ((int)(((byte)(73)))));
             this.label21.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F);
-            this.label21.Location = new System.Drawing.Point(135, 300);
+            this.label21.Location = new System.Drawing.Point(134, 300);
             this.label21.Name = "label21";
             this.label21.Size = new System.Drawing.Size(38, 15);
             this.label21.TabIndex = 37;
@@ -933,6 +963,7 @@
             // label22
             // 
             this.label22.AutoSize = true;
+            this.label22.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(221)))), ((int)(((byte)(73)))));
             this.label22.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label22.Location = new System.Drawing.Point(111, 300);
             this.label22.Name = "label22";
@@ -942,7 +973,10 @@
             // 
             // brn_cesio
             // 
-            this.brn_cesio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.brn_cesio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(221)))), ((int)(((byte)(73)))));
+            this.brn_cesio.FlatAppearance.BorderSize = 0;
+            this.brn_cesio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.brn_cesio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.brn_cesio.Location = new System.Drawing.Point(109, 297);
             this.brn_cesio.Name = "brn_cesio";
             this.brn_cesio.Size = new System.Drawing.Size(62, 55);
@@ -953,6 +987,7 @@
             // label23
             // 
             this.label23.AutoSize = true;
+            this.label23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(221)))), ((int)(((byte)(73)))));
             this.label23.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label23.Location = new System.Drawing.Point(112, 274);
             this.label23.Name = "label23";
@@ -963,8 +998,9 @@
             // label24
             // 
             this.label24.AutoSize = true;
+            this.label24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(221)))), ((int)(((byte)(73)))));
             this.label24.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label24.Location = new System.Drawing.Point(146, 242);
+            this.label24.Location = new System.Drawing.Point(140, 242);
             this.label24.Name = "label24";
             this.label24.Size = new System.Drawing.Size(31, 15);
             this.label24.TabIndex = 33;
@@ -973,8 +1009,9 @@
             // label25
             // 
             this.label25.AutoSize = true;
+            this.label25.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(221)))), ((int)(((byte)(73)))));
             this.label25.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label25.Location = new System.Drawing.Point(112, 243);
+            this.label25.Location = new System.Drawing.Point(112, 242);
             this.label25.Name = "label25";
             this.label25.Size = new System.Drawing.Size(21, 15);
             this.label25.TabIndex = 32;
@@ -982,7 +1019,10 @@
             // 
             // btn_rubidio
             // 
-            this.btn_rubidio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_rubidio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(221)))), ((int)(((byte)(73)))));
+            this.btn_rubidio.FlatAppearance.BorderSize = 0;
+            this.btn_rubidio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_rubidio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_rubidio.Location = new System.Drawing.Point(108, 239);
             this.btn_rubidio.Name = "btn_rubidio";
             this.btn_rubidio.Size = new System.Drawing.Size(62, 55);
@@ -993,6 +1033,7 @@
             // label26
             // 
             this.label26.AutoSize = true;
+            this.label26.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(169)))), ((int)(((byte)(32)))));
             this.label26.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label26.Location = new System.Drawing.Point(181, 390);
             this.label26.Name = "label26";
@@ -1003,6 +1044,7 @@
             // label27
             // 
             this.label27.AutoSize = true;
+            this.label27.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(169)))), ((int)(((byte)(32)))));
             this.label27.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label27.Location = new System.Drawing.Point(203, 358);
             this.label27.Name = "label27";
@@ -1013,8 +1055,9 @@
             // label28
             // 
             this.label28.AutoSize = true;
+            this.label28.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(169)))), ((int)(((byte)(32)))));
             this.label28.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label28.Location = new System.Drawing.Point(181, 359);
+            this.label28.Location = new System.Drawing.Point(180, 358);
             this.label28.Name = "label28";
             this.label28.Size = new System.Drawing.Size(21, 15);
             this.label28.TabIndex = 68;
@@ -1022,7 +1065,10 @@
             // 
             // btn_radio
             // 
-            this.btn_radio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_radio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(169)))), ((int)(((byte)(32)))));
+            this.btn_radio.FlatAppearance.BorderSize = 0;
+            this.btn_radio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_radio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_radio.Location = new System.Drawing.Point(177, 355);
             this.btn_radio.Name = "btn_radio";
             this.btn_radio.Size = new System.Drawing.Size(62, 55);
@@ -1033,6 +1079,7 @@
             // label29
             // 
             this.label29.AutoSize = true;
+            this.label29.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(169)))), ((int)(((byte)(32)))));
             this.label29.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label29.Location = new System.Drawing.Point(181, 332);
             this.label29.Name = "label29";
@@ -1043,8 +1090,9 @@
             // label30
             // 
             this.label30.AutoSize = true;
+            this.label30.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(169)))), ((int)(((byte)(32)))));
             this.label30.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label30.Location = new System.Drawing.Point(215, 300);
+            this.label30.Location = new System.Drawing.Point(202, 300);
             this.label30.Name = "label30";
             this.label30.Size = new System.Drawing.Size(38, 15);
             this.label30.TabIndex = 65;
@@ -1053,8 +1101,9 @@
             // label31
             // 
             this.label31.AutoSize = true;
+            this.label31.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(169)))), ((int)(((byte)(32)))));
             this.label31.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label31.Location = new System.Drawing.Point(181, 301);
+            this.label31.Location = new System.Drawing.Point(180, 300);
             this.label31.Name = "label31";
             this.label31.Size = new System.Drawing.Size(21, 15);
             this.label31.TabIndex = 64;
@@ -1062,7 +1111,10 @@
             // 
             // btn_bario
             // 
-            this.btn_bario.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_bario.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(169)))), ((int)(((byte)(32)))));
+            this.btn_bario.FlatAppearance.BorderSize = 0;
+            this.btn_bario.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_bario.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_bario.Location = new System.Drawing.Point(177, 297);
             this.btn_bario.Name = "btn_bario";
             this.btn_bario.Size = new System.Drawing.Size(62, 55);
@@ -1073,6 +1125,7 @@
             // label32
             // 
             this.label32.AutoSize = true;
+            this.label32.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(169)))), ((int)(((byte)(32)))));
             this.label32.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label32.Location = new System.Drawing.Point(180, 274);
             this.label32.Name = "label32";
@@ -1083,8 +1136,9 @@
             // label33
             // 
             this.label33.AutoSize = true;
+            this.label33.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(169)))), ((int)(((byte)(32)))));
             this.label33.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label33.Location = new System.Drawing.Point(214, 242);
+            this.label33.Location = new System.Drawing.Point(207, 242);
             this.label33.Name = "label33";
             this.label33.Size = new System.Drawing.Size(31, 15);
             this.label33.TabIndex = 61;
@@ -1093,6 +1147,7 @@
             // label34
             // 
             this.label34.AutoSize = true;
+            this.label34.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(169)))), ((int)(((byte)(32)))));
             this.label34.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label34.Location = new System.Drawing.Point(180, 243);
             this.label34.Name = "label34";
@@ -1102,7 +1157,10 @@
             // 
             // btn_estroncio
             // 
-            this.btn_estroncio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_estroncio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(169)))), ((int)(((byte)(32)))));
+            this.btn_estroncio.FlatAppearance.BorderSize = 0;
+            this.btn_estroncio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_estroncio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_estroncio.Location = new System.Drawing.Point(176, 239);
             this.btn_estroncio.Name = "btn_estroncio";
             this.btn_estroncio.Size = new System.Drawing.Size(62, 55);
@@ -1113,8 +1171,9 @@
             // label35
             // 
             this.label35.AutoSize = true;
+            this.label35.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(169)))), ((int)(((byte)(32)))));
             this.label35.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label35.Location = new System.Drawing.Point(180, 216);
+            this.label35.Location = new System.Drawing.Point(186, 218);
             this.label35.Name = "label35";
             this.label35.Size = new System.Drawing.Size(41, 15);
             this.label35.TabIndex = 58;
@@ -1123,8 +1182,9 @@
             // label36
             // 
             this.label36.AutoSize = true;
+            this.label36.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(169)))), ((int)(((byte)(32)))));
             this.label36.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label36.Location = new System.Drawing.Point(214, 184);
+            this.label36.Location = new System.Drawing.Point(204, 185);
             this.label36.Name = "label36";
             this.label36.Size = new System.Drawing.Size(31, 15);
             this.label36.TabIndex = 57;
@@ -1133,6 +1193,7 @@
             // label37
             // 
             this.label37.AutoSize = true;
+            this.label37.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(169)))), ((int)(((byte)(32)))));
             this.label37.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label37.Location = new System.Drawing.Point(180, 185);
             this.label37.Name = "label37";
@@ -1142,7 +1203,10 @@
             // 
             // btn_calcio
             // 
-            this.btn_calcio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_calcio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(169)))), ((int)(((byte)(32)))));
+            this.btn_calcio.FlatAppearance.BorderSize = 0;
+            this.btn_calcio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_calcio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_calcio.Location = new System.Drawing.Point(176, 181);
             this.btn_calcio.Name = "btn_calcio";
             this.btn_calcio.Size = new System.Drawing.Size(62, 55);
@@ -1153,8 +1217,9 @@
             // label38
             // 
             this.label38.AutoSize = true;
+            this.label38.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(169)))), ((int)(((byte)(32)))));
             this.label38.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label38.Location = new System.Drawing.Point(177, 161);
+            this.label38.Location = new System.Drawing.Point(175, 162);
             this.label38.Name = "label38";
             this.label38.Size = new System.Drawing.Size(62, 15);
             this.label38.TabIndex = 54;
@@ -1163,8 +1228,9 @@
             // label39
             // 
             this.label39.AutoSize = true;
+            this.label39.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(169)))), ((int)(((byte)(32)))));
             this.label39.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label39.Location = new System.Drawing.Point(213, 126);
+            this.label39.Location = new System.Drawing.Point(206, 126);
             this.label39.Name = "label39";
             this.label39.Size = new System.Drawing.Size(31, 15);
             this.label39.TabIndex = 53;
@@ -1173,8 +1239,9 @@
             // label40
             // 
             this.label40.AutoSize = true;
+            this.label40.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(169)))), ((int)(((byte)(32)))));
             this.label40.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label40.Location = new System.Drawing.Point(179, 127);
+            this.label40.Location = new System.Drawing.Point(178, 126);
             this.label40.Name = "label40";
             this.label40.Size = new System.Drawing.Size(21, 15);
             this.label40.TabIndex = 52;
@@ -1182,7 +1249,10 @@
             // 
             // btn_magnesio
             // 
-            this.btn_magnesio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_magnesio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(169)))), ((int)(((byte)(32)))));
+            this.btn_magnesio.FlatAppearance.BorderSize = 0;
+            this.btn_magnesio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_magnesio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_magnesio.Location = new System.Drawing.Point(175, 123);
             this.btn_magnesio.Name = "btn_magnesio";
             this.btn_magnesio.Size = new System.Drawing.Size(62, 55);
@@ -1194,6 +1264,7 @@
             // label41
             // 
             this.label41.AutoSize = true;
+            this.label41.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(169)))), ((int)(((byte)(32)))));
             this.label41.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label41.Location = new System.Drawing.Point(179, 100);
             this.label41.Name = "label41";
@@ -1204,8 +1275,9 @@
             // label42
             // 
             this.label42.AutoSize = true;
+            this.label42.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(169)))), ((int)(((byte)(32)))));
             this.label42.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label42.Location = new System.Drawing.Point(213, 68);
+            this.label42.Location = new System.Drawing.Point(211, 68);
             this.label42.Name = "label42";
             this.label42.Size = new System.Drawing.Size(24, 15);
             this.label42.TabIndex = 49;
@@ -1214,8 +1286,9 @@
             // label43
             // 
             this.label43.AutoSize = true;
+            this.label43.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(169)))), ((int)(((byte)(32)))));
             this.label43.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label43.Location = new System.Drawing.Point(179, 69);
+            this.label43.Location = new System.Drawing.Point(179, 68);
             this.label43.Name = "label43";
             this.label43.Size = new System.Drawing.Size(14, 15);
             this.label43.TabIndex = 48;
@@ -1223,7 +1296,10 @@
             // 
             // btn_berilio
             // 
-            this.btn_berilio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_berilio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(169)))), ((int)(((byte)(32)))));
+            this.btn_berilio.FlatAppearance.BorderSize = 0;
+            this.btn_berilio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_berilio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_berilio.Location = new System.Drawing.Point(175, 65);
             this.btn_berilio.Name = "btn_berilio";
             this.btn_berilio.Size = new System.Drawing.Size(62, 55);
@@ -1234,8 +1310,9 @@
             // label44
             // 
             this.label44.AutoSize = true;
+            this.label44.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label44.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label44.Location = new System.Drawing.Point(308, 390);
+            this.label44.Location = new System.Drawing.Point(305, 393);
             this.label44.Name = "label44";
             this.label44.Size = new System.Drawing.Size(75, 15);
             this.label44.TabIndex = 102;
@@ -1244,8 +1321,9 @@
             // label45
             // 
             this.label45.AutoSize = true;
+            this.label45.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label45.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label45.Location = new System.Drawing.Point(333, 358);
+            this.label45.Location = new System.Drawing.Point(331, 357);
             this.label45.Name = "label45";
             this.label45.Size = new System.Drawing.Size(46, 15);
             this.label45.TabIndex = 101;
@@ -1254,8 +1332,9 @@
             // label46
             // 
             this.label46.AutoSize = true;
+            this.label46.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label46.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label46.Location = new System.Drawing.Point(310, 357);
+            this.label46.Location = new System.Drawing.Point(309, 358);
             this.label46.Name = "label46";
             this.label46.Size = new System.Drawing.Size(28, 15);
             this.label46.TabIndex = 100;
@@ -1263,7 +1342,10 @@
             // 
             // btn_rutherfordio
             // 
-            this.btn_rutherfordio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_rutherfordio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_rutherfordio.FlatAppearance.BorderSize = 0;
+            this.btn_rutherfordio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_rutherfordio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_rutherfordio.Location = new System.Drawing.Point(311, 355);
             this.btn_rutherfordio.Name = "btn_rutherfordio";
             this.btn_rutherfordio.Size = new System.Drawing.Size(62, 55);
@@ -1274,6 +1356,7 @@
             // label47
             // 
             this.label47.AutoSize = true;
+            this.label47.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label47.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label47.Location = new System.Drawing.Point(315, 332);
             this.label47.Name = "label47";
@@ -1284,8 +1367,9 @@
             // label48
             // 
             this.label48.AutoSize = true;
+            this.label48.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label48.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label48.Location = new System.Drawing.Point(349, 300);
+            this.label48.Location = new System.Drawing.Point(334, 300);
             this.label48.Name = "label48";
             this.label48.Size = new System.Drawing.Size(38, 15);
             this.label48.TabIndex = 97;
@@ -1294,8 +1378,9 @@
             // label49
             // 
             this.label49.AutoSize = true;
+            this.label49.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label49.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label49.Location = new System.Drawing.Point(315, 301);
+            this.label49.Location = new System.Drawing.Point(311, 301);
             this.label49.Name = "label49";
             this.label49.Size = new System.Drawing.Size(21, 15);
             this.label49.TabIndex = 96;
@@ -1303,7 +1388,10 @@
             // 
             // btn_hafnio
             // 
-            this.btn_hafnio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_hafnio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_hafnio.FlatAppearance.BorderSize = 0;
+            this.btn_hafnio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_hafnio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_hafnio.Location = new System.Drawing.Point(311, 297);
             this.btn_hafnio.Name = "btn_hafnio";
             this.btn_hafnio.Size = new System.Drawing.Size(62, 55);
@@ -1314,6 +1402,7 @@
             // label50
             // 
             this.label50.AutoSize = true;
+            this.label50.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label50.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label50.Location = new System.Drawing.Point(314, 274);
             this.label50.Name = "label50";
@@ -1324,8 +1413,9 @@
             // label51
             // 
             this.label51.AutoSize = true;
+            this.label51.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label51.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label51.Location = new System.Drawing.Point(348, 242);
+            this.label51.Location = new System.Drawing.Point(341, 242);
             this.label51.Name = "label51";
             this.label51.Size = new System.Drawing.Size(31, 15);
             this.label51.TabIndex = 93;
@@ -1334,6 +1424,7 @@
             // label52
             // 
             this.label52.AutoSize = true;
+            this.label52.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label52.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label52.Location = new System.Drawing.Point(314, 243);
             this.label52.Name = "label52";
@@ -1343,7 +1434,10 @@
             // 
             // btn_zr
             // 
-            this.btn_zr.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_zr.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_zr.FlatAppearance.BorderSize = 0;
+            this.btn_zr.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_zr.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_zr.Location = new System.Drawing.Point(310, 239);
             this.btn_zr.Name = "btn_zr";
             this.btn_zr.Size = new System.Drawing.Size(62, 55);
@@ -1354,6 +1448,7 @@
             // label53
             // 
             this.label53.AutoSize = true;
+            this.label53.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label53.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label53.Location = new System.Drawing.Point(314, 216);
             this.label53.Name = "label53";
@@ -1364,8 +1459,9 @@
             // label54
             // 
             this.label54.AutoSize = true;
+            this.label54.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label54.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label54.Location = new System.Drawing.Point(348, 184);
+            this.label54.Location = new System.Drawing.Point(341, 184);
             this.label54.Name = "label54";
             this.label54.Size = new System.Drawing.Size(31, 15);
             this.label54.TabIndex = 89;
@@ -1374,6 +1470,7 @@
             // label55
             // 
             this.label55.AutoSize = true;
+            this.label55.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label55.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label55.Location = new System.Drawing.Point(314, 185);
             this.label55.Name = "label55";
@@ -1383,7 +1480,10 @@
             // 
             // btn_titanio
             // 
-            this.btn_titanio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_titanio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_titanio.FlatAppearance.BorderSize = 0;
+            this.btn_titanio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_titanio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_titanio.Location = new System.Drawing.Point(310, 181);
             this.btn_titanio.Name = "btn_titanio";
             this.btn_titanio.Size = new System.Drawing.Size(62, 55);
@@ -1394,8 +1494,9 @@
             // label56
             // 
             this.label56.AutoSize = true;
+            this.label56.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label56.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label56.Location = new System.Drawing.Point(247, 390);
+            this.label56.Location = new System.Drawing.Point(242, 392);
             this.label56.Name = "label56";
             this.label56.Size = new System.Drawing.Size(62, 15);
             this.label56.TabIndex = 86;
@@ -1404,8 +1505,9 @@
             // label57
             // 
             this.label57.AutoSize = true;
+            this.label57.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label57.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label57.Location = new System.Drawing.Point(273, 359);
+            this.label57.Location = new System.Drawing.Point(269, 358);
             this.label57.Name = "label57";
             this.label57.Size = new System.Drawing.Size(36, 15);
             this.label57.TabIndex = 85;
@@ -1414,8 +1516,9 @@
             // label58
             // 
             this.label58.AutoSize = true;
+            this.label58.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label58.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label58.Location = new System.Drawing.Point(247, 359);
+            this.label58.Location = new System.Drawing.Point(243, 358);
             this.label58.Name = "label58";
             this.label58.Size = new System.Drawing.Size(28, 15);
             this.label58.TabIndex = 84;
@@ -1423,7 +1526,10 @@
             // 
             // btn_laurencio
             // 
-            this.btn_laurencio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_laurencio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_laurencio.FlatAppearance.BorderSize = 0;
+            this.btn_laurencio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_laurencio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_laurencio.Location = new System.Drawing.Point(243, 355);
             this.btn_laurencio.Name = "btn_laurencio";
             this.btn_laurencio.Size = new System.Drawing.Size(62, 55);
@@ -1434,6 +1540,7 @@
             // label59
             // 
             this.label59.AutoSize = true;
+            this.label59.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label59.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label59.Location = new System.Drawing.Point(247, 332);
             this.label59.Name = "label59";
@@ -1444,8 +1551,9 @@
             // label60
             // 
             this.label60.AutoSize = true;
+            this.label60.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label60.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label60.Location = new System.Drawing.Point(268, 300);
+            this.label60.Location = new System.Drawing.Point(267, 300);
             this.label60.Name = "label60";
             this.label60.Size = new System.Drawing.Size(38, 15);
             this.label60.TabIndex = 81;
@@ -1454,8 +1562,9 @@
             // label61
             // 
             this.label61.AutoSize = true;
+            this.label61.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label61.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label61.Location = new System.Drawing.Point(247, 301);
+            this.label61.Location = new System.Drawing.Point(245, 300);
             this.label61.Name = "label61";
             this.label61.Size = new System.Drawing.Size(21, 15);
             this.label61.TabIndex = 80;
@@ -1463,7 +1572,10 @@
             // 
             // btn_lutecio
             // 
-            this.btn_lutecio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_lutecio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_lutecio.FlatAppearance.BorderSize = 0;
+            this.btn_lutecio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_lutecio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_lutecio.Location = new System.Drawing.Point(243, 297);
             this.btn_lutecio.Name = "btn_lutecio";
             this.btn_lutecio.Size = new System.Drawing.Size(62, 55);
@@ -1474,8 +1586,9 @@
             // label62
             // 
             this.label62.AutoSize = true;
+            this.label62.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label62.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label62.Location = new System.Drawing.Point(263, 275);
+            this.label62.Location = new System.Drawing.Point(262, 276);
             this.label62.Name = "label62";
             this.label62.Size = new System.Drawing.Size(27, 15);
             this.label62.TabIndex = 78;
@@ -1484,8 +1597,9 @@
             // label63
             // 
             this.label63.AutoSize = true;
+            this.label63.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label63.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label63.Location = new System.Drawing.Point(280, 242);
+            this.label63.Location = new System.Drawing.Point(273, 241);
             this.label63.Name = "label63";
             this.label63.Size = new System.Drawing.Size(31, 15);
             this.label63.TabIndex = 77;
@@ -1494,8 +1608,9 @@
             // label64
             // 
             this.label64.AutoSize = true;
+            this.label64.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label64.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label64.Location = new System.Drawing.Point(246, 243);
+            this.label64.Location = new System.Drawing.Point(243, 242);
             this.label64.Name = "label64";
             this.label64.Size = new System.Drawing.Size(21, 15);
             this.label64.TabIndex = 76;
@@ -1503,19 +1618,23 @@
             // 
             // btn_itrio
             // 
-            this.btn_itrio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_itrio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_itrio.FlatAppearance.BorderSize = 0;
+            this.btn_itrio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_itrio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_itrio.Location = new System.Drawing.Point(242, 239);
             this.btn_itrio.Name = "btn_itrio";
             this.btn_itrio.Size = new System.Drawing.Size(62, 55);
             this.btn_itrio.TabIndex = 75;
-            this.btn_itrio.Text = "  Y";
+            this.btn_itrio.Text = " Y";
             this.btn_itrio.UseVisualStyleBackColor = false;
             // 
             // label65
             // 
             this.label65.AutoSize = true;
+            this.label65.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label65.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label65.Location = new System.Drawing.Point(246, 216);
+            this.label65.Location = new System.Drawing.Point(245, 218);
             this.label65.Name = "label65";
             this.label65.Size = new System.Drawing.Size(58, 15);
             this.label65.TabIndex = 74;
@@ -1524,8 +1643,9 @@
             // label66
             // 
             this.label66.AutoSize = true;
+            this.label66.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label66.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label66.Location = new System.Drawing.Point(280, 184);
+            this.label66.Location = new System.Drawing.Point(273, 184);
             this.label66.Name = "label66";
             this.label66.Size = new System.Drawing.Size(31, 15);
             this.label66.TabIndex = 73;
@@ -1534,6 +1654,7 @@
             // label67
             // 
             this.label67.AutoSize = true;
+            this.label67.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label67.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label67.Location = new System.Drawing.Point(246, 185);
             this.label67.Name = "label67";
@@ -1543,7 +1664,10 @@
             // 
             // btn_escandio
             // 
-            this.btn_escandio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_escandio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_escandio.FlatAppearance.BorderSize = 0;
+            this.btn_escandio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_escandio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_escandio.Location = new System.Drawing.Point(242, 181);
             this.btn_escandio.Name = "btn_escandio";
             this.btn_escandio.Size = new System.Drawing.Size(62, 55);
@@ -1554,8 +1678,9 @@
             // label68
             // 
             this.label68.AutoSize = true;
+            this.label68.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label68.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label68.Location = new System.Drawing.Point(583, 390);
+            this.label68.Location = new System.Drawing.Point(589, 392);
             this.label68.Name = "label68";
             this.label68.Size = new System.Drawing.Size(45, 15);
             this.label68.TabIndex = 166;
@@ -1564,8 +1689,9 @@
             // label69
             // 
             this.label69.AutoSize = true;
+            this.label69.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label69.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label69.Location = new System.Drawing.Point(604, 358);
+            this.label69.Location = new System.Drawing.Point(605, 358);
             this.label69.Name = "label69";
             this.label69.Size = new System.Drawing.Size(36, 15);
             this.label69.TabIndex = 165;
@@ -1574,8 +1700,9 @@
             // label70
             // 
             this.label70.AutoSize = true;
+            this.label70.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label70.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label70.Location = new System.Drawing.Point(577, 359);
+            this.label70.Location = new System.Drawing.Point(579, 359);
             this.label70.Name = "label70";
             this.label70.Size = new System.Drawing.Size(28, 15);
             this.label70.TabIndex = 164;
@@ -1583,7 +1710,10 @@
             // 
             // btn_hassio
             // 
-            this.btn_hassio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_hassio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_hassio.FlatAppearance.BorderSize = 0;
+            this.btn_hassio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_hassio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_hassio.Location = new System.Drawing.Point(579, 355);
             this.btn_hassio.Name = "btn_hassio";
             this.btn_hassio.Size = new System.Drawing.Size(62, 55);
@@ -1594,6 +1724,7 @@
             // label71
             // 
             this.label71.AutoSize = true;
+            this.label71.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label71.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label71.Location = new System.Drawing.Point(583, 332);
             this.label71.Name = "label71";
@@ -1604,8 +1735,9 @@
             // label72
             // 
             this.label72.AutoSize = true;
+            this.label72.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label72.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label72.Location = new System.Drawing.Point(600, 300);
+            this.label72.Location = new System.Drawing.Point(600, 301);
             this.label72.Name = "label72";
             this.label72.Size = new System.Drawing.Size(38, 15);
             this.label72.TabIndex = 161;
@@ -1614,8 +1746,9 @@
             // label73
             // 
             this.label73.AutoSize = true;
+            this.label73.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label73.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label73.Location = new System.Drawing.Point(583, 301);
+            this.label73.Location = new System.Drawing.Point(580, 301);
             this.label73.Name = "label73";
             this.label73.Size = new System.Drawing.Size(21, 15);
             this.label73.TabIndex = 160;
@@ -1623,7 +1756,10 @@
             // 
             // btn_osmio
             // 
-            this.btn_osmio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_osmio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_osmio.FlatAppearance.BorderSize = 0;
+            this.btn_osmio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_osmio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_osmio.Location = new System.Drawing.Point(579, 297);
             this.btn_osmio.Name = "btn_osmio";
             this.btn_osmio.Size = new System.Drawing.Size(62, 55);
@@ -1634,8 +1770,9 @@
             // label74
             // 
             this.label74.AutoSize = true;
+            this.label74.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label74.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label74.Location = new System.Drawing.Point(582, 274);
+            this.label74.Location = new System.Drawing.Point(584, 276);
             this.label74.Name = "label74";
             this.label74.Size = new System.Drawing.Size(50, 15);
             this.label74.TabIndex = 158;
@@ -1644,6 +1781,7 @@
             // label75
             // 
             this.label75.AutoSize = true;
+            this.label75.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label75.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label75.Location = new System.Drawing.Point(599, 242);
             this.label75.Name = "label75";
@@ -1654,6 +1792,7 @@
             // label76
             // 
             this.label76.AutoSize = true;
+            this.label76.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label76.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label76.Location = new System.Drawing.Point(582, 243);
             this.label76.Name = "label76";
@@ -1663,7 +1802,10 @@
             // 
             // btn_rutenio
             // 
-            this.btn_rutenio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_rutenio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_rutenio.FlatAppearance.BorderSize = 0;
+            this.btn_rutenio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_rutenio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_rutenio.Location = new System.Drawing.Point(578, 239);
             this.btn_rutenio.Name = "btn_rutenio";
             this.btn_rutenio.Size = new System.Drawing.Size(62, 55);
@@ -1674,8 +1816,9 @@
             // label77
             // 
             this.label77.AutoSize = true;
+            this.label77.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label77.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label77.Location = new System.Drawing.Point(582, 216);
+            this.label77.Location = new System.Drawing.Point(589, 218);
             this.label77.Name = "label77";
             this.label77.Size = new System.Drawing.Size(41, 15);
             this.label77.TabIndex = 154;
@@ -1684,8 +1827,9 @@
             // label78
             // 
             this.label78.AutoSize = true;
+            this.label78.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label78.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label78.Location = new System.Drawing.Point(616, 184);
+            this.label78.Location = new System.Drawing.Point(608, 184);
             this.label78.Name = "label78";
             this.label78.Size = new System.Drawing.Size(31, 15);
             this.label78.TabIndex = 153;
@@ -1694,6 +1838,7 @@
             // label79
             // 
             this.label79.AutoSize = true;
+            this.label79.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label79.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label79.Location = new System.Drawing.Point(582, 185);
             this.label79.Name = "label79";
@@ -1703,7 +1848,10 @@
             // 
             // btn_hierro
             // 
-            this.btn_hierro.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_hierro.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_hierro.FlatAppearance.BorderSize = 0;
+            this.btn_hierro.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_hierro.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_hierro.Location = new System.Drawing.Point(578, 181);
             this.btn_hierro.Name = "btn_hierro";
             this.btn_hierro.Size = new System.Drawing.Size(62, 55);
@@ -1714,8 +1862,9 @@
             // label80
             // 
             this.label80.AutoSize = true;
+            this.label80.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label80.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label80.Location = new System.Drawing.Point(518, 390);
+            this.label80.Location = new System.Drawing.Point(521, 392);
             this.label80.Name = "label80";
             this.label80.Size = new System.Drawing.Size(43, 15);
             this.label80.TabIndex = 150;
@@ -1724,8 +1873,9 @@
             // label81
             // 
             this.label81.AutoSize = true;
+            this.label81.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label81.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label81.Location = new System.Drawing.Point(534, 358);
+            this.label81.Location = new System.Drawing.Point(535, 358);
             this.label81.Name = "label81";
             this.label81.Size = new System.Drawing.Size(46, 15);
             this.label81.TabIndex = 149;
@@ -1734,8 +1884,9 @@
             // label82
             // 
             this.label82.AutoSize = true;
+            this.label82.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label82.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label82.Location = new System.Drawing.Point(510, 359);
+            this.label82.Location = new System.Drawing.Point(511, 359);
             this.label82.Name = "label82";
             this.label82.Size = new System.Drawing.Size(28, 15);
             this.label82.TabIndex = 148;
@@ -1743,7 +1894,10 @@
             // 
             // btn_bohrio
             // 
-            this.btn_bohrio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_bohrio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_bohrio.FlatAppearance.BorderSize = 0;
+            this.btn_bohrio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_bohrio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_bohrio.Location = new System.Drawing.Point(511, 355);
             this.btn_bohrio.Name = "btn_bohrio";
             this.btn_bohrio.Size = new System.Drawing.Size(62, 55);
@@ -1754,8 +1908,9 @@
             // label83
             // 
             this.label83.AutoSize = true;
+            this.label83.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label83.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label83.Location = new System.Drawing.Point(515, 332);
+            this.label83.Location = new System.Drawing.Point(522, 335);
             this.label83.Name = "label83";
             this.label83.Size = new System.Drawing.Size(40, 15);
             this.label83.TabIndex = 146;
@@ -1764,6 +1919,7 @@
             // label84
             // 
             this.label84.AutoSize = true;
+            this.label84.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label84.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label84.Location = new System.Drawing.Point(535, 300);
             this.label84.Name = "label84";
@@ -1774,8 +1930,9 @@
             // label85
             // 
             this.label85.AutoSize = true;
+            this.label85.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label85.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label85.Location = new System.Drawing.Point(515, 301);
+            this.label85.Location = new System.Drawing.Point(513, 300);
             this.label85.Name = "label85";
             this.label85.Size = new System.Drawing.Size(21, 15);
             this.label85.TabIndex = 144;
@@ -1783,7 +1940,10 @@
             // 
             // btn_renio
             // 
-            this.btn_renio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_renio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_renio.FlatAppearance.BorderSize = 0;
+            this.btn_renio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_renio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_renio.Location = new System.Drawing.Point(511, 297);
             this.btn_renio.Name = "btn_renio";
             this.btn_renio.Size = new System.Drawing.Size(62, 55);
@@ -1794,8 +1954,9 @@
             // label86
             // 
             this.label86.AutoSize = true;
+            this.label86.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label86.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label86.Location = new System.Drawing.Point(514, 274);
+            this.label86.Location = new System.Drawing.Point(514, 276);
             this.label86.Name = "label86";
             this.label86.Size = new System.Drawing.Size(57, 15);
             this.label86.TabIndex = 142;
@@ -1804,8 +1965,9 @@
             // label87
             // 
             this.label87.AutoSize = true;
+            this.label87.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label87.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label87.Location = new System.Drawing.Point(548, 242);
+            this.label87.Location = new System.Drawing.Point(541, 242);
             this.label87.Name = "label87";
             this.label87.Size = new System.Drawing.Size(31, 15);
             this.label87.TabIndex = 141;
@@ -1814,8 +1976,9 @@
             // label88
             // 
             this.label88.AutoSize = true;
+            this.label88.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label88.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label88.Location = new System.Drawing.Point(514, 243);
+            this.label88.Location = new System.Drawing.Point(512, 243);
             this.label88.Name = "label88";
             this.label88.Size = new System.Drawing.Size(21, 15);
             this.label88.TabIndex = 140;
@@ -1823,7 +1986,10 @@
             // 
             // bn_tecnecio
             // 
-            this.bn_tecnecio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.bn_tecnecio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.bn_tecnecio.FlatAppearance.BorderSize = 0;
+            this.bn_tecnecio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.bn_tecnecio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.bn_tecnecio.Location = new System.Drawing.Point(510, 239);
             this.bn_tecnecio.Name = "bn_tecnecio";
             this.bn_tecnecio.Size = new System.Drawing.Size(62, 55);
@@ -1834,8 +2000,9 @@
             // label89
             // 
             this.label89.AutoSize = true;
+            this.label89.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label89.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label89.Location = new System.Drawing.Point(503, 216);
+            this.label89.Location = new System.Drawing.Point(505, 219);
             this.label89.Name = "label89";
             this.label89.Size = new System.Drawing.Size(73, 15);
             this.label89.TabIndex = 138;
@@ -1844,8 +2011,9 @@
             // label90
             // 
             this.label90.AutoSize = true;
+            this.label90.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label90.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label90.Location = new System.Drawing.Point(548, 184);
+            this.label90.Location = new System.Drawing.Point(540, 184);
             this.label90.Name = "label90";
             this.label90.Size = new System.Drawing.Size(31, 15);
             this.label90.TabIndex = 137;
@@ -1854,8 +2022,9 @@
             // label91
             // 
             this.label91.AutoSize = true;
+            this.label91.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label91.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label91.Location = new System.Drawing.Point(514, 185);
+            this.label91.Location = new System.Drawing.Point(513, 184);
             this.label91.Name = "label91";
             this.label91.Size = new System.Drawing.Size(21, 15);
             this.label91.TabIndex = 136;
@@ -1863,7 +2032,10 @@
             // 
             // btn_manganeso
             // 
-            this.btn_manganeso.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_manganeso.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_manganeso.FlatAppearance.BorderSize = 0;
+            this.btn_manganeso.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_manganeso.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_manganeso.Location = new System.Drawing.Point(510, 181);
             this.btn_manganeso.Name = "btn_manganeso";
             this.btn_manganeso.Size = new System.Drawing.Size(62, 55);
@@ -1874,6 +2046,7 @@
             // label92
             // 
             this.label92.AutoSize = true;
+            this.label92.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label92.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label92.Location = new System.Drawing.Point(445, 392);
             this.label92.Name = "label92";
@@ -1884,6 +2057,7 @@
             // label93
             // 
             this.label93.AutoSize = true;
+            this.label93.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label93.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label93.Location = new System.Drawing.Point(466, 358);
             this.label93.Name = "label93";
@@ -1894,6 +2068,7 @@
             // label94
             // 
             this.label94.AutoSize = true;
+            this.label94.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label94.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label94.Location = new System.Drawing.Point(442, 359);
             this.label94.Name = "label94";
@@ -1903,7 +2078,10 @@
             // 
             // btn_seabrgio
             // 
-            this.btn_seabrgio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_seabrgio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_seabrgio.FlatAppearance.BorderSize = 0;
+            this.btn_seabrgio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_seabrgio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_seabrgio.Location = new System.Drawing.Point(445, 355);
             this.btn_seabrgio.Name = "btn_seabrgio";
             this.btn_seabrgio.Size = new System.Drawing.Size(62, 55);
@@ -1914,6 +2092,7 @@
             // label95
             // 
             this.label95.AutoSize = true;
+            this.label95.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label95.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label95.Location = new System.Drawing.Point(444, 332);
             this.label95.Name = "label95";
@@ -1924,6 +2103,7 @@
             // label96
             // 
             this.label96.AutoSize = true;
+            this.label96.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label96.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label96.Location = new System.Drawing.Point(468, 300);
             this.label96.Name = "label96";
@@ -1934,6 +2114,7 @@
             // label97
             // 
             this.label97.AutoSize = true;
+            this.label97.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label97.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label97.Location = new System.Drawing.Point(449, 301);
             this.label97.Name = "label97";
@@ -1943,7 +2124,10 @@
             // 
             // btn_volframio
             // 
-            this.btn_volframio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_volframio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_volframio.FlatAppearance.BorderSize = 0;
+            this.btn_volframio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_volframio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_volframio.Location = new System.Drawing.Point(445, 297);
             this.btn_volframio.Name = "btn_volframio";
             this.btn_volframio.Size = new System.Drawing.Size(62, 55);
@@ -1954,6 +2138,7 @@
             // label98
             // 
             this.label98.AutoSize = true;
+            this.label98.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label98.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label98.Location = new System.Drawing.Point(444, 274);
             this.label98.Name = "label98";
@@ -1964,8 +2149,9 @@
             // label99
             // 
             this.label99.AutoSize = true;
+            this.label99.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label99.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label99.Location = new System.Drawing.Point(482, 242);
+            this.label99.Location = new System.Drawing.Point(476, 242);
             this.label99.Name = "label99";
             this.label99.Size = new System.Drawing.Size(31, 15);
             this.label99.TabIndex = 125;
@@ -1974,8 +2160,9 @@
             // label100
             // 
             this.label100.AutoSize = true;
+            this.label100.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label100.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label100.Location = new System.Drawing.Point(448, 243);
+            this.label100.Location = new System.Drawing.Point(447, 243);
             this.label100.Name = "label100";
             this.label100.Size = new System.Drawing.Size(21, 15);
             this.label100.TabIndex = 124;
@@ -1983,7 +2170,10 @@
             // 
             // btn_molibdeno
             // 
-            this.btn_molibdeno.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_molibdeno.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_molibdeno.FlatAppearance.BorderSize = 0;
+            this.btn_molibdeno.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_molibdeno.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_molibdeno.Location = new System.Drawing.Point(444, 239);
             this.btn_molibdeno.Name = "btn_molibdeno";
             this.btn_molibdeno.Size = new System.Drawing.Size(62, 55);
@@ -1994,8 +2184,9 @@
             // label101
             // 
             this.label101.AutoSize = true;
+            this.label101.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label101.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label101.Location = new System.Drawing.Point(448, 216);
+            this.label101.Location = new System.Drawing.Point(454, 219);
             this.label101.Name = "label101";
             this.label101.Size = new System.Drawing.Size(44, 15);
             this.label101.TabIndex = 122;
@@ -2004,8 +2195,9 @@
             // label102
             // 
             this.label102.AutoSize = true;
+            this.label102.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label102.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label102.Location = new System.Drawing.Point(482, 184);
+            this.label102.Location = new System.Drawing.Point(476, 184);
             this.label102.Name = "label102";
             this.label102.Size = new System.Drawing.Size(31, 15);
             this.label102.TabIndex = 121;
@@ -2014,6 +2206,7 @@
             // label103
             // 
             this.label103.AutoSize = true;
+            this.label103.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label103.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label103.Location = new System.Drawing.Point(448, 185);
             this.label103.Name = "label103";
@@ -2023,7 +2216,10 @@
             // 
             // btn_cromo
             // 
-            this.btn_cromo.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_cromo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_cromo.FlatAppearance.BorderSize = 0;
+            this.btn_cromo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_cromo.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_cromo.Location = new System.Drawing.Point(444, 181);
             this.btn_cromo.Name = "btn_cromo";
             this.btn_cromo.Size = new System.Drawing.Size(62, 55);
@@ -2034,6 +2230,7 @@
             // label104
             // 
             this.label104.AutoSize = true;
+            this.label104.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label104.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label104.Location = new System.Drawing.Point(381, 390);
             this.label104.Name = "label104";
@@ -2044,6 +2241,7 @@
             // label105
             // 
             this.label105.AutoSize = true;
+            this.label105.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label105.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label105.Location = new System.Drawing.Point(399, 358);
             this.label105.Name = "label105";
@@ -2054,6 +2252,7 @@
             // label106
             // 
             this.label106.AutoSize = true;
+            this.label106.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label106.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label106.Location = new System.Drawing.Point(375, 359);
             this.label106.Name = "label106";
@@ -2063,7 +2262,10 @@
             // 
             // btn_dubnio
             // 
-            this.btn_dubnio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_dubnio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_dubnio.FlatAppearance.BorderSize = 0;
+            this.btn_dubnio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_dubnio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_dubnio.Location = new System.Drawing.Point(377, 355);
             this.btn_dubnio.Name = "btn_dubnio";
             this.btn_dubnio.Size = new System.Drawing.Size(62, 55);
@@ -2074,6 +2276,7 @@
             // label107
             // 
             this.label107.AutoSize = true;
+            this.label107.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label107.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label107.Location = new System.Drawing.Point(381, 332);
             this.label107.Name = "label107";
@@ -2084,6 +2287,7 @@
             // label108
             // 
             this.label108.AutoSize = true;
+            this.label108.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label108.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label108.Location = new System.Drawing.Point(401, 300);
             this.label108.Name = "label108";
@@ -2094,6 +2298,7 @@
             // label109
             // 
             this.label109.AutoSize = true;
+            this.label109.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label109.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label109.Location = new System.Drawing.Point(381, 301);
             this.label109.Name = "label109";
@@ -2103,7 +2308,10 @@
             // 
             // btn_tantalo
             // 
-            this.btn_tantalo.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_tantalo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_tantalo.FlatAppearance.BorderSize = 0;
+            this.btn_tantalo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_tantalo.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_tantalo.Location = new System.Drawing.Point(377, 297);
             this.btn_tantalo.Name = "btn_tantalo";
             this.btn_tantalo.Size = new System.Drawing.Size(62, 55);
@@ -2114,6 +2322,7 @@
             // label110
             // 
             this.label110.AutoSize = true;
+            this.label110.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label110.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label110.Location = new System.Drawing.Point(380, 274);
             this.label110.Name = "label110";
@@ -2124,8 +2333,9 @@
             // label111
             // 
             this.label111.AutoSize = true;
+            this.label111.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label111.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label111.Location = new System.Drawing.Point(414, 242);
+            this.label111.Location = new System.Drawing.Point(407, 242);
             this.label111.Name = "label111";
             this.label111.Size = new System.Drawing.Size(31, 15);
             this.label111.TabIndex = 109;
@@ -2134,6 +2344,7 @@
             // label112
             // 
             this.label112.AutoSize = true;
+            this.label112.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label112.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label112.Location = new System.Drawing.Point(380, 243);
             this.label112.Name = "label112";
@@ -2143,7 +2354,10 @@
             // 
             // btn_niobio
             // 
-            this.btn_niobio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_niobio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_niobio.FlatAppearance.BorderSize = 0;
+            this.btn_niobio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_niobio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_niobio.Location = new System.Drawing.Point(376, 239);
             this.btn_niobio.Name = "btn_niobio";
             this.btn_niobio.Size = new System.Drawing.Size(62, 55);
@@ -2154,6 +2368,7 @@
             // label113
             // 
             this.label113.AutoSize = true;
+            this.label113.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label113.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label113.Location = new System.Drawing.Point(380, 216);
             this.label113.Name = "label113";
@@ -2164,8 +2379,9 @@
             // label114
             // 
             this.label114.AutoSize = true;
+            this.label114.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label114.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label114.Location = new System.Drawing.Point(414, 184);
+            this.label114.Location = new System.Drawing.Point(407, 184);
             this.label114.Name = "label114";
             this.label114.Size = new System.Drawing.Size(31, 15);
             this.label114.TabIndex = 105;
@@ -2174,6 +2390,7 @@
             // label115
             // 
             this.label115.AutoSize = true;
+            this.label115.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label115.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label115.Location = new System.Drawing.Point(380, 185);
             this.label115.Name = "label115";
@@ -2183,7 +2400,10 @@
             // 
             // btn_vanadio
             // 
-            this.btn_vanadio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_vanadio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_vanadio.FlatAppearance.BorderSize = 0;
+            this.btn_vanadio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_vanadio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_vanadio.Location = new System.Drawing.Point(376, 181);
             this.btn_vanadio.Name = "btn_vanadio";
             this.btn_vanadio.Size = new System.Drawing.Size(62, 55);
@@ -2194,8 +2414,9 @@
             // label116
             // 
             this.label116.AutoSize = true;
+            this.label116.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label116.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label116.Location = new System.Drawing.Point(850, 390);
+            this.label116.Location = new System.Drawing.Point(847, 393);
             this.label116.Name = "label116";
             this.label116.Size = new System.Drawing.Size(63, 15);
             this.label116.TabIndex = 230;
@@ -2204,8 +2425,9 @@
             // label117
             // 
             this.label117.AutoSize = true;
+            this.label117.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label117.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label117.Location = new System.Drawing.Point(874, 358);
+            this.label117.Location = new System.Drawing.Point(872, 358);
             this.label117.Name = "label117";
             this.label117.Size = new System.Drawing.Size(36, 15);
             this.label117.TabIndex = 229;
@@ -2214,8 +2436,9 @@
             // label118
             // 
             this.label118.AutoSize = true;
+            this.label118.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label118.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label118.Location = new System.Drawing.Point(850, 359);
+            this.label118.Location = new System.Drawing.Point(847, 359);
             this.label118.Name = "label118";
             this.label118.Size = new System.Drawing.Size(28, 15);
             this.label118.TabIndex = 228;
@@ -2223,7 +2446,10 @@
             // 
             // btn_copernico
             // 
-            this.btn_copernico.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_copernico.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_copernico.FlatAppearance.BorderSize = 0;
+            this.btn_copernico.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_copernico.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_copernico.Location = new System.Drawing.Point(846, 355);
             this.btn_copernico.Name = "btn_copernico";
             this.btn_copernico.Size = new System.Drawing.Size(62, 55);
@@ -2234,6 +2460,7 @@
             // label119
             // 
             this.label119.AutoSize = true;
+            this.label119.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label119.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label119.Location = new System.Drawing.Point(850, 332);
             this.label119.Name = "label119";
@@ -2244,8 +2471,9 @@
             // label120
             // 
             this.label120.AutoSize = true;
+            this.label120.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label120.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label120.Location = new System.Drawing.Point(873, 301);
+            this.label120.Location = new System.Drawing.Point(870, 301);
             this.label120.Name = "label120";
             this.label120.Size = new System.Drawing.Size(38, 15);
             this.label120.TabIndex = 225;
@@ -2254,8 +2482,9 @@
             // label121
             // 
             this.label121.AutoSize = true;
+            this.label121.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label121.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label121.Location = new System.Drawing.Point(850, 301);
+            this.label121.Location = new System.Drawing.Point(848, 301);
             this.label121.Name = "label121";
             this.label121.Size = new System.Drawing.Size(21, 15);
             this.label121.TabIndex = 224;
@@ -2263,7 +2492,10 @@
             // 
             // btn_mercurio
             // 
-            this.btn_mercurio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_mercurio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_mercurio.FlatAppearance.BorderSize = 0;
+            this.btn_mercurio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_mercurio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_mercurio.Location = new System.Drawing.Point(846, 297);
             this.btn_mercurio.Name = "btn_mercurio";
             this.btn_mercurio.Size = new System.Drawing.Size(62, 55);
@@ -2274,6 +2506,7 @@
             // label122
             // 
             this.label122.AutoSize = true;
+            this.label122.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label122.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label122.Location = new System.Drawing.Point(849, 274);
             this.label122.Name = "label122";
@@ -2284,8 +2517,9 @@
             // label123
             // 
             this.label123.AutoSize = true;
+            this.label123.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label123.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label123.Location = new System.Drawing.Point(870, 244);
+            this.label123.Location = new System.Drawing.Point(869, 241);
             this.label123.Name = "label123";
             this.label123.Size = new System.Drawing.Size(38, 15);
             this.label123.TabIndex = 221;
@@ -2294,8 +2528,9 @@
             // label124
             // 
             this.label124.AutoSize = true;
+            this.label124.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label124.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label124.Location = new System.Drawing.Point(849, 243);
+            this.label124.Location = new System.Drawing.Point(848, 242);
             this.label124.Name = "label124";
             this.label124.Size = new System.Drawing.Size(21, 15);
             this.label124.TabIndex = 220;
@@ -2303,7 +2538,10 @@
             // 
             // btn_cadmio
             // 
-            this.btn_cadmio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_cadmio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_cadmio.FlatAppearance.BorderSize = 0;
+            this.btn_cadmio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_cadmio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_cadmio.Location = new System.Drawing.Point(845, 239);
             this.btn_cadmio.Name = "btn_cadmio";
             this.btn_cadmio.Size = new System.Drawing.Size(62, 55);
@@ -2314,8 +2552,9 @@
             // label125
             // 
             this.label125.AutoSize = true;
+            this.label125.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label125.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label125.Location = new System.Drawing.Point(849, 216);
+            this.label125.Location = new System.Drawing.Point(860, 218);
             this.label125.Name = "label125";
             this.label125.Size = new System.Drawing.Size(31, 15);
             this.label125.TabIndex = 218;
@@ -2324,8 +2563,9 @@
             // label126
             // 
             this.label126.AutoSize = true;
+            this.label126.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label126.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label126.Location = new System.Drawing.Point(883, 184);
+            this.label126.Location = new System.Drawing.Point(876, 184);
             this.label126.Name = "label126";
             this.label126.Size = new System.Drawing.Size(31, 15);
             this.label126.TabIndex = 217;
@@ -2334,8 +2574,9 @@
             // label127
             // 
             this.label127.AutoSize = true;
+            this.label127.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label127.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label127.Location = new System.Drawing.Point(849, 185);
+            this.label127.Location = new System.Drawing.Point(848, 184);
             this.label127.Name = "label127";
             this.label127.Size = new System.Drawing.Size(21, 15);
             this.label127.TabIndex = 216;
@@ -2343,7 +2584,10 @@
             // 
             // btn_cinc
             // 
-            this.btn_cinc.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_cinc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_cinc.FlatAppearance.BorderSize = 0;
+            this.btn_cinc.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_cinc.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_cinc.Location = new System.Drawing.Point(845, 181);
             this.btn_cinc.Name = "btn_cinc";
             this.btn_cinc.Size = new System.Drawing.Size(62, 55);
@@ -2354,8 +2598,9 @@
             // label128
             // 
             this.label128.AutoSize = true;
+            this.label128.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label128.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label128.Location = new System.Drawing.Point(774, 390);
+            this.label128.Location = new System.Drawing.Point(775, 392);
             this.label128.Name = "label128";
             this.label128.Size = new System.Drawing.Size(71, 15);
             this.label128.TabIndex = 214;
@@ -2364,8 +2609,9 @@
             // label129
             // 
             this.label129.AutoSize = true;
+            this.label129.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label129.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label129.Location = new System.Drawing.Point(807, 358);
+            this.label129.Location = new System.Drawing.Point(804, 358);
             this.label129.Name = "label129";
             this.label129.Size = new System.Drawing.Size(36, 15);
             this.label129.TabIndex = 213;
@@ -2374,6 +2620,7 @@
             // label130
             // 
             this.label130.AutoSize = true;
+            this.label130.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label130.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label130.Location = new System.Drawing.Point(782, 359);
             this.label130.Name = "label130";
@@ -2383,7 +2630,10 @@
             // 
             // btn_roentgenio
             // 
-            this.btn_roentgenio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_roentgenio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_roentgenio.FlatAppearance.BorderSize = 0;
+            this.btn_roentgenio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_roentgenio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_roentgenio.Location = new System.Drawing.Point(778, 355);
             this.btn_roentgenio.Name = "btn_roentgenio";
             this.btn_roentgenio.Size = new System.Drawing.Size(62, 55);
@@ -2394,8 +2644,9 @@
             // label131
             // 
             this.label131.AutoSize = true;
+            this.label131.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label131.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label131.Location = new System.Drawing.Point(782, 332);
+            this.label131.Location = new System.Drawing.Point(794, 334);
             this.label131.Name = "label131";
             this.label131.Size = new System.Drawing.Size(27, 15);
             this.label131.TabIndex = 210;
@@ -2404,8 +2655,9 @@
             // label132
             // 
             this.label132.AutoSize = true;
+            this.label132.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label132.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label132.Location = new System.Drawing.Point(803, 300);
+            this.label132.Location = new System.Drawing.Point(802, 300);
             this.label132.Name = "label132";
             this.label132.Size = new System.Drawing.Size(38, 15);
             this.label132.TabIndex = 209;
@@ -2414,6 +2666,7 @@
             // label133
             // 
             this.label133.AutoSize = true;
+            this.label133.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label133.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label133.Location = new System.Drawing.Point(782, 301);
             this.label133.Name = "label133";
@@ -2423,7 +2676,10 @@
             // 
             // btn_oro
             // 
-            this.btn_oro.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_oro.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_oro.FlatAppearance.BorderSize = 0;
+            this.btn_oro.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_oro.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_oro.Location = new System.Drawing.Point(778, 297);
             this.btn_oro.Name = "btn_oro";
             this.btn_oro.Size = new System.Drawing.Size(62, 55);
@@ -2434,8 +2690,9 @@
             // label134
             // 
             this.label134.AutoSize = true;
+            this.label134.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label134.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label134.Location = new System.Drawing.Point(781, 274);
+            this.label134.Location = new System.Drawing.Point(790, 276);
             this.label134.Name = "label134";
             this.label134.Size = new System.Drawing.Size(35, 15);
             this.label134.TabIndex = 206;
@@ -2444,8 +2701,9 @@
             // label135
             // 
             this.label135.AutoSize = true;
+            this.label135.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label135.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label135.Location = new System.Drawing.Point(802, 242);
+            this.label135.Location = new System.Drawing.Point(801, 242);
             this.label135.Name = "label135";
             this.label135.Size = new System.Drawing.Size(38, 15);
             this.label135.TabIndex = 205;
@@ -2454,6 +2712,7 @@
             // label136
             // 
             this.label136.AutoSize = true;
+            this.label136.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label136.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label136.Location = new System.Drawing.Point(781, 243);
             this.label136.Name = "label136";
@@ -2463,7 +2722,10 @@
             // 
             // btn_plata
             // 
-            this.btn_plata.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_plata.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_plata.FlatAppearance.BorderSize = 0;
+            this.btn_plata.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_plata.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_plata.Location = new System.Drawing.Point(777, 239);
             this.btn_plata.Name = "btn_plata";
             this.btn_plata.Size = new System.Drawing.Size(62, 55);
@@ -2474,8 +2736,9 @@
             // label137
             // 
             this.label137.AutoSize = true;
+            this.label137.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label137.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label137.Location = new System.Drawing.Point(781, 216);
+            this.label137.Location = new System.Drawing.Point(790, 218);
             this.label137.Name = "label137";
             this.label137.Size = new System.Drawing.Size(40, 15);
             this.label137.TabIndex = 202;
@@ -2484,8 +2747,9 @@
             // label138
             // 
             this.label138.AutoSize = true;
+            this.label138.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label138.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label138.Location = new System.Drawing.Point(815, 184);
+            this.label138.Location = new System.Drawing.Point(807, 184);
             this.label138.Name = "label138";
             this.label138.Size = new System.Drawing.Size(31, 15);
             this.label138.TabIndex = 201;
@@ -2494,8 +2758,9 @@
             // label139
             // 
             this.label139.AutoSize = true;
+            this.label139.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label139.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label139.Location = new System.Drawing.Point(781, 185);
+            this.label139.Location = new System.Drawing.Point(780, 185);
             this.label139.Name = "label139";
             this.label139.Size = new System.Drawing.Size(21, 15);
             this.label139.TabIndex = 200;
@@ -2503,7 +2768,10 @@
             // 
             // btn_cobre
             // 
-            this.btn_cobre.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_cobre.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_cobre.FlatAppearance.BorderSize = 0;
+            this.btn_cobre.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_cobre.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_cobre.Location = new System.Drawing.Point(777, 181);
             this.btn_cobre.Name = "btn_cobre";
             this.btn_cobre.Size = new System.Drawing.Size(62, 55);
@@ -2514,8 +2782,9 @@
             // label140
             // 
             this.label140.AutoSize = true;
+            this.label140.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label140.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label140.Location = new System.Drawing.Point(716, 390);
+            this.label140.Location = new System.Drawing.Point(709, 393);
             this.label140.Name = "label140";
             this.label140.Size = new System.Drawing.Size(67, 15);
             this.label140.TabIndex = 198;
@@ -2524,8 +2793,9 @@
             // label141
             // 
             this.label141.AutoSize = true;
+            this.label141.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label141.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label141.Location = new System.Drawing.Point(741, 358);
+            this.label141.Location = new System.Drawing.Point(738, 358);
             this.label141.Name = "label141";
             this.label141.Size = new System.Drawing.Size(36, 15);
             this.label141.TabIndex = 197;
@@ -2534,8 +2804,9 @@
             // label142
             // 
             this.label142.AutoSize = true;
+            this.label142.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label142.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label142.Location = new System.Drawing.Point(716, 359);
+            this.label142.Location = new System.Drawing.Point(712, 358);
             this.label142.Name = "label142";
             this.label142.Size = new System.Drawing.Size(28, 15);
             this.label142.TabIndex = 196;
@@ -2543,7 +2814,10 @@
             // 
             // btn_darmstatio
             // 
-            this.btn_darmstatio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_darmstatio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_darmstatio.FlatAppearance.BorderSize = 0;
+            this.btn_darmstatio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_darmstatio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_darmstatio.Location = new System.Drawing.Point(712, 355);
             this.btn_darmstatio.Name = "btn_darmstatio";
             this.btn_darmstatio.Size = new System.Drawing.Size(62, 55);
@@ -2554,8 +2828,9 @@
             // label143
             // 
             this.label143.AutoSize = true;
+            this.label143.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label143.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label143.Location = new System.Drawing.Point(716, 332);
+            this.label143.Location = new System.Drawing.Point(721, 334);
             this.label143.Name = "label143";
             this.label143.Size = new System.Drawing.Size(45, 15);
             this.label143.TabIndex = 194;
@@ -2564,8 +2839,9 @@
             // label144
             // 
             this.label144.AutoSize = true;
+            this.label144.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label144.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label144.Location = new System.Drawing.Point(750, 300);
+            this.label144.Location = new System.Drawing.Point(736, 300);
             this.label144.Name = "label144";
             this.label144.Size = new System.Drawing.Size(38, 15);
             this.label144.TabIndex = 193;
@@ -2574,8 +2850,9 @@
             // label145
             // 
             this.label145.AutoSize = true;
+            this.label145.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label145.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label145.Location = new System.Drawing.Point(716, 301);
+            this.label145.Location = new System.Drawing.Point(715, 301);
             this.label145.Name = "label145";
             this.label145.Size = new System.Drawing.Size(21, 15);
             this.label145.TabIndex = 192;
@@ -2583,7 +2860,10 @@
             // 
             // btn_platino
             // 
-            this.btn_platino.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_platino.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_platino.FlatAppearance.BorderSize = 0;
+            this.btn_platino.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_platino.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_platino.Location = new System.Drawing.Point(712, 297);
             this.btn_platino.Name = "btn_platino";
             this.btn_platino.Size = new System.Drawing.Size(62, 55);
@@ -2594,18 +2874,20 @@
             // label146
             // 
             this.label146.AutoSize = true;
+            this.label146.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label146.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label146.Location = new System.Drawing.Point(715, 274);
+            this.label146.Location = new System.Drawing.Point(721, 276);
             this.label146.Name = "label146";
-            this.label146.Size = new System.Drawing.Size(54, 16);
+            this.label146.Size = new System.Drawing.Size(49, 15);
             this.label146.TabIndex = 190;
             this.label146.Text = "Paladio";
             // 
             // label147
             // 
             this.label147.AutoSize = true;
+            this.label147.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label147.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label147.Location = new System.Drawing.Point(749, 242);
+            this.label147.Location = new System.Drawing.Point(735, 241);
             this.label147.Name = "label147";
             this.label147.Size = new System.Drawing.Size(38, 15);
             this.label147.TabIndex = 189;
@@ -2614,8 +2896,9 @@
             // label148
             // 
             this.label148.AutoSize = true;
+            this.label148.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label148.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label148.Location = new System.Drawing.Point(715, 243);
+            this.label148.Location = new System.Drawing.Point(713, 242);
             this.label148.Name = "label148";
             this.label148.Size = new System.Drawing.Size(21, 15);
             this.label148.TabIndex = 188;
@@ -2623,7 +2906,10 @@
             // 
             // btn_paladio
             // 
-            this.btn_paladio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_paladio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_paladio.FlatAppearance.BorderSize = 0;
+            this.btn_paladio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_paladio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_paladio.Location = new System.Drawing.Point(711, 239);
             this.btn_paladio.Name = "btn_paladio";
             this.btn_paladio.Size = new System.Drawing.Size(62, 55);
@@ -2634,8 +2920,9 @@
             // label149
             // 
             this.label149.AutoSize = true;
+            this.label149.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label149.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label149.Location = new System.Drawing.Point(715, 216);
+            this.label149.Location = new System.Drawing.Point(721, 218);
             this.label149.Name = "label149";
             this.label149.Size = new System.Drawing.Size(43, 15);
             this.label149.TabIndex = 186;
@@ -2644,8 +2931,9 @@
             // label150
             // 
             this.label150.AutoSize = true;
+            this.label150.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label150.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label150.Location = new System.Drawing.Point(749, 184);
+            this.label150.Location = new System.Drawing.Point(742, 184);
             this.label150.Name = "label150";
             this.label150.Size = new System.Drawing.Size(31, 15);
             this.label150.TabIndex = 185;
@@ -2654,8 +2942,9 @@
             // label151
             // 
             this.label151.AutoSize = true;
+            this.label151.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label151.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label151.Location = new System.Drawing.Point(715, 185);
+            this.label151.Location = new System.Drawing.Point(715, 184);
             this.label151.Name = "label151";
             this.label151.Size = new System.Drawing.Size(21, 15);
             this.label151.TabIndex = 184;
@@ -2663,7 +2952,10 @@
             // 
             // btn_niquel
             // 
-            this.btn_niquel.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_niquel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_niquel.FlatAppearance.BorderSize = 0;
+            this.btn_niquel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_niquel.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_niquel.Location = new System.Drawing.Point(711, 181);
             this.btn_niquel.Name = "btn_niquel";
             this.btn_niquel.Size = new System.Drawing.Size(62, 55);
@@ -2674,8 +2966,9 @@
             // label152
             // 
             this.label152.AutoSize = true;
+            this.label152.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label152.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label152.Location = new System.Drawing.Point(648, 390);
+            this.label152.Location = new System.Drawing.Point(646, 392);
             this.label152.Name = "label152";
             this.label152.Size = new System.Drawing.Size(59, 15);
             this.label152.TabIndex = 182;
@@ -2684,6 +2977,7 @@
             // label153
             // 
             this.label153.AutoSize = true;
+            this.label153.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label153.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label153.Location = new System.Drawing.Point(669, 359);
             this.label153.Name = "label153";
@@ -2694,6 +2988,7 @@
             // label154
             // 
             this.label154.AutoSize = true;
+            this.label154.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label154.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label154.Location = new System.Drawing.Point(643, 359);
             this.label154.Name = "label154";
@@ -2703,7 +2998,10 @@
             // 
             // btn_meitnerio
             // 
-            this.btn_meitnerio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_meitnerio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_meitnerio.FlatAppearance.BorderSize = 0;
+            this.btn_meitnerio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_meitnerio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_meitnerio.Location = new System.Drawing.Point(644, 355);
             this.btn_meitnerio.Name = "btn_meitnerio";
             this.btn_meitnerio.Size = new System.Drawing.Size(62, 55);
@@ -2714,8 +3012,9 @@
             // label155
             // 
             this.label155.AutoSize = true;
+            this.label155.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label155.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label155.Location = new System.Drawing.Point(648, 332);
+            this.label155.Location = new System.Drawing.Point(658, 334);
             this.label155.Name = "label155";
             this.label155.Size = new System.Drawing.Size(34, 15);
             this.label155.TabIndex = 178;
@@ -2724,6 +3023,7 @@
             // label156
             // 
             this.label156.AutoSize = true;
+            this.label156.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label156.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label156.Location = new System.Drawing.Point(666, 300);
             this.label156.Name = "label156";
@@ -2734,6 +3034,7 @@
             // label157
             // 
             this.label157.AutoSize = true;
+            this.label157.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label157.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label157.Location = new System.Drawing.Point(648, 301);
             this.label157.Name = "label157";
@@ -2743,7 +3044,10 @@
             // 
             // btn_iridio
             // 
-            this.btn_iridio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_iridio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_iridio.FlatAppearance.BorderSize = 0;
+            this.btn_iridio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_iridio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_iridio.Location = new System.Drawing.Point(644, 297);
             this.btn_iridio.Name = "btn_iridio";
             this.btn_iridio.Size = new System.Drawing.Size(62, 55);
@@ -2754,8 +3058,9 @@
             // label158
             // 
             this.label158.AutoSize = true;
+            this.label158.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label158.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label158.Location = new System.Drawing.Point(647, 274);
+            this.label158.Location = new System.Drawing.Point(654, 276);
             this.label158.Name = "label158";
             this.label158.Size = new System.Drawing.Size(40, 15);
             this.label158.TabIndex = 174;
@@ -2764,6 +3069,7 @@
             // label159
             // 
             this.label159.AutoSize = true;
+            this.label159.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label159.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label159.Location = new System.Drawing.Point(665, 242);
             this.label159.Name = "label159";
@@ -2774,8 +3080,9 @@
             // label160
             // 
             this.label160.AutoSize = true;
+            this.label160.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label160.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label160.Location = new System.Drawing.Point(647, 243);
+            this.label160.Location = new System.Drawing.Point(646, 242);
             this.label160.Name = "label160";
             this.label160.Size = new System.Drawing.Size(21, 15);
             this.label160.TabIndex = 172;
@@ -2783,7 +3090,10 @@
             // 
             // btn_rodio
             // 
-            this.btn_rodio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_rodio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_rodio.FlatAppearance.BorderSize = 0;
+            this.btn_rodio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_rodio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_rodio.Location = new System.Drawing.Point(643, 239);
             this.btn_rodio.Name = "btn_rodio";
             this.btn_rodio.Size = new System.Drawing.Size(62, 55);
@@ -2794,8 +3104,9 @@
             // label161
             // 
             this.label161.AutoSize = true;
+            this.label161.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label161.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label161.Location = new System.Drawing.Point(647, 216);
+            this.label161.Location = new System.Drawing.Point(650, 218);
             this.label161.Name = "label161";
             this.label161.Size = new System.Drawing.Size(49, 15);
             this.label161.TabIndex = 170;
@@ -2804,8 +3115,9 @@
             // label162
             // 
             this.label162.AutoSize = true;
+            this.label162.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label162.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label162.Location = new System.Drawing.Point(681, 184);
+            this.label162.Location = new System.Drawing.Point(674, 184);
             this.label162.Name = "label162";
             this.label162.Size = new System.Drawing.Size(31, 15);
             this.label162.TabIndex = 169;
@@ -2814,8 +3126,9 @@
             // label163
             // 
             this.label163.AutoSize = true;
+            this.label163.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
             this.label163.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label163.Location = new System.Drawing.Point(647, 185);
+            this.label163.Location = new System.Drawing.Point(646, 184);
             this.label163.Name = "label163";
             this.label163.Size = new System.Drawing.Size(21, 15);
             this.label163.TabIndex = 168;
@@ -2823,7 +3136,10 @@
             // 
             // btn_cobalto
             // 
-            this.btn_cobalto.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_cobalto.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(172)))), ((int)(((byte)(235)))));
+            this.btn_cobalto.FlatAppearance.BorderSize = 0;
+            this.btn_cobalto.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_cobalto.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_cobalto.Location = new System.Drawing.Point(643, 181);
             this.btn_cobalto.Name = "btn_cobalto";
             this.btn_cobalto.Size = new System.Drawing.Size(62, 55);
@@ -2834,8 +3150,9 @@
             // label164
             // 
             this.label164.AutoSize = true;
+            this.label164.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label164.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label164.Location = new System.Drawing.Point(986, 390);
+            this.label164.Location = new System.Drawing.Point(987, 392);
             this.label164.Name = "label164";
             this.label164.Size = new System.Drawing.Size(50, 15);
             this.label164.TabIndex = 278;
@@ -2844,8 +3161,9 @@
             // label165
             // 
             this.label165.AutoSize = true;
+            this.label165.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label165.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label165.Location = new System.Drawing.Point(1020, 358);
+            this.label165.Location = new System.Drawing.Point(1009, 358);
             this.label165.Name = "label165";
             this.label165.Size = new System.Drawing.Size(36, 15);
             this.label165.TabIndex = 277;
@@ -2854,6 +3172,7 @@
             // label166
             // 
             this.label166.AutoSize = true;
+            this.label166.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label166.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label166.Location = new System.Drawing.Point(986, 359);
             this.label166.Name = "label166";
@@ -2863,7 +3182,10 @@
             // 
             // btn_flerovio
             // 
-            this.btn_flerovio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_flerovio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
+            this.btn_flerovio.FlatAppearance.BorderSize = 0;
+            this.btn_flerovio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_flerovio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_flerovio.Location = new System.Drawing.Point(982, 355);
             this.btn_flerovio.Name = "btn_flerovio";
             this.btn_flerovio.Size = new System.Drawing.Size(62, 55);
@@ -2874,8 +3196,9 @@
             // label167
             // 
             this.label167.AutoSize = true;
+            this.label167.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label167.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label167.Location = new System.Drawing.Point(986, 332);
+            this.label167.Location = new System.Drawing.Point(992, 334);
             this.label167.Name = "label167";
             this.label167.Size = new System.Drawing.Size(43, 15);
             this.label167.TabIndex = 274;
@@ -2884,8 +3207,9 @@
             // label168
             // 
             this.label168.AutoSize = true;
+            this.label168.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label168.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label168.Location = new System.Drawing.Point(1009, 300);
+            this.label168.Location = new System.Drawing.Point(1006, 300);
             this.label168.Name = "label168";
             this.label168.Size = new System.Drawing.Size(38, 15);
             this.label168.TabIndex = 273;
@@ -2894,8 +3218,9 @@
             // label169
             // 
             this.label169.AutoSize = true;
+            this.label169.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label169.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label169.Location = new System.Drawing.Point(986, 301);
+            this.label169.Location = new System.Drawing.Point(983, 301);
             this.label169.Name = "label169";
             this.label169.Size = new System.Drawing.Size(21, 15);
             this.label169.TabIndex = 272;
@@ -2903,7 +3228,10 @@
             // 
             // btn_plomo
             // 
-            this.btn_plomo.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_plomo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
+            this.btn_plomo.FlatAppearance.BorderSize = 0;
+            this.btn_plomo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_plomo.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_plomo.Location = new System.Drawing.Point(982, 297);
             this.btn_plomo.Name = "btn_plomo";
             this.btn_plomo.Size = new System.Drawing.Size(62, 55);
@@ -2914,8 +3242,9 @@
             // label170
             // 
             this.label170.AutoSize = true;
+            this.label170.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label170.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label170.Location = new System.Drawing.Point(985, 274);
+            this.label170.Location = new System.Drawing.Point(990, 276);
             this.label170.Name = "label170";
             this.label170.Size = new System.Drawing.Size(45, 15);
             this.label170.TabIndex = 270;
@@ -2924,6 +3253,7 @@
             // label171
             // 
             this.label171.AutoSize = true;
+            this.label171.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label171.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label171.Location = new System.Drawing.Point(1003, 242);
             this.label171.Name = "label171";
@@ -2934,6 +3264,7 @@
             // label172
             // 
             this.label172.AutoSize = true;
+            this.label172.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label172.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label172.Location = new System.Drawing.Point(985, 243);
             this.label172.Name = "label172";
@@ -2943,7 +3274,10 @@
             // 
             // btn_estaño
             // 
-            this.btn_estaño.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_estaño.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
+            this.btn_estaño.FlatAppearance.BorderSize = 0;
+            this.btn_estaño.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_estaño.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_estaño.Location = new System.Drawing.Point(981, 239);
             this.btn_estaño.Name = "btn_estaño";
             this.btn_estaño.Size = new System.Drawing.Size(62, 55);
@@ -2954,8 +3288,9 @@
             // label173
             // 
             this.label173.AutoSize = true;
+            this.label173.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
             this.label173.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label173.Location = new System.Drawing.Point(985, 216);
+            this.label173.Location = new System.Drawing.Point(981, 218);
             this.label173.Name = "label173";
             this.label173.Size = new System.Drawing.Size(62, 15);
             this.label173.TabIndex = 266;
@@ -2964,8 +3299,9 @@
             // label174
             // 
             this.label174.AutoSize = true;
+            this.label174.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
             this.label174.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label174.Location = new System.Drawing.Point(1019, 184);
+            this.label174.Location = new System.Drawing.Point(1012, 184);
             this.label174.Name = "label174";
             this.label174.Size = new System.Drawing.Size(31, 15);
             this.label174.TabIndex = 265;
@@ -2974,8 +3310,9 @@
             // label175
             // 
             this.label175.AutoSize = true;
+            this.label175.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
             this.label175.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label175.Location = new System.Drawing.Point(985, 185);
+            this.label175.Location = new System.Drawing.Point(983, 185);
             this.label175.Name = "label175";
             this.label175.Size = new System.Drawing.Size(21, 15);
             this.label175.TabIndex = 264;
@@ -2983,7 +3320,10 @@
             // 
             // btn_germanio
             // 
-            this.btn_germanio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_germanio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
+            this.btn_germanio.FlatAppearance.BorderSize = 0;
+            this.btn_germanio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_germanio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_germanio.Location = new System.Drawing.Point(981, 181);
             this.btn_germanio.Name = "btn_germanio";
             this.btn_germanio.Size = new System.Drawing.Size(62, 55);
@@ -2994,6 +3334,7 @@
             // label176
             // 
             this.label176.AutoSize = true;
+            this.label176.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
             this.label176.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label176.Location = new System.Drawing.Point(984, 158);
             this.label176.Name = "label176";
@@ -3004,6 +3345,7 @@
             // label177
             // 
             this.label177.AutoSize = true;
+            this.label177.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
             this.label177.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label177.Location = new System.Drawing.Point(1010, 127);
             this.label177.Name = "label177";
@@ -3014,6 +3356,7 @@
             // label178
             // 
             this.label178.AutoSize = true;
+            this.label178.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
             this.label178.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label178.Location = new System.Drawing.Point(984, 127);
             this.label178.Name = "label178";
@@ -3023,7 +3366,10 @@
             // 
             // btn_silicio
             // 
-            this.btn_silicio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_silicio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
+            this.btn_silicio.FlatAppearance.BorderSize = 0;
+            this.btn_silicio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_silicio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_silicio.Location = new System.Drawing.Point(980, 123);
             this.btn_silicio.Name = "btn_silicio";
             this.btn_silicio.Size = new System.Drawing.Size(62, 55);
@@ -3034,6 +3380,7 @@
             // label179
             // 
             this.label179.AutoSize = true;
+            this.label179.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
             this.label179.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label179.Location = new System.Drawing.Point(984, 100);
             this.label179.Name = "label179";
@@ -3044,8 +3391,9 @@
             // label180
             // 
             this.label180.AutoSize = true;
+            this.label180.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
             this.label180.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label180.Location = new System.Drawing.Point(1018, 68);
+            this.label180.Location = new System.Drawing.Point(1009, 68);
             this.label180.Name = "label180";
             this.label180.Size = new System.Drawing.Size(31, 15);
             this.label180.TabIndex = 257;
@@ -3054,6 +3402,7 @@
             // label181
             // 
             this.label181.AutoSize = true;
+            this.label181.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
             this.label181.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label181.Location = new System.Drawing.Point(984, 69);
             this.label181.Name = "label181";
@@ -3063,19 +3412,24 @@
             // 
             // btn_carbono
             // 
-            this.btn_carbono.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_carbono.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
+            this.btn_carbono.FlatAppearance.BorderSize = 0;
+            this.btn_carbono.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_carbono.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_carbono.Location = new System.Drawing.Point(980, 65);
             this.btn_carbono.Name = "btn_carbono";
             this.btn_carbono.Size = new System.Drawing.Size(62, 55);
             this.btn_carbono.TabIndex = 255;
             this.btn_carbono.Text = "C";
             this.btn_carbono.UseVisualStyleBackColor = false;
+            this.btn_carbono.Click += new System.EventHandler(this.btn_carbono_Click);
             // 
             // label182
             // 
             this.label182.AutoSize = true;
+            this.label182.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label182.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label182.Location = new System.Drawing.Point(918, 390);
+            this.label182.Location = new System.Drawing.Point(921, 392);
             this.label182.Name = "label182";
             this.label182.Size = new System.Drawing.Size(50, 15);
             this.label182.TabIndex = 254;
@@ -3084,6 +3438,7 @@
             // label183
             // 
             this.label183.AutoSize = true;
+            this.label183.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label183.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label183.Location = new System.Drawing.Point(943, 358);
             this.label183.Name = "label183";
@@ -3094,6 +3449,7 @@
             // label184
             // 
             this.label184.AutoSize = true;
+            this.label184.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label184.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label184.Location = new System.Drawing.Point(918, 359);
             this.label184.Name = "label184";
@@ -3103,7 +3459,10 @@
             // 
             // btn_nihonio
             // 
-            this.btn_nihonio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_nihonio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
+            this.btn_nihonio.FlatAppearance.BorderSize = 0;
+            this.btn_nihonio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_nihonio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_nihonio.Location = new System.Drawing.Point(914, 355);
             this.btn_nihonio.Name = "btn_nihonio";
             this.btn_nihonio.Size = new System.Drawing.Size(62, 55);
@@ -3114,8 +3473,9 @@
             // label185
             // 
             this.label185.AutoSize = true;
+            this.label185.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label185.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label185.Location = new System.Drawing.Point(918, 332);
+            this.label185.Location = new System.Drawing.Point(928, 334);
             this.label185.Name = "label185";
             this.label185.Size = new System.Drawing.Size(34, 15);
             this.label185.TabIndex = 250;
@@ -3124,6 +3484,7 @@
             // label186
             // 
             this.label186.AutoSize = true;
+            this.label186.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label186.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label186.Location = new System.Drawing.Point(937, 300);
             this.label186.Name = "label186";
@@ -3134,6 +3495,7 @@
             // label187
             // 
             this.label187.AutoSize = true;
+            this.label187.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label187.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label187.Location = new System.Drawing.Point(918, 301);
             this.label187.Name = "label187";
@@ -3143,7 +3505,10 @@
             // 
             // btn_talio
             // 
-            this.btn_talio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_talio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
+            this.btn_talio.FlatAppearance.BorderSize = 0;
+            this.btn_talio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_talio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_talio.Location = new System.Drawing.Point(914, 297);
             this.btn_talio.Name = "btn_talio";
             this.btn_talio.Size = new System.Drawing.Size(62, 55);
@@ -3154,8 +3519,9 @@
             // label188
             // 
             this.label188.AutoSize = true;
+            this.label188.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label188.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label188.Location = new System.Drawing.Point(917, 274);
+            this.label188.Location = new System.Drawing.Point(928, 276);
             this.label188.Name = "label188";
             this.label188.Size = new System.Drawing.Size(34, 15);
             this.label188.TabIndex = 246;
@@ -3164,6 +3530,7 @@
             // label189
             // 
             this.label189.AutoSize = true;
+            this.label189.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label189.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label189.Location = new System.Drawing.Point(935, 242);
             this.label189.Name = "label189";
@@ -3174,6 +3541,7 @@
             // label190
             // 
             this.label190.AutoSize = true;
+            this.label190.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label190.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label190.Location = new System.Drawing.Point(917, 243);
             this.label190.Name = "label190";
@@ -3183,7 +3551,10 @@
             // 
             // btn_indio
             // 
-            this.btn_indio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_indio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
+            this.btn_indio.FlatAppearance.BorderSize = 0;
+            this.btn_indio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_indio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_indio.Location = new System.Drawing.Point(913, 239);
             this.btn_indio.Name = "btn_indio";
             this.btn_indio.Size = new System.Drawing.Size(62, 55);
@@ -3194,8 +3565,9 @@
             // label191
             // 
             this.label191.AutoSize = true;
+            this.label191.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label191.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label191.Location = new System.Drawing.Point(917, 216);
+            this.label191.Location = new System.Drawing.Point(926, 218);
             this.label191.Name = "label191";
             this.label191.Size = new System.Drawing.Size(36, 15);
             this.label191.TabIndex = 242;
@@ -3204,8 +3576,9 @@
             // label192
             // 
             this.label192.AutoSize = true;
+            this.label192.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label192.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label192.Location = new System.Drawing.Point(951, 184);
+            this.label192.Location = new System.Drawing.Point(943, 184);
             this.label192.Name = "label192";
             this.label192.Size = new System.Drawing.Size(31, 15);
             this.label192.TabIndex = 241;
@@ -3214,6 +3587,7 @@
             // label193
             // 
             this.label193.AutoSize = true;
+            this.label193.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label193.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label193.Location = new System.Drawing.Point(917, 185);
             this.label193.Name = "label193";
@@ -3223,7 +3597,10 @@
             // 
             // btn_galio
             // 
-            this.btn_galio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_galio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
+            this.btn_galio.FlatAppearance.BorderSize = 0;
+            this.btn_galio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_galio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_galio.Location = new System.Drawing.Point(913, 181);
             this.btn_galio.Name = "btn_galio";
             this.btn_galio.Size = new System.Drawing.Size(62, 55);
@@ -3234,8 +3611,9 @@
             // label194
             // 
             this.label194.AutoSize = true;
+            this.label194.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label194.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label194.Location = new System.Drawing.Point(916, 158);
+            this.label194.Location = new System.Drawing.Point(916, 160);
             this.label194.Name = "label194";
             this.label194.Size = new System.Drawing.Size(55, 15);
             this.label194.TabIndex = 238;
@@ -3244,8 +3622,9 @@
             // label195
             // 
             this.label195.AutoSize = true;
+            this.label195.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label195.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label195.Location = new System.Drawing.Point(950, 126);
+            this.label195.Location = new System.Drawing.Point(943, 126);
             this.label195.Name = "label195";
             this.label195.Size = new System.Drawing.Size(31, 15);
             this.label195.TabIndex = 237;
@@ -3254,8 +3633,9 @@
             // label196
             // 
             this.label196.AutoSize = true;
+            this.label196.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label196.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label196.Location = new System.Drawing.Point(916, 127);
+            this.label196.Location = new System.Drawing.Point(914, 126);
             this.label196.Name = "label196";
             this.label196.Size = new System.Drawing.Size(21, 15);
             this.label196.TabIndex = 236;
@@ -3263,7 +3643,10 @@
             // 
             // btn_aluminio
             // 
-            this.btn_aluminio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_aluminio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
+            this.btn_aluminio.FlatAppearance.BorderSize = 0;
+            this.btn_aluminio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_aluminio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_aluminio.Location = new System.Drawing.Point(912, 123);
             this.btn_aluminio.Name = "btn_aluminio";
             this.btn_aluminio.Size = new System.Drawing.Size(62, 55);
@@ -3274,8 +3657,9 @@
             // label197
             // 
             this.label197.AutoSize = true;
+            this.label197.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
             this.label197.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label197.Location = new System.Drawing.Point(916, 100);
+            this.label197.Location = new System.Drawing.Point(928, 102);
             this.label197.Name = "label197";
             this.label197.Size = new System.Drawing.Size(33, 15);
             this.label197.TabIndex = 234;
@@ -3284,8 +3668,9 @@
             // label198
             // 
             this.label198.AutoSize = true;
+            this.label198.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
             this.label198.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label198.Location = new System.Drawing.Point(950, 68);
+            this.label198.Location = new System.Drawing.Point(940, 68);
             this.label198.Name = "label198";
             this.label198.Size = new System.Drawing.Size(31, 15);
             this.label198.TabIndex = 233;
@@ -3294,6 +3679,7 @@
             // label199
             // 
             this.label199.AutoSize = true;
+            this.label199.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
             this.label199.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label199.Location = new System.Drawing.Point(916, 69);
             this.label199.Name = "label199";
@@ -3303,7 +3689,10 @@
             // 
             // btn_boro
             // 
-            this.btn_boro.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_boro.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
+            this.btn_boro.FlatAppearance.BorderSize = 0;
+            this.btn_boro.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_boro.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_boro.Location = new System.Drawing.Point(912, 65);
             this.btn_boro.Name = "btn_boro";
             this.btn_boro.Size = new System.Drawing.Size(62, 55);
@@ -3314,18 +3703,20 @@
             // label200
             // 
             this.label200.AutoSize = true;
+            this.label200.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label200.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label200.Location = new System.Drawing.Point(1123, 391);
+            this.label200.Location = new System.Drawing.Point(1117, 394);
             this.label200.Name = "label200";
             this.label200.Size = new System.Drawing.Size(65, 15);
             this.label200.TabIndex = 326;
-            this.label200.Text = "Hidrógeno";
+            this.label200.Text = "Livermorio";
             // 
             // label201
             // 
             this.label201.AutoSize = true;
+            this.label201.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label201.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label201.Location = new System.Drawing.Point(1149, 359);
+            this.label201.Location = new System.Drawing.Point(1145, 360);
             this.label201.Name = "label201";
             this.label201.Size = new System.Drawing.Size(36, 15);
             this.label201.TabIndex = 325;
@@ -3334,8 +3725,9 @@
             // label202
             // 
             this.label202.AutoSize = true;
+            this.label202.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label202.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label202.Location = new System.Drawing.Point(1121, 360);
+            this.label202.Location = new System.Drawing.Point(1119, 360);
             this.label202.Name = "label202";
             this.label202.Size = new System.Drawing.Size(28, 15);
             this.label202.TabIndex = 324;
@@ -3343,7 +3735,10 @@
             // 
             // btn_livermorio
             // 
-            this.btn_livermorio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_livermorio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
+            this.btn_livermorio.FlatAppearance.BorderSize = 0;
+            this.btn_livermorio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_livermorio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_livermorio.Location = new System.Drawing.Point(1119, 356);
             this.btn_livermorio.Name = "btn_livermorio";
             this.btn_livermorio.Size = new System.Drawing.Size(62, 55);
@@ -3354,8 +3749,9 @@
             // label203
             // 
             this.label203.AutoSize = true;
+            this.label203.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
             this.label203.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label203.Location = new System.Drawing.Point(1123, 333);
+            this.label203.Location = new System.Drawing.Point(1127, 334);
             this.label203.Name = "label203";
             this.label203.Size = new System.Drawing.Size(49, 15);
             this.label203.TabIndex = 322;
@@ -3364,8 +3760,9 @@
             // label204
             // 
             this.label204.AutoSize = true;
+            this.label204.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
             this.label204.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label204.Location = new System.Drawing.Point(1146, 301);
+            this.label204.Location = new System.Drawing.Point(1145, 301);
             this.label204.Name = "label204";
             this.label204.Size = new System.Drawing.Size(36, 15);
             this.label204.TabIndex = 321;
@@ -3374,8 +3771,9 @@
             // label205
             // 
             this.label205.AutoSize = true;
+            this.label205.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
             this.label205.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label205.Location = new System.Drawing.Point(1123, 302);
+            this.label205.Location = new System.Drawing.Point(1122, 301);
             this.label205.Name = "label205";
             this.label205.Size = new System.Drawing.Size(21, 15);
             this.label205.TabIndex = 320;
@@ -3383,7 +3781,10 @@
             // 
             // btn_polonio
             // 
-            this.btn_polonio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_polonio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
+            this.btn_polonio.FlatAppearance.BorderSize = 0;
+            this.btn_polonio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_polonio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_polonio.Location = new System.Drawing.Point(1119, 298);
             this.btn_polonio.Name = "btn_polonio";
             this.btn_polonio.Size = new System.Drawing.Size(62, 55);
@@ -3394,6 +3795,7 @@
             // label206
             // 
             this.label206.AutoSize = true;
+            this.label206.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
             this.label206.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label206.Location = new System.Drawing.Point(1122, 275);
             this.label206.Name = "label206";
@@ -3404,8 +3806,9 @@
             // label207
             // 
             this.label207.AutoSize = true;
+            this.label207.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
             this.label207.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label207.Location = new System.Drawing.Point(1143, 243);
+            this.label207.Location = new System.Drawing.Point(1142, 243);
             this.label207.Name = "label207";
             this.label207.Size = new System.Drawing.Size(38, 15);
             this.label207.TabIndex = 317;
@@ -3414,8 +3817,9 @@
             // label208
             // 
             this.label208.AutoSize = true;
+            this.label208.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
             this.label208.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label208.Location = new System.Drawing.Point(1122, 244);
+            this.label208.Location = new System.Drawing.Point(1120, 243);
             this.label208.Name = "label208";
             this.label208.Size = new System.Drawing.Size(21, 15);
             this.label208.TabIndex = 316;
@@ -3423,7 +3827,10 @@
             // 
             // btn_teluro
             // 
-            this.btn_teluro.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_teluro.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
+            this.btn_teluro.FlatAppearance.BorderSize = 0;
+            this.btn_teluro.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_teluro.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_teluro.Location = new System.Drawing.Point(1118, 240);
             this.btn_teluro.Name = "btn_teluro";
             this.btn_teluro.Size = new System.Drawing.Size(62, 55);
@@ -3434,6 +3841,7 @@
             // label209
             // 
             this.label209.AutoSize = true;
+            this.label209.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
             this.label209.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label209.Location = new System.Drawing.Point(1122, 217);
             this.label209.Name = "label209";
@@ -3444,8 +3852,9 @@
             // label210
             // 
             this.label210.AutoSize = true;
+            this.label210.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
             this.label210.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label210.Location = new System.Drawing.Point(1156, 185);
+            this.label210.Location = new System.Drawing.Point(1148, 185);
             this.label210.Name = "label210";
             this.label210.Size = new System.Drawing.Size(31, 15);
             this.label210.TabIndex = 313;
@@ -3454,6 +3863,7 @@
             // label211
             // 
             this.label211.AutoSize = true;
+            this.label211.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
             this.label211.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label211.Location = new System.Drawing.Point(1122, 186);
             this.label211.Name = "label211";
@@ -3463,7 +3873,10 @@
             // 
             // btn_selenio
             // 
-            this.btn_selenio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_selenio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
+            this.btn_selenio.FlatAppearance.BorderSize = 0;
+            this.btn_selenio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_selenio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_selenio.Location = new System.Drawing.Point(1118, 182);
             this.btn_selenio.Name = "btn_selenio";
             this.btn_selenio.Size = new System.Drawing.Size(62, 55);
@@ -3474,6 +3887,7 @@
             // label212
             // 
             this.label212.AutoSize = true;
+            this.label212.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
             this.label212.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label212.Location = new System.Drawing.Point(1121, 159);
             this.label212.Name = "label212";
@@ -3484,8 +3898,9 @@
             // label213
             // 
             this.label213.AutoSize = true;
+            this.label213.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
             this.label213.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label213.Location = new System.Drawing.Point(1155, 127);
+            this.label213.Location = new System.Drawing.Point(1147, 127);
             this.label213.Name = "label213";
             this.label213.Size = new System.Drawing.Size(31, 15);
             this.label213.TabIndex = 309;
@@ -3494,6 +3909,7 @@
             // label214
             // 
             this.label214.AutoSize = true;
+            this.label214.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
             this.label214.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label214.Location = new System.Drawing.Point(1121, 128);
             this.label214.Name = "label214";
@@ -3503,7 +3919,10 @@
             // 
             // btn_azufre
             // 
-            this.btn_azufre.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_azufre.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
+            this.btn_azufre.FlatAppearance.BorderSize = 0;
+            this.btn_azufre.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_azufre.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_azufre.Location = new System.Drawing.Point(1117, 124);
             this.btn_azufre.Name = "btn_azufre";
             this.btn_azufre.Size = new System.Drawing.Size(62, 55);
@@ -3514,6 +3933,7 @@
             // label215
             // 
             this.label215.AutoSize = true;
+            this.label215.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
             this.label215.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label215.Location = new System.Drawing.Point(1121, 101);
             this.label215.Name = "label215";
@@ -3524,8 +3944,9 @@
             // label216
             // 
             this.label216.AutoSize = true;
+            this.label216.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
             this.label216.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label216.Location = new System.Drawing.Point(1155, 69);
+            this.label216.Location = new System.Drawing.Point(1148, 69);
             this.label216.Name = "label216";
             this.label216.Size = new System.Drawing.Size(31, 15);
             this.label216.TabIndex = 305;
@@ -3534,6 +3955,7 @@
             // label217
             // 
             this.label217.AutoSize = true;
+            this.label217.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
             this.label217.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label217.Location = new System.Drawing.Point(1121, 70);
             this.label217.Name = "label217";
@@ -3543,7 +3965,10 @@
             // 
             // btn_oxigeno
             // 
-            this.btn_oxigeno.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_oxigeno.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
+            this.btn_oxigeno.FlatAppearance.BorderSize = 0;
+            this.btn_oxigeno.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_oxigeno.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_oxigeno.Location = new System.Drawing.Point(1117, 66);
             this.btn_oxigeno.Name = "btn_oxigeno";
             this.btn_oxigeno.Size = new System.Drawing.Size(62, 55);
@@ -3554,8 +3979,9 @@
             // label218
             // 
             this.label218.AutoSize = true;
+            this.label218.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label218.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label218.Location = new System.Drawing.Point(1055, 391);
+            this.label218.Location = new System.Drawing.Point(1054, 393);
             this.label218.Name = "label218";
             this.label218.Size = new System.Drawing.Size(59, 15);
             this.label218.TabIndex = 302;
@@ -3564,8 +3990,9 @@
             // label219
             // 
             this.label219.AutoSize = true;
+            this.label219.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label219.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label219.Location = new System.Drawing.Point(1089, 359);
+            this.label219.Location = new System.Drawing.Point(1085, 358);
             this.label219.Name = "label219";
             this.label219.Size = new System.Drawing.Size(28, 15);
             this.label219.TabIndex = 301;
@@ -3574,8 +4001,9 @@
             // label220
             // 
             this.label220.AutoSize = true;
+            this.label220.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label220.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label220.Location = new System.Drawing.Point(1051, 360);
+            this.label220.Location = new System.Drawing.Point(1051, 358);
             this.label220.Name = "label220";
             this.label220.Size = new System.Drawing.Size(28, 15);
             this.label220.TabIndex = 300;
@@ -3583,7 +4011,10 @@
             // 
             // btn_moscovio
             // 
-            this.btn_moscovio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_moscovio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
+            this.btn_moscovio.FlatAppearance.BorderSize = 0;
+            this.btn_moscovio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_moscovio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_moscovio.Location = new System.Drawing.Point(1051, 356);
             this.btn_moscovio.Name = "btn_moscovio";
             this.btn_moscovio.Size = new System.Drawing.Size(62, 55);
@@ -3594,8 +4025,9 @@
             // label221
             // 
             this.label221.AutoSize = true;
+            this.label221.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label221.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label221.Location = new System.Drawing.Point(1055, 333);
+            this.label221.Location = new System.Drawing.Point(1056, 335);
             this.label221.Name = "label221";
             this.label221.Size = new System.Drawing.Size(52, 15);
             this.label221.TabIndex = 298;
@@ -3604,6 +4036,7 @@
             // label222
             // 
             this.label222.AutoSize = true;
+            this.label222.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label222.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label222.Location = new System.Drawing.Point(1074, 301);
             this.label222.Name = "label222";
@@ -3614,8 +4047,9 @@
             // label223
             // 
             this.label223.AutoSize = true;
+            this.label223.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
             this.label223.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label223.Location = new System.Drawing.Point(1055, 302);
+            this.label223.Location = new System.Drawing.Point(1053, 301);
             this.label223.Name = "label223";
             this.label223.Size = new System.Drawing.Size(21, 15);
             this.label223.TabIndex = 296;
@@ -3623,7 +4057,10 @@
             // 
             // btn_bismuto
             // 
-            this.btn_bismuto.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_bismuto.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(135)))), ((int)(((byte)(216)))));
+            this.btn_bismuto.FlatAppearance.BorderSize = 0;
+            this.btn_bismuto.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_bismuto.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_bismuto.Location = new System.Drawing.Point(1051, 298);
             this.btn_bismuto.Name = "btn_bismuto";
             this.btn_bismuto.Size = new System.Drawing.Size(62, 55);
@@ -3634,8 +4071,9 @@
             // label224
             // 
             this.label224.AutoSize = true;
+            this.label224.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
             this.label224.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label224.Location = new System.Drawing.Point(1054, 275);
+            this.label224.Location = new System.Drawing.Point(1050, 277);
             this.label224.Name = "label224";
             this.label224.Size = new System.Drawing.Size(62, 15);
             this.label224.TabIndex = 294;
@@ -3644,8 +4082,9 @@
             // label225
             // 
             this.label225.AutoSize = true;
+            this.label225.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
             this.label225.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label225.Location = new System.Drawing.Point(1073, 243);
+            this.label225.Location = new System.Drawing.Point(1074, 243);
             this.label225.Name = "label225";
             this.label225.Size = new System.Drawing.Size(38, 15);
             this.label225.TabIndex = 293;
@@ -3654,8 +4093,9 @@
             // label226
             // 
             this.label226.AutoSize = true;
+            this.label226.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
             this.label226.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label226.Location = new System.Drawing.Point(1054, 244);
+            this.label226.Location = new System.Drawing.Point(1053, 244);
             this.label226.Name = "label226";
             this.label226.Size = new System.Drawing.Size(21, 15);
             this.label226.TabIndex = 292;
@@ -3663,7 +4103,10 @@
             // 
             // btn_antimonio
             // 
-            this.btn_antimonio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_antimonio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
+            this.btn_antimonio.FlatAppearance.BorderSize = 0;
+            this.btn_antimonio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_antimonio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_antimonio.Location = new System.Drawing.Point(1050, 240);
             this.btn_antimonio.Name = "btn_antimonio";
             this.btn_antimonio.Size = new System.Drawing.Size(62, 55);
@@ -3674,8 +4117,9 @@
             // label227
             // 
             this.label227.AutoSize = true;
+            this.label227.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
             this.label227.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label227.Location = new System.Drawing.Point(1054, 217);
+            this.label227.Location = new System.Drawing.Point(1055, 219);
             this.label227.Name = "label227";
             this.label227.Size = new System.Drawing.Size(54, 15);
             this.label227.TabIndex = 290;
@@ -3684,8 +4128,9 @@
             // label228
             // 
             this.label228.AutoSize = true;
+            this.label228.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
             this.label228.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label228.Location = new System.Drawing.Point(1088, 185);
+            this.label228.Location = new System.Drawing.Point(1079, 185);
             this.label228.Name = "label228";
             this.label228.Size = new System.Drawing.Size(31, 15);
             this.label228.TabIndex = 289;
@@ -3694,8 +4139,9 @@
             // label229
             // 
             this.label229.AutoSize = true;
+            this.label229.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
             this.label229.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label229.Location = new System.Drawing.Point(1054, 186);
+            this.label229.Location = new System.Drawing.Point(1053, 186);
             this.label229.Name = "label229";
             this.label229.Size = new System.Drawing.Size(21, 15);
             this.label229.TabIndex = 288;
@@ -3703,7 +4149,10 @@
             // 
             // btn_arsenico
             // 
-            this.btn_arsenico.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_arsenico.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(91)))), ((int)(((byte)(91)))));
+            this.btn_arsenico.FlatAppearance.BorderSize = 0;
+            this.btn_arsenico.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_arsenico.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_arsenico.Location = new System.Drawing.Point(1050, 182);
             this.btn_arsenico.Name = "btn_arsenico";
             this.btn_arsenico.Size = new System.Drawing.Size(62, 55);
@@ -3714,6 +4163,7 @@
             // label230
             // 
             this.label230.AutoSize = true;
+            this.label230.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
             this.label230.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label230.Location = new System.Drawing.Point(1053, 159);
             this.label230.Name = "label230";
@@ -3724,8 +4174,9 @@
             // label231
             // 
             this.label231.AutoSize = true;
+            this.label231.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
             this.label231.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label231.Location = new System.Drawing.Point(1087, 127);
+            this.label231.Location = new System.Drawing.Point(1080, 127);
             this.label231.Name = "label231";
             this.label231.Size = new System.Drawing.Size(31, 15);
             this.label231.TabIndex = 285;
@@ -3734,6 +4185,7 @@
             // label232
             // 
             this.label232.AutoSize = true;
+            this.label232.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
             this.label232.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label232.Location = new System.Drawing.Point(1053, 128);
             this.label232.Name = "label232";
@@ -3743,7 +4195,10 @@
             // 
             // btn_fosforo
             // 
-            this.btn_fosforo.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_fosforo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
+            this.btn_fosforo.FlatAppearance.BorderSize = 0;
+            this.btn_fosforo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_fosforo.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_fosforo.Location = new System.Drawing.Point(1049, 124);
             this.btn_fosforo.Name = "btn_fosforo";
             this.btn_fosforo.Size = new System.Drawing.Size(62, 55);
@@ -3754,8 +4209,9 @@
             // label233
             // 
             this.label233.AutoSize = true;
+            this.label233.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
             this.label233.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label233.Location = new System.Drawing.Point(1053, 101);
+            this.label233.Location = new System.Drawing.Point(1051, 103);
             this.label233.Name = "label233";
             this.label233.Size = new System.Drawing.Size(61, 15);
             this.label233.TabIndex = 282;
@@ -3764,6 +4220,7 @@
             // label234
             // 
             this.label234.AutoSize = true;
+            this.label234.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
             this.label234.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label234.Location = new System.Drawing.Point(1080, 68);
             this.label234.Name = "label234";
@@ -3774,6 +4231,7 @@
             // label235
             // 
             this.label235.AutoSize = true;
+            this.label235.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
             this.label235.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label235.Location = new System.Drawing.Point(1053, 70);
             this.label235.Name = "label235";
@@ -3783,7 +4241,10 @@
             // 
             // btn_nitrogeno
             // 
-            this.btn_nitrogeno.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_nitrogeno.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(85)))), ((int)(((byte)(85)))));
+            this.btn_nitrogeno.FlatAppearance.BorderSize = 0;
+            this.btn_nitrogeno.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_nitrogeno.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_nitrogeno.Location = new System.Drawing.Point(1049, 66);
             this.btn_nitrogeno.Name = "btn_nitrogeno";
             this.btn_nitrogeno.Size = new System.Drawing.Size(62, 55);
@@ -3794,8 +4255,9 @@
             // label236
             // 
             this.label236.AutoSize = true;
+            this.label236.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(249)))), ((int)(((byte)(137)))));
             this.label236.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label236.Location = new System.Drawing.Point(1191, 390);
+            this.label236.Location = new System.Drawing.Point(1195, 390);
             this.label236.Name = "label236";
             this.label236.Size = new System.Drawing.Size(48, 15);
             this.label236.TabIndex = 344;
@@ -3804,8 +4266,9 @@
             // label237
             // 
             this.label237.AutoSize = true;
+            this.label237.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(249)))), ((int)(((byte)(137)))));
             this.label237.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label237.Location = new System.Drawing.Point(1220, 358);
+            this.label237.Location = new System.Drawing.Point(1215, 358);
             this.label237.Name = "label237";
             this.label237.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.label237.Size = new System.Drawing.Size(36, 15);
@@ -3814,7 +4277,10 @@
             // 
             // btn_teneso
             // 
-            this.btn_teneso.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_teneso.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(249)))), ((int)(((byte)(137)))));
+            this.btn_teneso.FlatAppearance.BorderSize = 0;
+            this.btn_teneso.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_teneso.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_teneso.Location = new System.Drawing.Point(1187, 355);
             this.btn_teneso.Name = "btn_teneso";
             this.btn_teneso.Size = new System.Drawing.Size(62, 55);
@@ -3825,8 +4291,9 @@
             // label238
             // 
             this.label238.AutoSize = true;
+            this.label238.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(249)))), ((int)(((byte)(137)))));
             this.label238.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label238.Location = new System.Drawing.Point(1191, 332);
+            this.label238.Location = new System.Drawing.Point(1199, 332);
             this.label238.Name = "label238";
             this.label238.Size = new System.Drawing.Size(40, 15);
             this.label238.TabIndex = 341;
@@ -3835,8 +4302,9 @@
             // label239
             // 
             this.label239.AutoSize = true;
+            this.label239.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(249)))), ((int)(((byte)(137)))));
             this.label239.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label239.Location = new System.Drawing.Point(1225, 300);
+            this.label239.Location = new System.Drawing.Point(1214, 300);
             this.label239.Name = "label239";
             this.label239.Size = new System.Drawing.Size(36, 15);
             this.label239.TabIndex = 340;
@@ -3844,7 +4312,10 @@
             // 
             // btn_astato
             // 
-            this.btn_astato.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_astato.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(249)))), ((int)(((byte)(137)))));
+            this.btn_astato.FlatAppearance.BorderSize = 0;
+            this.btn_astato.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_astato.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_astato.Location = new System.Drawing.Point(1187, 297);
             this.btn_astato.Name = "btn_astato";
             this.btn_astato.Size = new System.Drawing.Size(62, 55);
@@ -3855,8 +4326,9 @@
             // label240
             // 
             this.label240.AutoSize = true;
+            this.label240.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(249)))), ((int)(((byte)(137)))));
             this.label240.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label240.Location = new System.Drawing.Point(1190, 274);
+            this.label240.Location = new System.Drawing.Point(1201, 274);
             this.label240.Name = "label240";
             this.label240.Size = new System.Drawing.Size(35, 15);
             this.label240.TabIndex = 338;
@@ -3865,8 +4337,9 @@
             // label241
             // 
             this.label241.AutoSize = true;
+            this.label241.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(249)))), ((int)(((byte)(137)))));
             this.label241.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label241.Location = new System.Drawing.Point(1213, 244);
+            this.label241.Location = new System.Drawing.Point(1212, 244);
             this.label241.Name = "label241";
             this.label241.Size = new System.Drawing.Size(38, 15);
             this.label241.TabIndex = 337;
@@ -3874,7 +4347,10 @@
             // 
             // btn_yodo
             // 
-            this.btn_yodo.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_yodo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(249)))), ((int)(((byte)(137)))));
+            this.btn_yodo.FlatAppearance.BorderSize = 0;
+            this.btn_yodo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_yodo.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_yodo.Location = new System.Drawing.Point(1186, 239);
             this.btn_yodo.Name = "btn_yodo";
             this.btn_yodo.Size = new System.Drawing.Size(62, 55);
@@ -3885,8 +4361,9 @@
             // label242
             // 
             this.label242.AutoSize = true;
+            this.label242.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(249)))), ((int)(((byte)(137)))));
             this.label242.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label242.Location = new System.Drawing.Point(1190, 216);
+            this.label242.Location = new System.Drawing.Point(1195, 216);
             this.label242.Name = "label242";
             this.label242.Size = new System.Drawing.Size(44, 15);
             this.label242.TabIndex = 335;
@@ -3895,8 +4372,9 @@
             // label243
             // 
             this.label243.AutoSize = true;
+            this.label243.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(249)))), ((int)(((byte)(137)))));
             this.label243.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label243.Location = new System.Drawing.Point(1224, 184);
+            this.label243.Location = new System.Drawing.Point(1217, 185);
             this.label243.Name = "label243";
             this.label243.Size = new System.Drawing.Size(31, 15);
             this.label243.TabIndex = 334;
@@ -3904,7 +4382,10 @@
             // 
             // btn_bromo
             // 
-            this.btn_bromo.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_bromo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(249)))), ((int)(((byte)(137)))));
+            this.btn_bromo.FlatAppearance.BorderSize = 0;
+            this.btn_bromo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_bromo.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_bromo.Location = new System.Drawing.Point(1186, 181);
             this.btn_bromo.Name = "btn_bromo";
             this.btn_bromo.Size = new System.Drawing.Size(62, 55);
@@ -3915,8 +4396,9 @@
             // label244
             // 
             this.label244.AutoSize = true;
+            this.label244.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(249)))), ((int)(((byte)(137)))));
             this.label244.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label244.Location = new System.Drawing.Point(1189, 158);
+            this.label244.Location = new System.Drawing.Point(1200, 158);
             this.label244.Name = "label244";
             this.label244.Size = new System.Drawing.Size(36, 15);
             this.label244.TabIndex = 332;
@@ -3925,8 +4407,9 @@
             // label245
             // 
             this.label245.AutoSize = true;
+            this.label245.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(249)))), ((int)(((byte)(137)))));
             this.label245.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label245.Location = new System.Drawing.Point(1223, 126);
+            this.label245.Location = new System.Drawing.Point(1216, 126);
             this.label245.Name = "label245";
             this.label245.Size = new System.Drawing.Size(31, 15);
             this.label245.TabIndex = 331;
@@ -3934,7 +4417,10 @@
             // 
             // btn_cloro
             // 
-            this.btn_cloro.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_cloro.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(249)))), ((int)(((byte)(137)))));
+            this.btn_cloro.FlatAppearance.BorderSize = 0;
+            this.btn_cloro.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_cloro.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_cloro.Location = new System.Drawing.Point(1185, 123);
             this.btn_cloro.Name = "btn_cloro";
             this.btn_cloro.Size = new System.Drawing.Size(62, 55);
@@ -3945,8 +4431,9 @@
             // label246
             // 
             this.label246.AutoSize = true;
+            this.label246.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(249)))), ((int)(((byte)(137)))));
             this.label246.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label246.Location = new System.Drawing.Point(1189, 100);
+            this.label246.Location = new System.Drawing.Point(1199, 100);
             this.label246.Name = "label246";
             this.label246.Size = new System.Drawing.Size(35, 15);
             this.label246.TabIndex = 329;
@@ -3955,8 +4442,9 @@
             // label247
             // 
             this.label247.AutoSize = true;
+            this.label247.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(249)))), ((int)(((byte)(137)))));
             this.label247.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label247.Location = new System.Drawing.Point(1223, 68);
+            this.label247.Location = new System.Drawing.Point(1217, 68);
             this.label247.Name = "label247";
             this.label247.Size = new System.Drawing.Size(31, 15);
             this.label247.TabIndex = 328;
@@ -3964,7 +4452,10 @@
             // 
             // btn_fluor
             // 
-            this.btn_fluor.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_fluor.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(249)))), ((int)(((byte)(137)))));
+            this.btn_fluor.FlatAppearance.BorderSize = 0;
+            this.btn_fluor.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_fluor.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_fluor.Location = new System.Drawing.Point(1185, 65);
             this.btn_fluor.Name = "btn_fluor";
             this.btn_fluor.Size = new System.Drawing.Size(62, 55);
@@ -3975,8 +4466,9 @@
             // label248
             // 
             this.label248.AutoSize = true;
+            this.label248.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
             this.label248.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label248.Location = new System.Drawing.Point(1260, 392);
+            this.label248.Location = new System.Drawing.Point(1259, 394);
             this.label248.Name = "label248";
             this.label248.Size = new System.Drawing.Size(64, 15);
             this.label248.TabIndex = 372;
@@ -3985,8 +4477,9 @@
             // label249
             // 
             this.label249.AutoSize = true;
+            this.label249.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
             this.label249.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label249.Location = new System.Drawing.Point(1292, 358);
+            this.label249.Location = new System.Drawing.Point(1284, 358);
             this.label249.Name = "label249";
             this.label249.Size = new System.Drawing.Size(36, 15);
             this.label249.TabIndex = 371;
@@ -3995,8 +4488,9 @@
             // label250
             // 
             this.label250.AutoSize = true;
+            this.label250.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
             this.label250.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label250.Location = new System.Drawing.Point(1262, 359);
+            this.label250.Location = new System.Drawing.Point(1257, 358);
             this.label250.Name = "label250";
             this.label250.Size = new System.Drawing.Size(28, 15);
             this.label250.TabIndex = 370;
@@ -4004,7 +4498,10 @@
             // 
             // btn_oganeson
             // 
-            this.btn_oganeson.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_oganeson.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
+            this.btn_oganeson.FlatAppearance.BorderSize = 0;
+            this.btn_oganeson.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_oganeson.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_oganeson.Location = new System.Drawing.Point(1258, 355);
             this.btn_oganeson.Name = "btn_oganeson";
             this.btn_oganeson.Size = new System.Drawing.Size(62, 55);
@@ -4015,8 +4512,9 @@
             // label251
             // 
             this.label251.AutoSize = true;
+            this.label251.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
             this.label251.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label251.Location = new System.Drawing.Point(1262, 332);
+            this.label251.Location = new System.Drawing.Point(1268, 332);
             this.label251.Name = "label251";
             this.label251.Size = new System.Drawing.Size(44, 15);
             this.label251.TabIndex = 368;
@@ -4025,8 +4523,9 @@
             // label252
             // 
             this.label252.AutoSize = true;
+            this.label252.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
             this.label252.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label252.Location = new System.Drawing.Point(1296, 300);
+            this.label252.Location = new System.Drawing.Point(1281, 300);
             this.label252.Name = "label252";
             this.label252.Size = new System.Drawing.Size(36, 15);
             this.label252.TabIndex = 367;
@@ -4035,8 +4534,9 @@
             // label253
             // 
             this.label253.AutoSize = true;
+            this.label253.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
             this.label253.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label253.Location = new System.Drawing.Point(1262, 301);
+            this.label253.Location = new System.Drawing.Point(1262, 300);
             this.label253.Name = "label253";
             this.label253.Size = new System.Drawing.Size(21, 15);
             this.label253.TabIndex = 366;
@@ -4044,7 +4544,10 @@
             // 
             // btn_radon
             // 
-            this.btn_radon.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_radon.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
+            this.btn_radon.FlatAppearance.BorderSize = 0;
+            this.btn_radon.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_radon.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_radon.Location = new System.Drawing.Point(1258, 297);
             this.btn_radon.Name = "btn_radon";
             this.btn_radon.Size = new System.Drawing.Size(62, 55);
@@ -4055,8 +4558,9 @@
             // label254
             // 
             this.label254.AutoSize = true;
+            this.label254.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
             this.label254.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label254.Location = new System.Drawing.Point(1261, 274);
+            this.label254.Location = new System.Drawing.Point(1267, 274);
             this.label254.Name = "label254";
             this.label254.Size = new System.Drawing.Size(43, 15);
             this.label254.TabIndex = 364;
@@ -4065,18 +4569,20 @@
             // label255
             // 
             this.label255.AutoSize = true;
+            this.label255.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
             this.label255.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label255.Location = new System.Drawing.Point(1295, 242);
+            this.label255.Location = new System.Drawing.Point(1280, 242);
             this.label255.Name = "label255";
-            this.label255.Size = new System.Drawing.Size(38, 15);
+            this.label255.Size = new System.Drawing.Size(38, 16);
             this.label255.TabIndex = 363;
             this.label255.Text = "131,3";
             // 
             // label256
             // 
             this.label256.AutoSize = true;
+            this.label256.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
             this.label256.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label256.Location = new System.Drawing.Point(1261, 243);
+            this.label256.Location = new System.Drawing.Point(1260, 242);
             this.label256.Name = "label256";
             this.label256.Size = new System.Drawing.Size(21, 15);
             this.label256.TabIndex = 362;
@@ -4084,7 +4590,10 @@
             // 
             // btn_xenon
             // 
-            this.btn_xenon.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_xenon.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
+            this.btn_xenon.FlatAppearance.BorderSize = 0;
+            this.btn_xenon.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_xenon.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_xenon.Location = new System.Drawing.Point(1257, 239);
             this.btn_xenon.Name = "btn_xenon";
             this.btn_xenon.Size = new System.Drawing.Size(62, 55);
@@ -4095,8 +4604,9 @@
             // label257
             // 
             this.label257.AutoSize = true;
+            this.label257.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
             this.label257.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label257.Location = new System.Drawing.Point(1261, 216);
+            this.label257.Location = new System.Drawing.Point(1264, 216);
             this.label257.Name = "label257";
             this.label257.Size = new System.Drawing.Size(46, 15);
             this.label257.TabIndex = 360;
@@ -4105,8 +4615,9 @@
             // label258
             // 
             this.label258.AutoSize = true;
+            this.label258.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
             this.label258.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label258.Location = new System.Drawing.Point(1295, 184);
+            this.label258.Location = new System.Drawing.Point(1285, 185);
             this.label258.Name = "label258";
             this.label258.Size = new System.Drawing.Size(31, 15);
             this.label258.TabIndex = 359;
@@ -4115,6 +4626,7 @@
             // label259
             // 
             this.label259.AutoSize = true;
+            this.label259.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
             this.label259.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label259.Location = new System.Drawing.Point(1261, 185);
             this.label259.Name = "label259";
@@ -4125,8 +4637,9 @@
             // label260
             // 
             this.label260.AutoSize = true;
+            this.label260.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
             this.label260.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label260.Location = new System.Drawing.Point(1260, 158);
+            this.label260.Location = new System.Drawing.Point(1268, 158);
             this.label260.Name = "label260";
             this.label260.Size = new System.Drawing.Size(39, 15);
             this.label260.TabIndex = 356;
@@ -4135,8 +4648,9 @@
             // label261
             // 
             this.label261.AutoSize = true;
+            this.label261.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
             this.label261.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label261.Location = new System.Drawing.Point(1284, 127);
+            this.label261.Location = new System.Drawing.Point(1283, 127);
             this.label261.Name = "label261";
             this.label261.Size = new System.Drawing.Size(31, 15);
             this.label261.TabIndex = 355;
@@ -4145,6 +4659,7 @@
             // label262
             // 
             this.label262.AutoSize = true;
+            this.label262.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
             this.label262.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label262.Location = new System.Drawing.Point(1260, 127);
             this.label262.Name = "label262";
@@ -4154,7 +4669,10 @@
             // 
             // btn_argon
             // 
-            this.btn_argon.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_argon.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
+            this.btn_argon.FlatAppearance.BorderSize = 0;
+            this.btn_argon.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_argon.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_argon.Location = new System.Drawing.Point(1256, 123);
             this.btn_argon.Name = "btn_argon";
             this.btn_argon.Size = new System.Drawing.Size(62, 55);
@@ -4165,8 +4683,10 @@
             // label263
             // 
             this.label263.AutoSize = true;
+            this.label263.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
             this.label263.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label263.Location = new System.Drawing.Point(1260, 100);
+            this.label263.ForeColor = System.Drawing.Color.Snow;
+            this.label263.Location = new System.Drawing.Point(1269, 100);
             this.label263.Name = "label263";
             this.label263.Size = new System.Drawing.Size(37, 15);
             this.label263.TabIndex = 352;
@@ -4175,8 +4695,10 @@
             // label264
             // 
             this.label264.AutoSize = true;
+            this.label264.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
             this.label264.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label264.Location = new System.Drawing.Point(1294, 68);
+            this.label264.ForeColor = System.Drawing.Color.White;
+            this.label264.Location = new System.Drawing.Point(1289, 68);
             this.label264.Name = "label264";
             this.label264.Size = new System.Drawing.Size(24, 15);
             this.label264.TabIndex = 351;
@@ -4185,16 +4707,22 @@
             // label265
             // 
             this.label265.AutoSize = true;
+            this.label265.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
             this.label265.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label265.ForeColor = System.Drawing.Color.White;
             this.label265.Location = new System.Drawing.Point(1260, 69);
             this.label265.Name = "label265";
-            this.label265.Size = new System.Drawing.Size(14, 15);
+            this.label265.Size = new System.Drawing.Size(21, 15);
             this.label265.TabIndex = 350;
-            this.label265.Text = "1";
+            this.label265.Text = "10";
             // 
             // btn_neon
             // 
-            this.btn_neon.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_neon.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
+            this.btn_neon.FlatAppearance.BorderSize = 0;
+            this.btn_neon.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_neon.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_neon.ForeColor = System.Drawing.Color.White;
             this.btn_neon.Location = new System.Drawing.Point(1256, 65);
             this.btn_neon.Name = "btn_neon";
             this.btn_neon.Size = new System.Drawing.Size(62, 55);
@@ -4205,8 +4733,9 @@
             // label266
             // 
             this.label266.AutoSize = true;
+            this.label266.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
             this.label266.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label266.Location = new System.Drawing.Point(1259, 42);
+            this.label266.Location = new System.Drawing.Point(1268, 42);
             this.label266.Name = "label266";
             this.label266.Size = new System.Drawing.Size(36, 15);
             this.label266.TabIndex = 348;
@@ -4216,36 +4745,34 @@
             // label267
             // 
             this.label267.AutoSize = true;
+            this.label267.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
             this.label267.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label267.Location = new System.Drawing.Point(1293, 10);
+            this.label267.Location = new System.Drawing.Point(1288, 12);
             this.label267.Name = "label267";
             this.label267.Size = new System.Drawing.Size(24, 15);
             this.label267.TabIndex = 347;
             this.label267.Text = "4,0";
             // 
-            // label268
+            // btn_helio
             // 
-            this.label268.AutoSize = true;
-            this.label268.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label268.Location = new System.Drawing.Point(1259, 11);
-            this.label268.Name = "label268";
-            this.label268.Size = new System.Drawing.Size(14, 15);
-            this.label268.TabIndex = 346;
-            this.label268.Text = "2";
-            // 
-            // button91
-            // 
-            this.button91.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.button91.Location = new System.Drawing.Point(1255, 7);
-            this.button91.Name = "button91";
-            this.button91.Size = new System.Drawing.Size(62, 55);
-            this.button91.TabIndex = 345;
-            this.button91.Text = "He";
-            this.button91.UseVisualStyleBackColor = false;
+            this.btn_helio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
+            this.btn_helio.FlatAppearance.BorderSize = 0;
+            this.btn_helio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_helio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_helio.ForeColor = System.Drawing.Color.Black;
+            this.btn_helio.Location = new System.Drawing.Point(1256, 7);
+            this.btn_helio.Name = "btn_helio";
+            this.btn_helio.Size = new System.Drawing.Size(62, 55);
+            this.btn_helio.TabIndex = 345;
+            this.btn_helio.Text = "He";
+            this.btn_helio.UseVisualStyleBackColor = false;
             // 
             // btn_kripton
             // 
-            this.btn_kripton.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_kripton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
+            this.btn_kripton.FlatAppearance.BorderSize = 0;
+            this.btn_kripton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_kripton.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_kripton.Location = new System.Drawing.Point(1257, 181);
             this.btn_kripton.Name = "btn_kripton";
             this.btn_kripton.Size = new System.Drawing.Size(62, 55);
@@ -4256,8 +4783,9 @@
             // label14
             // 
             this.label14.AutoSize = true;
+            this.label14.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label14.Location = new System.Drawing.Point(1123, 458);
+            this.label14.Location = new System.Drawing.Point(1129, 460);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(41, 15);
             this.label14.TabIndex = 428;
@@ -4266,6 +4794,7 @@
             // label15
             // 
             this.label15.AutoSize = true;
+            this.label15.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label15.Location = new System.Drawing.Point(1142, 426);
             this.label15.Name = "label15";
@@ -4276,6 +4805,7 @@
             // label16
             // 
             this.label16.AutoSize = true;
+            this.label16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label16.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label16.Location = new System.Drawing.Point(1123, 427);
             this.label16.Name = "label16";
@@ -4285,7 +4815,10 @@
             // 
             // btn_iterbio
             // 
-            this.btn_iterbio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_iterbio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
+            this.btn_iterbio.FlatAppearance.BorderSize = 0;
+            this.btn_iterbio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_iterbio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_iterbio.Location = new System.Drawing.Point(1119, 423);
             this.btn_iterbio.Name = "btn_iterbio";
             this.btn_iterbio.Size = new System.Drawing.Size(62, 55);
@@ -4296,8 +4829,9 @@
             // label269
             // 
             this.label269.AutoSize = true;
+            this.label269.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label269.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label269.Location = new System.Drawing.Point(1055, 458);
+            this.label269.Location = new System.Drawing.Point(1065, 460);
             this.label269.Name = "label269";
             this.label269.Size = new System.Drawing.Size(34, 15);
             this.label269.TabIndex = 424;
@@ -4306,8 +4840,9 @@
             // label270
             // 
             this.label270.AutoSize = true;
+            this.label270.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label270.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label270.Location = new System.Drawing.Point(1075, 426);
+            this.label270.Location = new System.Drawing.Point(1074, 426);
             this.label270.Name = "label270";
             this.label270.Size = new System.Drawing.Size(38, 15);
             this.label270.TabIndex = 423;
@@ -4316,8 +4851,9 @@
             // label271
             // 
             this.label271.AutoSize = true;
+            this.label271.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label271.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label271.Location = new System.Drawing.Point(1055, 427);
+            this.label271.Location = new System.Drawing.Point(1054, 426);
             this.label271.Name = "label271";
             this.label271.Size = new System.Drawing.Size(21, 15);
             this.label271.TabIndex = 422;
@@ -4325,7 +4861,10 @@
             // 
             // btn_tulio
             // 
-            this.btn_tulio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_tulio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
+            this.btn_tulio.FlatAppearance.BorderSize = 0;
+            this.btn_tulio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_tulio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_tulio.Location = new System.Drawing.Point(1051, 423);
             this.btn_tulio.Name = "btn_tulio";
             this.btn_tulio.Size = new System.Drawing.Size(62, 55);
@@ -4336,8 +4875,9 @@
             // label272
             // 
             this.label272.AutoSize = true;
+            this.label272.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label272.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label272.Location = new System.Drawing.Point(986, 457);
+            this.label272.Location = new System.Drawing.Point(997, 458);
             this.label272.Name = "label272";
             this.label272.Size = new System.Drawing.Size(36, 15);
             this.label272.TabIndex = 420;
@@ -4346,8 +4886,9 @@
             // label273
             // 
             this.label273.AutoSize = true;
+            this.label273.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label273.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label273.Location = new System.Drawing.Point(1007, 425);
+            this.label273.Location = new System.Drawing.Point(1006, 425);
             this.label273.Name = "label273";
             this.label273.Size = new System.Drawing.Size(38, 15);
             this.label273.TabIndex = 419;
@@ -4356,8 +4897,9 @@
             // label274
             // 
             this.label274.AutoSize = true;
+            this.label274.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label274.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label274.Location = new System.Drawing.Point(986, 426);
+            this.label274.Location = new System.Drawing.Point(985, 425);
             this.label274.Name = "label274";
             this.label274.Size = new System.Drawing.Size(21, 15);
             this.label274.TabIndex = 418;
@@ -4365,7 +4907,10 @@
             // 
             // btn_erbio
             // 
-            this.btn_erbio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_erbio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
+            this.btn_erbio.FlatAppearance.BorderSize = 0;
+            this.btn_erbio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_erbio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_erbio.Location = new System.Drawing.Point(982, 422);
             this.btn_erbio.Name = "btn_erbio";
             this.btn_erbio.Size = new System.Drawing.Size(62, 55);
@@ -4376,8 +4921,9 @@
             // label275
             // 
             this.label275.AutoSize = true;
+            this.label275.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label275.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label275.Location = new System.Drawing.Point(918, 457);
+            this.label275.Location = new System.Drawing.Point(923, 459);
             this.label275.Name = "label275";
             this.label275.Size = new System.Drawing.Size(47, 15);
             this.label275.TabIndex = 416;
@@ -4386,8 +4932,9 @@
             // label276
             // 
             this.label276.AutoSize = true;
+            this.label276.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label276.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label276.Location = new System.Drawing.Point(935, 425);
+            this.label276.Location = new System.Drawing.Point(936, 425);
             this.label276.Name = "label276";
             this.label276.Size = new System.Drawing.Size(38, 15);
             this.label276.TabIndex = 415;
@@ -4396,8 +4943,9 @@
             // label277
             // 
             this.label277.AutoSize = true;
+            this.label277.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label277.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label277.Location = new System.Drawing.Point(918, 426);
+            this.label277.Location = new System.Drawing.Point(917, 425);
             this.label277.Name = "label277";
             this.label277.Size = new System.Drawing.Size(21, 15);
             this.label277.TabIndex = 414;
@@ -4405,7 +4953,10 @@
             // 
             // btn_holmio
             // 
-            this.btn_holmio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_holmio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
+            this.btn_holmio.FlatAppearance.BorderSize = 0;
+            this.btn_holmio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_holmio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_holmio.Location = new System.Drawing.Point(914, 422);
             this.btn_holmio.Name = "btn_holmio";
             this.btn_holmio.Size = new System.Drawing.Size(62, 55);
@@ -4416,6 +4967,7 @@
             // label278
             // 
             this.label278.AutoSize = true;
+            this.label278.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label278.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label278.Location = new System.Drawing.Point(848, 459);
             this.label278.Name = "label278";
@@ -4426,6 +4978,7 @@
             // label279
             // 
             this.label279.AutoSize = true;
+            this.label279.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label279.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label279.Location = new System.Drawing.Point(869, 425);
             this.label279.Name = "label279";
@@ -4436,8 +4989,9 @@
             // label280
             // 
             this.label280.AutoSize = true;
+            this.label280.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label280.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label280.Location = new System.Drawing.Point(850, 426);
+            this.label280.Location = new System.Drawing.Point(849, 425);
             this.label280.Name = "label280";
             this.label280.Size = new System.Drawing.Size(21, 15);
             this.label280.TabIndex = 410;
@@ -4445,7 +4999,10 @@
             // 
             // btn_disprosio
             // 
-            this.btn_disprosio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_disprosio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
+            this.btn_disprosio.FlatAppearance.BorderSize = 0;
+            this.btn_disprosio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_disprosio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_disprosio.Location = new System.Drawing.Point(846, 422);
             this.btn_disprosio.Name = "btn_disprosio";
             this.btn_disprosio.Size = new System.Drawing.Size(62, 55);
@@ -4456,8 +5013,9 @@
             // label281
             // 
             this.label281.AutoSize = true;
+            this.label281.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label281.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label281.Location = new System.Drawing.Point(782, 457);
+            this.label281.Location = new System.Drawing.Point(789, 459);
             this.label281.Name = "label281";
             this.label281.Size = new System.Drawing.Size(42, 15);
             this.label281.TabIndex = 408;
@@ -4466,6 +5024,7 @@
             // label282
             // 
             this.label282.AutoSize = true;
+            this.label282.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label282.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label282.Location = new System.Drawing.Point(801, 425);
             this.label282.Name = "label282";
@@ -4476,8 +5035,9 @@
             // label283
             // 
             this.label283.AutoSize = true;
+            this.label283.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label283.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label283.Location = new System.Drawing.Point(782, 426);
+            this.label283.Location = new System.Drawing.Point(782, 425);
             this.label283.Name = "label283";
             this.label283.Size = new System.Drawing.Size(21, 15);
             this.label283.TabIndex = 406;
@@ -4485,7 +5045,10 @@
             // 
             // btn_terbio
             // 
-            this.btn_terbio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_terbio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
+            this.btn_terbio.FlatAppearance.BorderSize = 0;
+            this.btn_terbio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_terbio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_terbio.Location = new System.Drawing.Point(778, 422);
             this.btn_terbio.Name = "btn_terbio";
             this.btn_terbio.Size = new System.Drawing.Size(62, 55);
@@ -4496,8 +5059,9 @@
             // label284
             // 
             this.label284.AutoSize = true;
+            this.label284.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label284.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label284.Location = new System.Drawing.Point(716, 457);
+            this.label284.Location = new System.Drawing.Point(713, 459);
             this.label284.Name = "label284";
             this.label284.Size = new System.Drawing.Size(60, 15);
             this.label284.TabIndex = 404;
@@ -4506,8 +5070,9 @@
             // label285
             // 
             this.label285.AutoSize = true;
+            this.label285.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label285.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label285.Location = new System.Drawing.Point(738, 425);
+            this.label285.Location = new System.Drawing.Point(737, 425);
             this.label285.Name = "label285";
             this.label285.Size = new System.Drawing.Size(38, 15);
             this.label285.TabIndex = 403;
@@ -4516,8 +5081,9 @@
             // label286
             // 
             this.label286.AutoSize = true;
+            this.label286.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label286.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label286.Location = new System.Drawing.Point(716, 426);
+            this.label286.Location = new System.Drawing.Point(716, 425);
             this.label286.Name = "label286";
             this.label286.Size = new System.Drawing.Size(21, 15);
             this.label286.TabIndex = 402;
@@ -4525,7 +5091,10 @@
             // 
             // btn_gadolinio
             // 
-            this.btn_gadolinio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_gadolinio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
+            this.btn_gadolinio.FlatAppearance.BorderSize = 0;
+            this.btn_gadolinio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_gadolinio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_gadolinio.Location = new System.Drawing.Point(712, 422);
             this.btn_gadolinio.Name = "btn_gadolinio";
             this.btn_gadolinio.Size = new System.Drawing.Size(62, 55);
@@ -4536,8 +5105,9 @@
             // label287
             // 
             this.label287.AutoSize = true;
+            this.label287.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label287.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label287.Location = new System.Drawing.Point(648, 457);
+            this.label287.Location = new System.Drawing.Point(650, 459);
             this.label287.Name = "label287";
             this.label287.Size = new System.Drawing.Size(50, 15);
             this.label287.TabIndex = 400;
@@ -4546,6 +5116,7 @@
             // label288
             // 
             this.label288.AutoSize = true;
+            this.label288.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label288.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label288.Location = new System.Drawing.Point(669, 425);
             this.label288.Name = "label288";
@@ -4556,8 +5127,9 @@
             // label289
             // 
             this.label289.AutoSize = true;
+            this.label289.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label289.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label289.Location = new System.Drawing.Point(648, 426);
+            this.label289.Location = new System.Drawing.Point(648, 425);
             this.label289.Name = "label289";
             this.label289.Size = new System.Drawing.Size(21, 15);
             this.label289.TabIndex = 398;
@@ -4565,7 +5137,10 @@
             // 
             // btn_euripio
             // 
-            this.btn_euripio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_euripio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
+            this.btn_euripio.FlatAppearance.BorderSize = 0;
+            this.btn_euripio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_euripio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_euripio.Location = new System.Drawing.Point(644, 422);
             this.btn_euripio.Name = "btn_euripio";
             this.btn_euripio.Size = new System.Drawing.Size(62, 55);
@@ -4576,8 +5151,9 @@
             // label290
             // 
             this.label290.AutoSize = true;
+            this.label290.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label290.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label290.Location = new System.Drawing.Point(583, 457);
+            this.label290.Location = new System.Drawing.Point(584, 459);
             this.label290.Name = "label290";
             this.label290.Size = new System.Drawing.Size(54, 15);
             this.label290.TabIndex = 396;
@@ -4586,6 +5162,7 @@
             // label291
             // 
             this.label291.AutoSize = true;
+            this.label291.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label291.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label291.Location = new System.Drawing.Point(603, 425);
             this.label291.Name = "label291";
@@ -4596,8 +5173,9 @@
             // label292
             // 
             this.label292.AutoSize = true;
+            this.label292.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label292.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label292.Location = new System.Drawing.Point(583, 426);
+            this.label292.Location = new System.Drawing.Point(583, 425);
             this.label292.Name = "label292";
             this.label292.Size = new System.Drawing.Size(21, 15);
             this.label292.TabIndex = 394;
@@ -4605,7 +5183,10 @@
             // 
             // btn_samario
             // 
-            this.btn_samario.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_samario.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
+            this.btn_samario.FlatAppearance.BorderSize = 0;
+            this.btn_samario.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_samario.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_samario.Location = new System.Drawing.Point(579, 422);
             this.btn_samario.Name = "btn_samario";
             this.btn_samario.Size = new System.Drawing.Size(62, 55);
@@ -4616,8 +5197,9 @@
             // label293
             // 
             this.label293.AutoSize = true;
+            this.label293.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label293.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label293.Location = new System.Drawing.Point(515, 457);
+            this.label293.Location = new System.Drawing.Point(514, 459);
             this.label293.Name = "label293";
             this.label293.Size = new System.Drawing.Size(57, 15);
             this.label293.TabIndex = 392;
@@ -4626,6 +5208,7 @@
             // label294
             // 
             this.label294.AutoSize = true;
+            this.label294.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label294.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label294.Location = new System.Drawing.Point(538, 425);
             this.label294.Name = "label294";
@@ -4636,6 +5219,7 @@
             // label295
             // 
             this.label295.AutoSize = true;
+            this.label295.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label295.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label295.Location = new System.Drawing.Point(515, 426);
             this.label295.Name = "label295";
@@ -4645,7 +5229,10 @@
             // 
             // btn_prometio
             // 
-            this.btn_prometio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_prometio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
+            this.btn_prometio.FlatAppearance.BorderSize = 0;
+            this.btn_prometio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_prometio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_prometio.Location = new System.Drawing.Point(511, 422);
             this.btn_prometio.Name = "btn_prometio";
             this.btn_prometio.Size = new System.Drawing.Size(62, 55);
@@ -4656,8 +5243,9 @@
             // label296
             // 
             this.label296.AutoSize = true;
+            this.label296.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label296.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label296.Location = new System.Drawing.Point(449, 457);
+            this.label296.Location = new System.Drawing.Point(447, 459);
             this.label296.Name = "label296";
             this.label296.Size = new System.Drawing.Size(61, 15);
             this.label296.TabIndex = 388;
@@ -4666,8 +5254,9 @@
             // label297
             // 
             this.label297.AutoSize = true;
+            this.label297.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label297.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label297.Location = new System.Drawing.Point(471, 425);
+            this.label297.Location = new System.Drawing.Point(470, 425);
             this.label297.Name = "label297";
             this.label297.Size = new System.Drawing.Size(38, 15);
             this.label297.TabIndex = 387;
@@ -4676,8 +5265,9 @@
             // label298
             // 
             this.label298.AutoSize = true;
+            this.label298.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label298.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label298.Location = new System.Drawing.Point(449, 426);
+            this.label298.Location = new System.Drawing.Point(449, 425);
             this.label298.Name = "label298";
             this.label298.Size = new System.Drawing.Size(21, 15);
             this.label298.TabIndex = 386;
@@ -4685,7 +5275,10 @@
             // 
             // btn_neodimio
             // 
-            this.btn_neodimio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_neodimio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
+            this.btn_neodimio.FlatAppearance.BorderSize = 0;
+            this.btn_neodimio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_neodimio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_neodimio.Location = new System.Drawing.Point(445, 422);
             this.btn_neodimio.Name = "btn_neodimio";
             this.btn_neodimio.Size = new System.Drawing.Size(62, 55);
@@ -4696,8 +5289,9 @@
             // label299
             // 
             this.label299.AutoSize = true;
+            this.label299.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label299.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label299.Location = new System.Drawing.Point(373, 458);
+            this.label299.Location = new System.Drawing.Point(370, 459);
             this.label299.Name = "label299";
             this.label299.Size = new System.Drawing.Size(77, 15);
             this.label299.TabIndex = 384;
@@ -4706,8 +5300,9 @@
             // label300
             // 
             this.label300.AutoSize = true;
+            this.label300.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label300.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label300.Location = new System.Drawing.Point(403, 425);
+            this.label300.Location = new System.Drawing.Point(402, 425);
             this.label300.Name = "label300";
             this.label300.Size = new System.Drawing.Size(38, 15);
             this.label300.TabIndex = 383;
@@ -4716,8 +5311,9 @@
             // label301
             // 
             this.label301.AutoSize = true;
+            this.label301.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label301.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label301.Location = new System.Drawing.Point(381, 426);
+            this.label301.Location = new System.Drawing.Point(380, 425);
             this.label301.Name = "label301";
             this.label301.Size = new System.Drawing.Size(21, 15);
             this.label301.TabIndex = 382;
@@ -4725,7 +5321,10 @@
             // 
             // btn_praseodimio
             // 
-            this.btn_praseodimio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_praseodimio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
+            this.btn_praseodimio.FlatAppearance.BorderSize = 0;
+            this.btn_praseodimio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_praseodimio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_praseodimio.Location = new System.Drawing.Point(377, 422);
             this.btn_praseodimio.Name = "btn_praseodimio";
             this.btn_praseodimio.Size = new System.Drawing.Size(62, 55);
@@ -4736,8 +5335,9 @@
             // label302
             // 
             this.label302.AutoSize = true;
+            this.label302.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label302.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label302.Location = new System.Drawing.Point(315, 457);
+            this.label302.Location = new System.Drawing.Point(323, 459);
             this.label302.Name = "label302";
             this.label302.Size = new System.Drawing.Size(36, 15);
             this.label302.TabIndex = 380;
@@ -4746,8 +5346,9 @@
             // label303
             // 
             this.label303.AutoSize = true;
+            this.label303.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label303.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label303.Location = new System.Drawing.Point(349, 425);
+            this.label303.Location = new System.Drawing.Point(335, 425);
             this.label303.Name = "label303";
             this.label303.Size = new System.Drawing.Size(38, 15);
             this.label303.TabIndex = 379;
@@ -4756,8 +5357,9 @@
             // label304
             // 
             this.label304.AutoSize = true;
+            this.label304.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label304.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label304.Location = new System.Drawing.Point(315, 426);
+            this.label304.Location = new System.Drawing.Point(314, 425);
             this.label304.Name = "label304";
             this.label304.Size = new System.Drawing.Size(21, 15);
             this.label304.TabIndex = 378;
@@ -4765,7 +5367,10 @@
             // 
             // btn_cerio
             // 
-            this.btn_cerio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_cerio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
+            this.btn_cerio.FlatAppearance.BorderSize = 0;
+            this.btn_cerio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_cerio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_cerio.Location = new System.Drawing.Point(311, 422);
             this.btn_cerio.Name = "btn_cerio";
             this.btn_cerio.Size = new System.Drawing.Size(62, 55);
@@ -4776,8 +5381,9 @@
             // label305
             // 
             this.label305.AutoSize = true;
+            this.label305.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label305.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label305.Location = new System.Drawing.Point(247, 457);
+            this.label305.Location = new System.Drawing.Point(249, 459);
             this.label305.Name = "label305";
             this.label305.Size = new System.Drawing.Size(52, 15);
             this.label305.TabIndex = 376;
@@ -4786,8 +5392,9 @@
             // label306
             // 
             this.label306.AutoSize = true;
+            this.label306.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label306.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label306.Location = new System.Drawing.Point(281, 425);
+            this.label306.Location = new System.Drawing.Point(268, 425);
             this.label306.Name = "label306";
             this.label306.Size = new System.Drawing.Size(38, 15);
             this.label306.TabIndex = 375;
@@ -4796,8 +5403,9 @@
             // label307
             // 
             this.label307.AutoSize = true;
+            this.label307.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
             this.label307.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label307.Location = new System.Drawing.Point(247, 426);
+            this.label307.Location = new System.Drawing.Point(245, 425);
             this.label307.Name = "label307";
             this.label307.Size = new System.Drawing.Size(21, 15);
             this.label307.TabIndex = 374;
@@ -4805,7 +5413,10 @@
             // 
             // bt_lantano
             // 
-            this.bt_lantano.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.bt_lantano.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(127)))), ((int)(((byte)(68)))));
+            this.bt_lantano.FlatAppearance.BorderSize = 0;
+            this.bt_lantano.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.bt_lantano.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.bt_lantano.Location = new System.Drawing.Point(243, 422);
             this.bt_lantano.Name = "bt_lantano";
             this.bt_lantano.Size = new System.Drawing.Size(62, 55);
@@ -4816,6 +5427,7 @@
             // label308
             // 
             this.label308.AutoSize = true;
+            this.label308.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label308.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label308.Location = new System.Drawing.Point(1123, 519);
             this.label308.Name = "label308";
@@ -4826,8 +5438,9 @@
             // label309
             // 
             this.label309.AutoSize = true;
+            this.label309.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label309.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label309.Location = new System.Drawing.Point(1151, 487);
+            this.label309.Location = new System.Drawing.Point(1145, 487);
             this.label309.Name = "label309";
             this.label309.Size = new System.Drawing.Size(36, 15);
             this.label309.TabIndex = 483;
@@ -4836,8 +5449,9 @@
             // label310
             // 
             this.label310.AutoSize = true;
+            this.label310.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label310.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label310.Location = new System.Drawing.Point(1119, 488);
+            this.label310.Location = new System.Drawing.Point(1118, 488);
             this.label310.Name = "label310";
             this.label310.Size = new System.Drawing.Size(28, 15);
             this.label310.TabIndex = 482;
@@ -4845,7 +5459,10 @@
             // 
             // btn_nobelio
             // 
-            this.btn_nobelio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_nobelio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
+            this.btn_nobelio.FlatAppearance.BorderSize = 0;
+            this.btn_nobelio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_nobelio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_nobelio.Location = new System.Drawing.Point(1119, 484);
             this.btn_nobelio.Name = "btn_nobelio";
             this.btn_nobelio.Size = new System.Drawing.Size(62, 55);
@@ -4856,8 +5473,9 @@
             // label311
             // 
             this.label311.AutoSize = true;
+            this.label311.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label311.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label311.Location = new System.Drawing.Point(1055, 519);
+            this.label311.Location = new System.Drawing.Point(1047, 522);
             this.label311.Name = "label311";
             this.label311.Size = new System.Drawing.Size(71, 15);
             this.label311.TabIndex = 480;
@@ -4866,8 +5484,9 @@
             // label312
             // 
             this.label312.AutoSize = true;
+            this.label312.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label312.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label312.Location = new System.Drawing.Point(1081, 487);
+            this.label312.Location = new System.Drawing.Point(1078, 487);
             this.label312.Name = "label312";
             this.label312.Size = new System.Drawing.Size(36, 15);
             this.label312.TabIndex = 479;
@@ -4876,8 +5495,9 @@
             // label313
             // 
             this.label313.AutoSize = true;
+            this.label313.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label313.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label313.Location = new System.Drawing.Point(1055, 488);
+            this.label313.Location = new System.Drawing.Point(1052, 487);
             this.label313.Name = "label313";
             this.label313.Size = new System.Drawing.Size(28, 15);
             this.label313.TabIndex = 478;
@@ -4885,7 +5505,10 @@
             // 
             // btn_mendelevio
             // 
-            this.btn_mendelevio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_mendelevio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
+            this.btn_mendelevio.FlatAppearance.BorderSize = 0;
+            this.btn_mendelevio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_mendelevio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_mendelevio.Location = new System.Drawing.Point(1051, 484);
             this.btn_mendelevio.Name = "btn_mendelevio";
             this.btn_mendelevio.Size = new System.Drawing.Size(62, 55);
@@ -4896,8 +5519,9 @@
             // label314
             // 
             this.label314.AutoSize = true;
+            this.label314.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label314.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label314.Location = new System.Drawing.Point(986, 518);
+            this.label314.Location = new System.Drawing.Point(992, 520);
             this.label314.Name = "label314";
             this.label314.Size = new System.Drawing.Size(46, 15);
             this.label314.TabIndex = 476;
@@ -4906,8 +5530,9 @@
             // label315
             // 
             this.label315.AutoSize = true;
+            this.label315.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label315.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label315.Location = new System.Drawing.Point(1009, 486);
+            this.label315.Location = new System.Drawing.Point(1008, 485);
             this.label315.Name = "label315";
             this.label315.Size = new System.Drawing.Size(36, 15);
             this.label315.TabIndex = 475;
@@ -4916,8 +5541,9 @@
             // label316
             // 
             this.label316.AutoSize = true;
+            this.label316.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label316.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label316.Location = new System.Drawing.Point(986, 487);
+            this.label316.Location = new System.Drawing.Point(984, 486);
             this.label316.Name = "label316";
             this.label316.Size = new System.Drawing.Size(28, 15);
             this.label316.TabIndex = 474;
@@ -4925,7 +5551,10 @@
             // 
             // btn_fermio
             // 
-            this.btn_fermio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_fermio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
+            this.btn_fermio.FlatAppearance.BorderSize = 0;
+            this.btn_fermio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_fermio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_fermio.Location = new System.Drawing.Point(982, 483);
             this.btn_fermio.Name = "btn_fermio";
             this.btn_fermio.Size = new System.Drawing.Size(62, 55);
@@ -4936,8 +5565,9 @@
             // label317
             // 
             this.label317.AutoSize = true;
+            this.label317.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label317.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label317.Location = new System.Drawing.Point(918, 518);
+            this.label317.Location = new System.Drawing.Point(917, 520);
             this.label317.Name = "label317";
             this.label317.Size = new System.Drawing.Size(58, 15);
             this.label317.TabIndex = 472;
@@ -4947,8 +5577,9 @@
             // label318
             // 
             this.label318.AutoSize = true;
+            this.label318.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label318.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label318.Location = new System.Drawing.Point(937, 487);
+            this.label318.Location = new System.Drawing.Point(938, 486);
             this.label318.Name = "label318";
             this.label318.Size = new System.Drawing.Size(36, 15);
             this.label318.TabIndex = 471;
@@ -4957,8 +5588,9 @@
             // label319
             // 
             this.label319.AutoSize = true;
+            this.label319.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label319.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label319.Location = new System.Drawing.Point(918, 487);
+            this.label319.Location = new System.Drawing.Point(917, 486);
             this.label319.Name = "label319";
             this.label319.Size = new System.Drawing.Size(21, 15);
             this.label319.TabIndex = 470;
@@ -4966,7 +5598,10 @@
             // 
             // btn_einstenio
             // 
-            this.btn_einstenio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_einstenio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
+            this.btn_einstenio.FlatAppearance.BorderSize = 0;
+            this.btn_einstenio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_einstenio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_einstenio.Location = new System.Drawing.Point(914, 483);
             this.btn_einstenio.Name = "btn_einstenio";
             this.btn_einstenio.Size = new System.Drawing.Size(62, 55);
@@ -4977,8 +5612,9 @@
             // label320
             // 
             this.label320.AutoSize = true;
+            this.label320.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label320.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label320.Location = new System.Drawing.Point(850, 518);
+            this.label320.Location = new System.Drawing.Point(848, 520);
             this.label320.Name = "label320";
             this.label320.Size = new System.Drawing.Size(59, 15);
             this.label320.TabIndex = 468;
@@ -4987,6 +5623,7 @@
             // label321
             // 
             this.label321.AutoSize = true;
+            this.label321.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label321.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label321.Location = new System.Drawing.Point(871, 486);
             this.label321.Name = "label321";
@@ -4997,6 +5634,7 @@
             // label322
             // 
             this.label322.AutoSize = true;
+            this.label322.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label322.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label322.Location = new System.Drawing.Point(850, 487);
             this.label322.Name = "label322";
@@ -5006,7 +5644,10 @@
             // 
             // btn_californio
             // 
-            this.btn_californio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_californio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
+            this.btn_californio.FlatAppearance.BorderSize = 0;
+            this.btn_californio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_californio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_californio.Location = new System.Drawing.Point(846, 483);
             this.btn_californio.Name = "btn_californio";
             this.btn_californio.Size = new System.Drawing.Size(62, 55);
@@ -5017,8 +5658,9 @@
             // label323
             // 
             this.label323.AutoSize = true;
+            this.label323.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label323.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label323.Location = new System.Drawing.Point(782, 518);
+            this.label323.Location = new System.Drawing.Point(780, 520);
             this.label323.Name = "label323";
             this.label323.Size = new System.Drawing.Size(60, 15);
             this.label323.TabIndex = 464;
@@ -5027,6 +5669,7 @@
             // label324
             // 
             this.label324.AutoSize = true;
+            this.label324.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label324.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label324.Location = new System.Drawing.Point(803, 486);
             this.label324.Name = "label324";
@@ -5037,6 +5680,7 @@
             // label325
             // 
             this.label325.AutoSize = true;
+            this.label325.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label325.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label325.Location = new System.Drawing.Point(782, 487);
             this.label325.Name = "label325";
@@ -5046,7 +5690,10 @@
             // 
             // btn_berquelio
             // 
-            this.btn_berquelio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_berquelio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
+            this.btn_berquelio.FlatAppearance.BorderSize = 0;
+            this.btn_berquelio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_berquelio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_berquelio.Location = new System.Drawing.Point(778, 483);
             this.btn_berquelio.Name = "btn_berquelio";
             this.btn_berquelio.Size = new System.Drawing.Size(62, 55);
@@ -5057,8 +5704,9 @@
             // label326
             // 
             this.label326.AutoSize = true;
+            this.label326.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label326.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label326.Location = new System.Drawing.Point(716, 518);
+            this.label326.Location = new System.Drawing.Point(728, 520);
             this.label326.Name = "label326";
             this.label326.Size = new System.Drawing.Size(36, 15);
             this.label326.TabIndex = 460;
@@ -5067,8 +5715,9 @@
             // label327
             // 
             this.label327.AutoSize = true;
+            this.label327.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label327.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label327.Location = new System.Drawing.Point(741, 486);
+            this.label327.Location = new System.Drawing.Point(738, 485);
             this.label327.Name = "label327";
             this.label327.Size = new System.Drawing.Size(36, 15);
             this.label327.TabIndex = 459;
@@ -5077,8 +5726,9 @@
             // label328
             // 
             this.label328.AutoSize = true;
+            this.label328.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label328.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label328.Location = new System.Drawing.Point(716, 487);
+            this.label328.Location = new System.Drawing.Point(715, 486);
             this.label328.Name = "label328";
             this.label328.Size = new System.Drawing.Size(21, 15);
             this.label328.TabIndex = 458;
@@ -5086,7 +5736,10 @@
             // 
             // btn_curio
             // 
-            this.btn_curio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_curio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
+            this.btn_curio.FlatAppearance.BorderSize = 0;
+            this.btn_curio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_curio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_curio.Location = new System.Drawing.Point(712, 483);
             this.btn_curio.Name = "btn_curio";
             this.btn_curio.Size = new System.Drawing.Size(62, 55);
@@ -5097,8 +5750,9 @@
             // label329
             // 
             this.label329.AutoSize = true;
+            this.label329.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label329.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label329.Location = new System.Drawing.Point(648, 518);
+            this.label329.Location = new System.Drawing.Point(648, 520);
             this.label329.Name = "label329";
             this.label329.Size = new System.Drawing.Size(55, 15);
             this.label329.TabIndex = 456;
@@ -5107,6 +5761,7 @@
             // label330
             // 
             this.label330.AutoSize = true;
+            this.label330.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label330.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label330.Location = new System.Drawing.Point(670, 486);
             this.label330.Name = "label330";
@@ -5117,8 +5772,9 @@
             // label331
             // 
             this.label331.AutoSize = true;
+            this.label331.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label331.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label331.Location = new System.Drawing.Point(648, 487);
+            this.label331.Location = new System.Drawing.Point(646, 486);
             this.label331.Name = "label331";
             this.label331.Size = new System.Drawing.Size(21, 15);
             this.label331.TabIndex = 454;
@@ -5126,7 +5782,10 @@
             // 
             // btn_americio
             // 
-            this.btn_americio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_americio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
+            this.btn_americio.FlatAppearance.BorderSize = 0;
+            this.btn_americio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_americio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_americio.Location = new System.Drawing.Point(644, 483);
             this.btn_americio.Name = "btn_americio";
             this.btn_americio.Size = new System.Drawing.Size(62, 55);
@@ -5137,8 +5796,9 @@
             // label332
             // 
             this.label332.AutoSize = true;
+            this.label332.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label332.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label332.Location = new System.Drawing.Point(583, 518);
+            this.label332.Location = new System.Drawing.Point(586, 520);
             this.label332.Name = "label332";
             this.label332.Size = new System.Drawing.Size(52, 15);
             this.label332.TabIndex = 452;
@@ -5147,6 +5807,7 @@
             // label333
             // 
             this.label333.AutoSize = true;
+            this.label333.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label333.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label333.Location = new System.Drawing.Point(605, 486);
             this.label333.Name = "label333";
@@ -5157,8 +5818,9 @@
             // label334
             // 
             this.label334.AutoSize = true;
+            this.label334.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label334.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label334.Location = new System.Drawing.Point(583, 487);
+            this.label334.Location = new System.Drawing.Point(582, 486);
             this.label334.Name = "label334";
             this.label334.Size = new System.Drawing.Size(21, 15);
             this.label334.TabIndex = 450;
@@ -5166,7 +5828,10 @@
             // 
             // btn_plutonio
             // 
-            this.btn_plutonio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_plutonio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
+            this.btn_plutonio.FlatAppearance.BorderSize = 0;
+            this.btn_plutonio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_plutonio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_plutonio.Location = new System.Drawing.Point(579, 483);
             this.btn_plutonio.Name = "btn_plutonio";
             this.btn_plutonio.Size = new System.Drawing.Size(62, 55);
@@ -5177,8 +5842,9 @@
             // label335
             // 
             this.label335.AutoSize = true;
+            this.label335.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label335.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label335.Location = new System.Drawing.Point(515, 518);
+            this.label335.Location = new System.Drawing.Point(514, 520);
             this.label335.Name = "label335";
             this.label335.Size = new System.Drawing.Size(57, 15);
             this.label335.TabIndex = 448;
@@ -5187,8 +5853,9 @@
             // label336
             // 
             this.label336.AutoSize = true;
+            this.label336.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label336.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label336.Location = new System.Drawing.Point(532, 488);
+            this.label336.Location = new System.Drawing.Point(536, 485);
             this.label336.Name = "label336";
             this.label336.Size = new System.Drawing.Size(36, 15);
             this.label336.TabIndex = 447;
@@ -5197,8 +5864,9 @@
             // label337
             // 
             this.label337.AutoSize = true;
+            this.label337.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label337.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label337.Location = new System.Drawing.Point(515, 487);
+            this.label337.Location = new System.Drawing.Point(515, 486);
             this.label337.Name = "label337";
             this.label337.Size = new System.Drawing.Size(21, 15);
             this.label337.TabIndex = 446;
@@ -5206,7 +5874,10 @@
             // 
             // btn_neptunio
             // 
-            this.btn_neptunio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_neptunio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
+            this.btn_neptunio.FlatAppearance.BorderSize = 0;
+            this.btn_neptunio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_neptunio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_neptunio.Location = new System.Drawing.Point(511, 483);
             this.btn_neptunio.Name = "btn_neptunio";
             this.btn_neptunio.Size = new System.Drawing.Size(62, 55);
@@ -5217,8 +5888,9 @@
             // label338
             // 
             this.label338.AutoSize = true;
+            this.label338.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label338.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label338.Location = new System.Drawing.Point(449, 518);
+            this.label338.Location = new System.Drawing.Point(456, 520);
             this.label338.Name = "label338";
             this.label338.Size = new System.Drawing.Size(44, 15);
             this.label338.TabIndex = 444;
@@ -5227,6 +5899,7 @@
             // label339
             // 
             this.label339.AutoSize = true;
+            this.label339.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label339.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label339.Location = new System.Drawing.Point(468, 486);
             this.label339.Name = "label339";
@@ -5237,8 +5910,9 @@
             // label340
             // 
             this.label340.AutoSize = true;
+            this.label340.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label340.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label340.Location = new System.Drawing.Point(449, 487);
+            this.label340.Location = new System.Drawing.Point(449, 486);
             this.label340.Name = "label340";
             this.label340.Size = new System.Drawing.Size(21, 15);
             this.label340.TabIndex = 442;
@@ -5246,7 +5920,10 @@
             // 
             // btn_uranio
             // 
-            this.btn_uranio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_uranio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
+            this.btn_uranio.FlatAppearance.BorderSize = 0;
+            this.btn_uranio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_uranio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_uranio.Location = new System.Drawing.Point(445, 483);
             this.btn_uranio.Name = "btn_uranio";
             this.btn_uranio.Size = new System.Drawing.Size(62, 55);
@@ -5257,8 +5934,9 @@
             // label341
             // 
             this.label341.AutoSize = true;
+            this.label341.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label341.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label341.Location = new System.Drawing.Point(381, 518);
+            this.label341.Location = new System.Drawing.Point(376, 520);
             this.label341.Name = "label341";
             this.label341.Size = new System.Drawing.Size(65, 15);
             this.label341.TabIndex = 440;
@@ -5267,8 +5945,9 @@
             // label342
             // 
             this.label342.AutoSize = true;
+            this.label342.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label342.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label342.Location = new System.Drawing.Point(415, 486);
+            this.label342.Location = new System.Drawing.Point(402, 486);
             this.label342.Name = "label342";
             this.label342.Size = new System.Drawing.Size(36, 15);
             this.label342.TabIndex = 439;
@@ -5277,8 +5956,9 @@
             // label343
             // 
             this.label343.AutoSize = true;
+            this.label343.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label343.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label343.Location = new System.Drawing.Point(381, 487);
+            this.label343.Location = new System.Drawing.Point(379, 486);
             this.label343.Name = "label343";
             this.label343.Size = new System.Drawing.Size(21, 15);
             this.label343.TabIndex = 438;
@@ -5286,7 +5966,10 @@
             // 
             // btn_protactinio
             // 
-            this.btn_protactinio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_protactinio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
+            this.btn_protactinio.FlatAppearance.BorderSize = 0;
+            this.btn_protactinio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_protactinio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_protactinio.Location = new System.Drawing.Point(377, 483);
             this.btn_protactinio.Name = "btn_protactinio";
             this.btn_protactinio.Size = new System.Drawing.Size(62, 55);
@@ -5297,8 +5980,9 @@
             // label344
             // 
             this.label344.AutoSize = true;
+            this.label344.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label344.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label344.Location = new System.Drawing.Point(315, 518);
+            this.label344.Location = new System.Drawing.Point(326, 520);
             this.label344.Name = "label344";
             this.label344.Size = new System.Drawing.Size(35, 15);
             this.label344.TabIndex = 436;
@@ -5307,8 +5991,9 @@
             // label345
             // 
             this.label345.AutoSize = true;
+            this.label345.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label345.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label345.Location = new System.Drawing.Point(336, 487);
+            this.label345.Location = new System.Drawing.Point(335, 487);
             this.label345.Name = "label345";
             this.label345.Size = new System.Drawing.Size(38, 15);
             this.label345.TabIndex = 435;
@@ -5317,8 +6002,9 @@
             // label346
             // 
             this.label346.AutoSize = true;
+            this.label346.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label346.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label346.Location = new System.Drawing.Point(315, 487);
+            this.label346.Location = new System.Drawing.Point(314, 487);
             this.label346.Name = "label346";
             this.label346.Size = new System.Drawing.Size(21, 15);
             this.label346.TabIndex = 434;
@@ -5326,7 +6012,10 @@
             // 
             // btn_torio
             // 
-            this.btn_torio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_torio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
+            this.btn_torio.FlatAppearance.BorderSize = 0;
+            this.btn_torio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_torio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_torio.Location = new System.Drawing.Point(311, 483);
             this.btn_torio.Name = "btn_torio";
             this.btn_torio.Size = new System.Drawing.Size(62, 55);
@@ -5337,8 +6026,9 @@
             // label347
             // 
             this.label347.AutoSize = true;
+            this.label347.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label347.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label347.Location = new System.Drawing.Point(247, 518);
+            this.label347.Location = new System.Drawing.Point(254, 520);
             this.label347.Name = "label347";
             this.label347.Size = new System.Drawing.Size(43, 15);
             this.label347.TabIndex = 432;
@@ -5347,8 +6037,9 @@
             // label348
             // 
             this.label348.AutoSize = true;
+            this.label348.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label348.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label348.Location = new System.Drawing.Point(271, 486);
+            this.label348.Location = new System.Drawing.Point(269, 486);
             this.label348.Name = "label348";
             this.label348.Size = new System.Drawing.Size(36, 15);
             this.label348.TabIndex = 431;
@@ -5357,6 +6048,7 @@
             // label349
             // 
             this.label349.AutoSize = true;
+            this.label349.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
             this.label349.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label349.Location = new System.Drawing.Point(247, 487);
             this.label349.Name = "label349";
@@ -5366,13 +6058,17 @@
             // 
             // btn_actinio
             // 
-            this.btn_actinio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btn_actinio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(172)))), ((int)(((byte)(172)))));
+            this.btn_actinio.FlatAppearance.BorderSize = 0;
+            this.btn_actinio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_actinio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_actinio.Location = new System.Drawing.Point(243, 483);
             this.btn_actinio.Name = "btn_actinio";
             this.btn_actinio.Size = new System.Drawing.Size(62, 55);
             this.btn_actinio.TabIndex = 429;
             this.btn_actinio.Text = "Ac";
             this.btn_actinio.UseVisualStyleBackColor = false;
+            this.btn_actinio.Click += new System.EventHandler(this.btn_actinio_Click);
             // 
             // label350
             // 
@@ -5514,6 +6210,7 @@
             // label357
             // 
             this.label357.AutoSize = true;
+            this.label357.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(249)))), ((int)(((byte)(137)))));
             this.label357.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label357.Location = new System.Drawing.Point(1192, 69);
             this.label357.Name = "label357";
@@ -5524,6 +6221,7 @@
             // label358
             // 
             this.label358.AutoSize = true;
+            this.label358.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(249)))), ((int)(((byte)(137)))));
             this.label358.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label358.Location = new System.Drawing.Point(1192, 126);
             this.label358.Name = "label358";
@@ -5534,6 +6232,7 @@
             // label359
             // 
             this.label359.AutoSize = true;
+            this.label359.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(249)))), ((int)(((byte)(137)))));
             this.label359.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label359.Location = new System.Drawing.Point(1193, 186);
             this.label359.Name = "label359";
@@ -5544,6 +6243,7 @@
             // label360
             // 
             this.label360.AutoSize = true;
+            this.label360.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(249)))), ((int)(((byte)(137)))));
             this.label360.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label360.Location = new System.Drawing.Point(1193, 244);
             this.label360.Name = "label360";
@@ -5554,8 +6254,9 @@
             // label361
             // 
             this.label361.AutoSize = true;
+            this.label361.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(249)))), ((int)(((byte)(137)))));
             this.label361.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label361.Location = new System.Drawing.Point(1193, 302);
+            this.label361.Location = new System.Drawing.Point(1189, 301);
             this.label361.Name = "label361";
             this.label361.Size = new System.Drawing.Size(21, 15);
             this.label361.TabIndex = 510;
@@ -5564,12 +6265,24 @@
             // label362
             // 
             this.label362.AutoSize = true;
+            this.label362.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(249)))), ((int)(((byte)(137)))));
             this.label362.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label362.Location = new System.Drawing.Point(1190, 360);
+            this.label362.Location = new System.Drawing.Point(1188, 358);
             this.label362.Name = "label362";
             this.label362.Size = new System.Drawing.Size(28, 15);
             this.label362.TabIndex = 511;
             this.label362.Text = "117";
+            // 
+            // label268
+            // 
+            this.label268.AutoSize = true;
+            this.label268.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(136)))), ((int)(((byte)(124)))));
+            this.label268.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label268.Location = new System.Drawing.Point(1259, 11);
+            this.label268.Name = "label268";
+            this.label268.Size = new System.Drawing.Size(14, 15);
+            this.label268.TabIndex = 512;
+            this.label268.Text = "2";
             // 
             // Form1
             // 
@@ -5577,6 +6290,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(1382, 830);
+            this.Controls.Add(this.label268);
             this.Controls.Add(this.label362);
             this.Controls.Add(this.label361);
             this.Controls.Add(this.label360);
@@ -5736,8 +6450,7 @@
             this.Controls.Add(this.btn_neon);
             this.Controls.Add(this.label266);
             this.Controls.Add(this.label267);
-            this.Controls.Add(this.label268);
-            this.Controls.Add(this.button91);
+            this.Controls.Add(this.btn_helio);
             this.Controls.Add(this.label236);
             this.Controls.Add(this.label237);
             this.Controls.Add(this.btn_teneso);
@@ -6457,8 +7170,7 @@
         private System.Windows.Forms.Button btn_neon;
         private System.Windows.Forms.Label label266;
         private System.Windows.Forms.Label label267;
-        private System.Windows.Forms.Label label268;
-        private System.Windows.Forms.Button button91;
+        private System.Windows.Forms.Button btn_helio;
         private System.Windows.Forms.Button btn_kripton;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.Label label15;
@@ -6593,6 +7305,7 @@
         private System.Windows.Forms.Label label360;
         private System.Windows.Forms.Label label361;
         private System.Windows.Forms.Label label362;
+        private System.Windows.Forms.Label label268;
     }
 }
 
