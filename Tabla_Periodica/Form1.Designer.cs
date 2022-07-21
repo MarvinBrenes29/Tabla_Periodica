@@ -4622,6 +4622,7 @@
             this.label258.Size = new System.Drawing.Size(31, 15);
             this.label258.TabIndex = 359;
             this.label258.Text = "83,8";
+            this.label258.Click += new System.EventHandler(this.label258_Click);
             // 
             // label259
             // 
